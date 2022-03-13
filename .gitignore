@@ -1,0 +1,19 @@
+/.idea/
+/.metadata/
+/.settings/
+/bin/
+/classes/
+/information/
+/out/
+/RemoteSystemsTempFiles/
+/rewindscript/
+/.classpath
+/.data
+/Alpha World.sh
+/Build.sh
+/LICENSE
+/Login Engine.sh
+/minifs_console.bat
+/test.bat
+/data/accounts/
+/data/cache/
