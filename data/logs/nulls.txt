@@ -1,0 +1,1326 @@
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.npc.combat.NPCCombatDefinitions.getAgroRatio()I
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1077)
+	at net.nocturne.game.npc.NPC.getPossibleTargets(NPC.java:1118)
+	at net.nocturne.game.npc.NPC.checkAgressivity(NPC.java:1142)
+	at net.nocturne.game.npc.NPC.processNPC(NPC.java:272)
+	at net.nocturne.game.npc.NPC.processEntity(NPC.java:496)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:38)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.player.Player.getFullTitle(Z)Ljava/lang/String;
+	at net.nocturne.game.player.Appearence.generateAppearenceData(Appearence.java:144)
+	at net.nocturne.game.player.CombatDefinitions.processCombatStance(CombatDefinitions.java:792)
+	at net.nocturne.game.player.Player.processEntity(Player.java:1090)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:33)
+
+
+ERROR! THREAD NAME: World Thread IN: Process Entity
+java.lang.NoSuchMethodError: net.nocturne.game.player.Player.getFullTitle(Z)Ljava/lang/String;
+	at net.nocturne.game.player.Appearence.generateAppearenceData(Appearence.java:144)
+	at net.nocturne.game.player.CombatDefinitions.processCombatStance(CombatDefinitions.java:792)
+	at net.nocturne.game.player.Player.processEntity(Player.java:1090)
+	at net.nocturne.executor.WorldThread.run(WorldThread.java:33)
+

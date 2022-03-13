@@ -1,0 +1,5 @@
+Player handler, [12:49:06 EST]127.0.0.1 - danny [  has logged in. ]
+Player handler, [12:49:06 EST]127.0.0.1 - danny [  current controller has been stopped. ]
+World Thread, [01:02:57 EST]127.0.0.1 - danny [  has logged out. ]
+Player handler, [01:23:29 EST]127.0.0.1 - danny [  has logged in. ]
+World Thread, [02:03:30 EST]127.0.0.1 - danny [  has logged out. ]
