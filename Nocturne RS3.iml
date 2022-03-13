@@ -23,11 +23,6 @@
       <excludeFolder url="file://$MODULE_DIR$/information/dumps/sql" />
       <excludeFolder url="file://$MODULE_DIR$/information/further" />
       <excludeFolder url="file://$MODULE_DIR$/information/vars" />
-      <excludeFolder url="file://$MODULE_DIR$/.metadata" />
-      <excludeFolder url="file://$MODULE_DIR$/.settings" />
-      <excludeFolder url="file://$MODULE_DIR$/out" />
-      <excludeFolder url="file://$MODULE_DIR$/RemoteSystemsTempFiles" />
-      <excludeFolder url="file://$MODULE_DIR$/rewindscript" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library" exported="">

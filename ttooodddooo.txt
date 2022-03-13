@@ -10,3 +10,4 @@ fix monster hp (rock crabs)
 shantay pass shop
 fix right click trading
 fix green goblin armour (wearable) and red
+fix stuff
