@@ -30,13 +30,31 @@ public class Toolbelt implements Serializable {
 			{ 1351 }, // hatchet 18 chompy
 			{ 590 }, // tinderbox 19
 			{ -1 }, //20
-			{ 1267, 1269, 1273, 1271, 1275, 15259, 32646 }, // Pickaxes
-			{ 1349, 1353, 1357, 1355, 1359, 6739, 32645 }, //Hatchets
-			{ 8794 }, //saw
-			{ 4 }, //24
-			{ 9434 }, { 11065 }, { 1785 }, { 2976 }, { 1594 }, { 5343 },
-			{ 5325 }, { 5341 }, { 5329 }, { 233 }, { 952 }, { 305 }, { 975 },
-			{ 11323 }, { 2575 }, { 2576 }, { 13153 }, { 10150 }, {19675}, {10000} }; //43
+			{ 1267, 1269, 1273, 1271, 1275, 15259, 32646 }, // Pickaxes 21
+			{ 1349, 1353, 1357, 1355, 1359, 6739, 32645 }, //Hatchets 22
+			{ 8794 }, //saw 23
+			{ 4 }, //ammo mould 24
+			{ 9434 }, // bolt mould 25
+			{ 11065 }, // bracelet mould 26
+			{ 1785 },  // glassblowing pipe 27
+			{ 2976 },  // sickle mould 28
+			{ 1594 }, // unholy mould 29
+			{ 5343 }, // seed dibber 30
+			{ 5325 }, // gardening trowel 31
+			{ 5341 }, // rake 32
+			{ 5329 }, // secaters 33
+			{ 233 }, // pestle and mortar 34
+			{ 952 }, // spade 35
+			{ 305 }, // big fishing net 36
+			{ 975 }, // machete 37
+			{ 11323 }, // barbarian rod 38
+			{ 2575 }, //watch 39
+			{ 2576 }, // chart 40
+			{ 13153 }, // chain link mould 41
+			{ 10150 }, // noose wand 42
+			{19675}, // herbicide 43
+			{31188}  // seedicide 44
+			}; //34 / 58
 	private static final int[][] DUNG_TOOLBELT_ITEMS = new int[][] {
 			{ 16295, 16297, 16299, 16301, 16303, 16305, 16307, 16309, 16311,
 					16313, 16315 },
@@ -44,7 +62,7 @@ public class Toolbelt implements Serializable {
 					16379, 16381 }, { 17883 }, { 17678 }, { 17794 }, { 17754 },
 			{ 17446 }, { 17444 } };
 
-	private static final int[] VAR_IDS = new int[] { 1102, 1103 };
+	private static final int[] VAR_IDS = new int[] { 1102, 1103, 1104, 1105, 1106 };
 	private static final int[] DUNG_VAR_IDS = new int[] { 1107 };
 	private int[][] items;
 	private transient Player player;
@@ -59,7 +77,8 @@ public class Toolbelt implements Serializable {
 	public void setDefaultItems() {
 		for (int i = 0; i < items.length; i++)
 			for (int i2 = 0; i2 < items[i].length; i2++)
-				if (items[i][i2] != -1 && !(i == 0 && (i2 == 20 || i2 == 21)))
+				if (items[i][i2] != -1 && !(i == 0 && (i2 == 20 || i2 == 21 //|| *i2==42
+				 )))
 					items[i][i2] = 1;
 	}
 

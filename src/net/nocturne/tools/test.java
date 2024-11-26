@@ -30,6 +30,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import net.nocturne.utils.sql.packers.npcdropsSQL;
 
@@ -71,7 +72,7 @@ public class test {
             { 4 }, //24
             { 9434 }, { 11065 }, { 1785 }, { 2976 }, { 1594 }, { 5343 },
             { 5325 }, { 5341 }, { 5329 }, { 233 }, { 952 }, { 305 }, { 975 },
-            { 11323 }, { 2575 }, { 2576 }, { 13153 }, { 10150 }, {19675}, {10000} }; //43
+            { 11323 }, { 2575 }, { 2576 }, { 13153 }, { 10150 }, {19675}, {100000} }; //43
     private static final int[][] DUNG_TOOLBELT_ITEMS = new int[][] {
             { 16295, 16297, 16299, 16301, 16303, 16305, 16307, 16309, 16311,
                     16313, 16315 },
@@ -79,7 +80,7 @@ public class test {
                     16379, 16381 }, { 17883 }, { 17678 }, { 17794 }, { 17754 },
             { 17446 }, { 17444 } };
 
-    private static final int[] VAR_IDS = new int[] { 1102, 1103 };
+    private static final int[] VAR_IDS = new int[] { 1102, 1103, 1104 };
     private static final int[] DUNG_VAR_IDS = new int[] { 1107 };
     private static int[][] items;
     private transient Player player;
@@ -88,11 +89,18 @@ public class test {
     public static void main(String[] args) throws IOException {
         items = new int[][] { new int[TOOLBELT_ITEMS.length],
                 new int[DUNG_TOOLBELT_ITEMS.length] };
-        Item item = new Item(19675);
-        int[] slot = getItemSlot(item.getId());
-        System.out.println(slot[0]);
-        System.out.println("getItems()[slot0] = "+getItems()[slot[0]]);
+        Item item = new Item(100000);
+        int id = 100000;
+        int[] slot = getItemSlot(id);
+        System.out.println("Slot 0 = "+slot[0]);
+        System.out.println("Slot 1 = "+slot[1]);
+        //System.out.println("getItems()[slot0] = "+getItems()[slot[0]]);
+        System.out.println(getIncremment(slot[0]));
+        getItems()[slot[0]] = slot[1] + 1;
+        System.out.println("Slot [1]+1 = "+slot[1]+1);
 
+
+        refreshConfigs();
     }
     private static int[] getItemSlot(int id) {
         for (int i = 0; i < getToolbeltItems().length; i++)
@@ -107,6 +115,49 @@ public class test {
     public static int[] getItems() {
         return items[dungeonnering ? 1 : 0];
     }
+
+    private static void refreshConfigs() {
+
+        int[] varValues = new int[getVars().length];
+        System.out.println("Vars.length= " +getVars().length);
+        System.out.println(("varValues = "+ Arrays.toString(varValues)));
+        System.out.println("getItems length: "+getItems().length);
+        int indexIncremment = 0;
+        for (int i = 0; i < getItems().length; i++) {
+            System.out.println("Int # "+i);
+            System.out.println(getItems()[i]);
+            if (getItems()[i] != 0) {
+                int index = getVarIndex(indexIncremment);
+                System.out.println("getvarindex = "+getVarIndex(indexIncremment));
+                System.out.println("Index = "+index);
+                varValues[index] |= getItems()[i] << (indexIncremment - (index * 28));
+                System.out.println("Var Values = "+varValues[index]);
+                System.out.println("getItems[i] = "+getItems()[i]);
+                System.out.println("index inc - index * 28 = "+(indexIncremment - (index * 28)));
+
+            }
+            indexIncremment += getIncremment(i);
+        }
+        for (int i = 0; i < getVars().length; i++) {
+            System.out.println("PLAYER WRITE:");
+            System.out.println("Get vars = " + getVars()[i]);
+            System.out.println(("Var Values = "+varValues[i]));
+            //player.getVarsManager().sendVar(getVars()[i], varValues[i]);
+        }
+    }
+
+    public static int[] getVars() {
+        return dungeonnering ? DUNG_VAR_IDS : VAR_IDS;
+    }
+    private static int getVarIndex(int i) {
+        return i / 28;
+    }
+    public static int getIncremment(int slot) {
+        if (!dungeonnering)
+            return slot == 20 || slot == 21 ? 4 : 1; //axes or pickaaxes
+        return slot == 0 ? 5 : slot == 1 ? 4 : 1;
+    }
+
     }
 
 
