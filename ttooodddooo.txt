@@ -1,0 +1,13 @@
+ADD AURAS AND LOYALTY POINTS
+PORTABLES MAKE THEM WORK
+
+DISABLE PUZZLE CLUES
+EMOTE CLUES WRONG EMOTE
+FIX THE NEW COORDS FOR CLUES
+
+make players drop items
+fix monster hp (rock crabs)
+shantay pass shop
+fix right click trading
+fix green goblin armour (wearable) and red
+fix stuff

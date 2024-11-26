@@ -1,0 +1,15 @@
+<img=9><col=00FF00><shad=000000>Server Information<img=9>
+ 
+<col=0000FF>Welcome to ArkScape, a wonderful world full of joy and imagination!
+<col=0000FF>We are currently under development, and appreciate you patience.
+<col=0000FF>A lot of content works, including skills and encounters, however,
+<col=0000FF>We are still fixing a lot of bugs during this time. 
+
+<col=0000FF>If you come across a bug, please use the form on this menu to
+<col=0000FF> submit it to us. Your help is greatly appreciated!
+<col=0000FF> A list of bugs can be found on the website. 
+
+TODO:
+<col=green>Get GE Working
+Fix NPC Trade menus / shops
+Get website working

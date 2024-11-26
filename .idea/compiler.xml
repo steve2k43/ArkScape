@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/net/nocturne/utils/sql/packers/npcdropsSQL_BACKUP.java" />
+      <file url="file://$PROJECT_DIR$/src/net/nocturne/game/npc/Drop_BACKUP.java" />
+      <file url="file://$PROJECT_DIR$/src/net/nocturne/game/npc/Drops_BACKUP.java" />
+      <file url="file://$PROJECT_DIR$/src/net/nocturne/game/npc/NPC_BACKUP.java" />
+      <directory url="file://$PROJECT_DIR$/src/net - Copy" includeSubdirectories="true" />
+    </excludeFromCompile>
+  </component>
+</project>
