@@ -45,6 +45,7 @@ public class InterfaceManager {
 	public static final int TOTAL_SCREEN_OVERLAY_COMPONENT_ID = 15;
 	public static final int SCREEN_BACKGROUND_INTER_COMPONENT_ID = 515;
 	public static final int SCREEN_BACKGROUND_COMPONENT_ID = -1;
+	public static boolean ischecked=false;
 
 	/*
 	 * 0 - skill inter 1 - active task 2 - inventory 3 - equipment 4 - prayer
@@ -218,6 +219,7 @@ public class InterfaceManager {
 	}
 
 	public void sendCentralInterface(int interfaceId) {
+
 		setInterface(false, resizableScreen ? RESIZABLE_WINDOW_ID : FIXED_WINDOW_ID, CENTRAL_INTERFACE_COMPONENT_ID,
 				interfaceId);
 		refreshInterface(false);
@@ -310,6 +312,8 @@ public class InterfaceManager {
 			unlockScreen();
 			unlockSubscribe();
 			customTab();
+			DifficultySelect();
+			taskTab();
 			openGameTab(2);
 			sendTreasureHunter();
 			player.refreshInterfaceVars();
@@ -340,7 +344,141 @@ public class InterfaceManager {
 		}
 
 	}
+	private void taskTab(){
+		int interId = 1083;
+		player.getPackets().sendHideIComponent(interId, 148, true);
+		player.getPackets().sendHideIComponent(interId, 240, true);
+		player.getPackets().sendHideIComponent(interId, 245, true);
+		player.getPackets().sendHideIComponent(interId, 246, true);
+		player.getPackets().sendHideIComponent(interId, 255, true);
+		player.getPackets().sendHideIComponent(interId, 256, true);
+		player.getPackets().sendHideIComponent(interId, 148, true);
+		player.getPackets().sendHideIComponent(interId, 396, true);
+		player.getPackets().sendHideIComponent(interId, 397, true);
+		player.getPackets().sendHideIComponent(interId, 250, true);
+		player.getPackets().sendHideIComponent(interId, 391, true);
+		player.getPackets().sendHideIComponent(interId, 244, true);
+		player.getPackets().sendHideIComponent(interId, 254, true);
+		player.getPackets().sendHideIComponent(interId, 395, true);
+		player.getPackets().sendIComponentText(interId, 152, "Playtime:");
+		player.getPackets().sendIComponentText(interId, 85, "Player Info");
+		player.getPackets().sendIComponentText(interId, 87, "Player Info goes here");
 
+		setWindowInterface(148, 227); //task manager
+		//button text
+		player.getPackets().sendIComponentText(interId, 136, "Player Info");
+		player.getPackets().sendIComponentText(interId, 132, "Server Info");
+		player.getPackets().sendIComponentText(interId, 128, "Button 1");
+		player.getPackets().sendIComponentText(interId, 124, "Button 2");
+		player.getPackets().sendIComponentText(interId, 120, "Button 3");
+		player.getPackets().sendIComponentText(interId, 116, "Button 4");
+		player.getPackets().sendIComponentText(interId, 112, "Button 5");
+		player.getPackets().sendIComponentText(interId, 108, "Button 6");
+		player.getPackets().sendIComponentText(interId, 434, "Button 7");
+		player.getPackets().sendIComponentText(interId, 445, "Button 8");
+		player.getPackets().sendIComponentText(interId, 456, "Button 9");
+
+		player.getPackets().sendIComponentText(interId, 201, + player.days + " d, " + player.hours + " h, " + player.minutes + " mins");
+	}
+	public boolean ischecked(){ return ischecked;}
+	public void setischecked(boolean a){
+		ischecked=a;
+	}
+	public void DifficultySelect(){
+		ischecked=false;
+			player.getPackets().sendIComponentText(292, 132, "You have not selected a difficulty!");
+			player.getPackets().sendHideIComponent(292, 137, true);
+
+
+		player.getPackets().sendHideIComponent(292, 13, true);
+		player.getPackets().sendHideIComponent(292, 105, true);
+		player.getPackets().sendHideIComponent(292, 106, true);
+		player.getPackets().sendHideIComponent(292, 107, true);
+		player.getPackets().sendHideIComponent(292, 108, true);
+		player.getPackets().sendHideIComponent(292, 109, true);
+		player.getPackets().sendHideIComponent(292, 110, true);
+		player.getPackets().sendHideIComponent(292, 111, true);
+		player.getPackets().sendHideIComponent(292, 112, true);
+		player.getPackets().sendHideIComponent(292, 113, true);
+		player.getPackets().sendHideIComponent(292, 114, true);
+		player.getPackets().sendHideIComponent(292, 119, true);
+		player.getPackets().sendHideIComponent(292, 120, true);
+
+		player.getPackets().sendHideIComponent(292, 26, true);
+		player.getPackets().sendHideIComponent(292, 31, true);
+		player.getPackets().sendHideIComponent(292, 32, true);
+
+		player.getPackets().sendHideIComponent(292, 61, true);
+		player.getPackets().sendHideIComponent(292, 66, true);
+		player.getPackets().sendHideIComponent(292, 67, true);
+
+		player.getPackets().sendHideIComponent(292, 89, true);
+		player.getPackets().sendHideIComponent(292, 94, true);
+		player.getPackets().sendHideIComponent(292, 95, true);
+
+		player.getPackets().sendHideIComponent(292, 54, true);
+		player.getPackets().sendHideIComponent(292, 59, true);
+		player.getPackets().sendHideIComponent(292, 60, true);
+
+		player.getPackets().sendHideIComponent(292, 82, true);
+		player.getPackets().sendHideIComponent(292, 87, true);
+		player.getPackets().sendHideIComponent(292, 88, true);
+
+		player.getPackets().sendHideIComponent(292, 47, true);
+		player.getPackets().sendHideIComponent(292, 52, true);
+		player.getPackets().sendHideIComponent(292, 53, true);
+
+		player.getPackets().sendHideIComponent(292, 75, true);
+		player.getPackets().sendHideIComponent(292, 80, true);
+		player.getPackets().sendHideIComponent(292, 81, true);
+
+		player.getPackets().sendHideIComponent(292, 40, true);
+		player.getPackets().sendHideIComponent(292, 45, true);
+		player.getPackets().sendHideIComponent(292, 46, true);
+
+		player.getPackets().sendHideIComponent(292, 68, true);
+		player.getPackets().sendHideIComponent(292, 73, true);
+		player.getPackets().sendHideIComponent(292, 74, true);
+
+		player.getPackets().sendHideIComponent(292, 33, true);
+		player.getPackets().sendHideIComponent(292, 38, true);
+		player.getPackets().sendHideIComponent(292, 39, true);
+
+		player.getPackets().sendIComponentText(292, 14, "Please Choose A Difficulty");
+		player.getPackets().sendIComponentText(292, 117, "E        N        H");
+
+		player.getPackets().sendIComponentText(292, 27, Settings.EASY_COLOR+"(E) Easy Mode");
+		player.getPackets().sendIComponentText(292, 28, "XP: x"+Settings.XP_RATE_EASY);
+		player.getPackets().sendIComponentText(292, 62, "");
+		player.getPackets().sendIComponentText(292, 63, "Drop Rate: x"+Settings.DROP_CHANCE_EASY);
+
+		player.getPackets().sendIComponentText(292, 90, Settings.NORMAL_COLOR+"(N) Normal Mode");
+		player.getPackets().sendIComponentText(292, 91, "XP: x"+Settings.XP_RATE_NORMAL);
+		player.getPackets().sendIComponentText(292, 55, "");
+		player.getPackets().sendIComponentText(292, 56, "Drop Rate: x"+Settings.DROP_CHANCE_NORMAL);
+
+		player.getPackets().sendIComponentText(292, 83, Settings.HARD_COLOR+"(H) Hard Mode");
+		player.getPackets().sendIComponentText(292, 84, "XP: x"+Settings.XP_RATE_HARD);
+		player.getPackets().sendIComponentText(292, 48, "");
+		player.getPackets().sendIComponentText(292, 49, "Drop Rate: x"+Settings.DROP_CHANCE_HARD);
+
+		player.getPackets().sendIComponentText(292, 99, "Choose a difficulty");
+		player.getPackets().sendIComponentText(292, 116, "");
+		player.getPackets().sendIComponentText(292, 100, "Selected Mode:");
+		player.getPackets().sendIComponentText(292, 101, "None");
+
+		player.getPackets().sendIComponentText(292, 126, "");
+		player.getPackets().sendIComponentText(292, 127, "");
+		player.getPackets().sendIComponentText(292, 128, "");
+
+		player.getPackets().sendIComponentText(292, 69, "");
+		player.getPackets().sendIComponentText(292, 72, "");
+		player.getPackets().sendIComponentText(292, 41, "");
+		player.getPackets().sendIComponentText(292, 34, "");
+		player.getPackets().sendIComponentText(292, 76, "");
+
+
+	}
 	private void customTab() {
 		long ticks = Engine.currentTime - Utils.currentTimeMillis();
 		int minutes = Math.abs((int) ((ticks / (1000 * 60)) % 60));
@@ -350,6 +488,11 @@ public class InterfaceManager {
 				"<col=FF0000>Playtime:</col> <col=FFFFFF>"
 						+ (player.days + " d, " + player.hours + " h, " + player.minutes + " mins")
 						+ "<br><col=FF0000>Donate points:</col> <col=FFFFFF>" + "<br>");
+		player.getPackets().sendHideIComponent(850, 2, true);
+		player.getPackets().sendHideIComponent(850, 27, true);
+		player.getPackets().sendHideIComponent(850, 46, true);
+		player.getPackets().sendIComponentText(850, 45, "TEST 1");
+		player.getPackets().sendIComponentText(850, 44, "TEST 2");
 		player.getPackets().sendIComponentText(506, 4, "Server Info");
 		player.getPackets().sendIComponentText(506, 6, "Website");
 		player.getPackets().sendIComponentText(506, 8, "Vote");
@@ -372,8 +515,10 @@ public class InterfaceManager {
 					"       Nocturne Staff     Rank: <img=1><col=ff0000>Hidden Admin</col>");
 
 			player.getPackets().sendIComponentText(506, 2, "        Nocturne Staff       Rank: <col=ffffff>"+a);
-		player.getPackets().sendIComponentText(930, 10, Settings.SERVER_NAME);
-		player.getPackets().sendIComponentText(930, 16,
+			//player.getInterfaceManager().setInterface(false, 506, 4, 930);
+			//setWindowInterface(0, 930);
+			player.getPackets().sendIComponentText(930, 10, Settings.SERVER_NAME);
+			player.getPackets().sendIComponentText(930, 16,
 				"<col=FF0000>Uptime:</col> <<col=FFFFFF>" + (days + " d, " + hours + " h, " + minutes + " mins")
 						+ "<br>" + "" + "<col=FF0000>Playtime:</col> <col=FFFFFF>"
 						+ (player.days + " d, " + player.hours + " h, " + player.minutes + " mins")
@@ -512,10 +657,11 @@ public class InterfaceManager {
 	public void sendNISScreenInterfaces() {
 		setDefaultRootInterface();
 		sendGameMapInterface();// Game Map
-
 		setWindowInterface(20, 1482);
 		setWindowInterface(253, 1466);
-		setWindowInterface(264, 506);
+		//setWindowInterface(264, 850); //task manager
+		setWindowInterface(264, 506); //task manager
+		//setWindowInterface(264, 1083); //task manager
 		setWindowInterface(91, 1473);
 		setWindowInterface(166, 1464);
 		setWindowInterface(188, 1458);
@@ -527,10 +673,10 @@ public class InterfaceManager {
 		setWindowInterface(319, 1417);
 		setWindowInterface(341, 231);
 		setWindowInterface(308, 1519);
-		// setWindowInterface(362, 1588); runemetrics
+		 //setWindowInterface(362, 1588); //runemetrics
 		setWindowInterface(375, 1678);
 		setWindowInterface(1019, 190);
-		setWindowInterface(43, 1431);
+		setWindowInterface(43, 1431); // game menu bar
 		setWindowInterface(486, 568);
 		setWindowInterface(73, 1465);
 		setInterface(true, 1465, 10, 1504);
@@ -654,14 +800,15 @@ public class InterfaceManager {
 
 	public void setInterface(boolean clickThrought, int parentInterfaceId, int parentInterfaceComponentId,
 			int interfaceId) {
+		System.out.println("SET interface: "+interfaceId);
 		if (Settings.DEBUG) {
 			if (parentInterfaceId != rootInterface && !containsInterface(parentInterfaceId))
 				System.out.println("The parent interface isnt setted so where are u trying to set it? "
 						+ parentInterfaceId + ", " + parentInterfaceComponentId + ", " + interfaceId);
-			/*
-			 * if(containsInterface(interfaceId)) System.out.println(
-			 * "Already have "+interfaceId+" in another component.");
-			 */
+
+			  if(containsInterface(interfaceId)) System.out.println(
+			  "Already have "+interfaceId+" in another component.");
+
 		}
 		// even so lets set it for now
 		int parentUID = getComponentUId(parentInterfaceId, parentInterfaceComponentId);
@@ -1086,26 +1233,17 @@ public class InterfaceManager {
 				player.getPackets().sendIComponentSettings(1721, 7, 0, 28, 14);
 			}
 		} else if (menu == 7) {// extras
+			System.out.println("OPENED MENU 7");
 			if (subMenu == 1) {
+				//setMenuInterface(0, 1083);
 				setMenuInterface(0, 1607);
 			}
 		} else if (menu == 8) {// runemetrics
+			System.out.println("OPENED MENU 8");
 			if (subMenu == 1) {// welcome
-				setMenuInterface(0, 1740);
-			} else if (subMenu == 2) {// metrics
-				setMenuInterface(0, 1681);
-				setMenuInterface(1, 1739);
-				setMenuInterface(2, 1682);
-				setMenuInterface(3, 1738);
-			} else if (subMenu == 3) {// graphs
-				setMenuInterface(0, 1733);
-				setMenuInterface(1, 1737);
-				setMenuInterface(2, 1736);
-			} else if (subMenu == 4) {// drops
-				setMenuInterface(0, 1679);
-				setMenuInterface(1, 1735);
-				setMenuInterface(2, 1734);
+
 			}
+
 		} else if (menu == 9) {// settings
 			if (subMenu == 1) {// gameplay
 				setMenuInterface(0, 1443);
@@ -1149,6 +1287,7 @@ public class InterfaceManager {
 	}
 
 	public void closeMenu() {
+		System.out.println("CLOSED MENU FROM FUNTIONC");
 		setMenu(-1);
 		player.getActionbar().unlockShortcuts(false);
 	}

@@ -88,14 +88,18 @@ import net.nocturne.utils.ShopsHandler;
 import net.nocturne.utils.Utils;
 
 public class ButtonHandler {
-
+	static int[][] vars = new int[3][100000];
 	public static void handleButtons(final Player player, InputStream stream,
 			final int packetId) throws ClassNotFoundException, IOException {
-
+		System.out.println("PACKET ID: "+packetId);
 		final int slotId = stream.readUnsignedShortLE();
 		final int interfaceHash = stream.readInt();
 		final int itemId = stream.readUnsignedShortLE128();
 		final int interfaceId = interfaceHash >> 16;
+		System.out.println("Slot id = "+slotId);
+		System.out.println("interface Hash = "+interfaceHash);
+		System.out.println("itemID = "+itemId);
+		System.out.println("interface ID= "+interfaceId);
 		if (Utils.getInterfaceDefinitionsSize() <= interfaceId)
 			return;
 		final int componentId = interfaceHash - (interfaceId << 16);
@@ -114,7 +118,7 @@ public class ButtonHandler {
 						"forums");
 		}
 		// cant use inter while locked, temporarly gotta change 21
-		if (player.isDead() || player.isLocked()) {
+		if (player.isDead() || player.isLocked() && interfaceId!=292) {
 			if (player.getCutscenesManager().hasCutscene()
 					&& player.getCutscenesManager().getCurrent()
 							.allowSkipCutscene() && interfaceId == 1477
@@ -265,12 +269,15 @@ public class ButtonHandler {
 				else if (packetId == WorldPacketsDecoder.ACTION_BUTTON5_PACKET)
 					player.getInterfaceManager().getWealth();
 			} else if (componentId == 14) {
+				//possible problem
 				if (packetId == WorldPacketsDecoder.ACTION_BUTTON1_PACKET)
 					player.getSkills().switchXPDisplay();
 				else if (packetId == WorldPacketsDecoder.ACTION_BUTTON2_PACKET)
 					player.getSkills().switchXPPopup();
-				else if (packetId == WorldPacketsDecoder.ACTION_BUTTON3_PACKET)
+				else if (packetId == WorldPacketsDecoder.ACTION_BUTTON3_PACKET) {
+					System.out.println("ERROR 1");
 					player.getInterfaceManager().openMenu(8, 2);
+				}
 				else if (packetId == WorldPacketsDecoder.ACTION_BUTTON4_PACKET)
 					player.switchMakeXProgressWindow();
 			} else if (componentId == 27) {
@@ -773,8 +780,10 @@ public class ButtonHandler {
 					player.getActionbar().setCurrentBar(3);
 				else if (packetId == WorldPacketsDecoder.ACTION_BUTTON5_PACKET)
 					player.getActionbar().setCurrentBar(4);
-				else if (packetId == WorldPacketsDecoder.ACTION_BUTTON7_PACKET)
+				else if (packetId == WorldPacketsDecoder.ACTION_BUTTON7_PACKET) {
 					player.getInterfaceManager().openMenu(8, 3);
+					System.out.println("ERROR 2");
+				}
 			} else if (componentId == 254)
 				player.getActionbar().switchLockBar();
 			else if (componentId == 256) {
@@ -810,7 +819,10 @@ public class ButtonHandler {
 							});
 				}
 			}
-		} else if (interfaceId == 1477) {
+		} else if (interfaceId == 1477) { //1234
+			System.out.println("FOUND INTERFACE 1477");
+			System.out.println("comp ID = "+componentId);
+			System.out.println("slot ID = "+slotId);
 			if (componentId == 3)
 				player.getInterfaceManager().closeMenu();
 			else if (componentId == 76)
@@ -898,7 +910,9 @@ public class ButtonHandler {
 			player.getInterfaceManager().sendCustom(player);
 
 			if (componentId == 5) {// hero f1
+				System.out.println(packetId);
 				switch (packetId) {
+
 				case WorldPacketsDecoder.ACTION_BUTTON1_PACKET:
 					player.getInterfaceManager().openMenu(0,
 							player.getSubMenus()[0] + 1);
@@ -920,7 +934,7 @@ public class ButtonHandler {
 							player.getSubMenus()[4] + 1);
 					break;
 				case WorldPacketsDecoder.ACTION_BUTTON9_PACKET:
-					player.getInterfaceManager().openExtras();
+					//player.getInterfaceManager().openExtras();
 					break;
 				case WorldPacketsDecoder.ACTION_BUTTON6_PACKET:
 					player.getInterfaceManager().openRS3Helper();
@@ -951,11 +965,28 @@ public class ButtonHandler {
 			else if (componentId == 12) { // open settings
 				if (player.getInterfaceManager().isMenuOpen())
 					player.getInterfaceManager().closeMenu();
-			} else if (componentId == 13)
+			} else if (componentId == 13){
+				System.out.println("SET MENU 7 HERE");
+				//player.getInterfaceManager().openMenu(7, player.getSubMenus()[7]+1);
 				player.getInterfaceManager().openExtras();
-			else if (componentId == 14) {
-				player.getInterfaceManager().openMenu(8,
-						player.getSubMenus()[8] + 1);
+				//player.getInterfaceManager().sendCentralInterface(1083);
+			}
+				//player.getInterfaceManager().openExtras();
+			else if (componentId == 14) { //menu 8
+				System.out.println("SET MENU 8 HERE");
+		//		if(player.getInterfaceManager().isMenuOpen()) {
+					player.getInterfaceManager().closeMenu();
+			//		System.out.println("CLOSING MENU");
+				//}
+				//player.getInterfaceManager().setMenuInterface(0, 1083);
+				//player.getSubMenus()[8]=1;
+				//player.getInterfaceManager().closeMenu();
+				//System.out.println("SUBMENU SETTTING IS: "+player.getSubMenus()[8]);
+				//player.getInterfaceManager().openMenu(8,
+				//		player.getSubMenus()[8]+1);
+				//BREAKS FOR SOME REASON
+				//THINKS MENU IS STILLL OPEN
+				// STEMS FROM THIS COMMAND
 			} else if (componentId == 36)
 				player.getInterfaceManager().openRibbonSetup();
 		} else if (interfaceId == 970) {
@@ -1191,7 +1222,7 @@ public class ButtonHandler {
 				player.getInterfaceManager().openMenu(4,
 						player.getSubMenus()[4] + 1);
 			} else if (componentId == 110 || componentId == 139) {
-				player.getInterfaceManager().openExtras();
+				//player.getInterfaceManager().openExtras();
 			} else if (componentId == 34) {
 				player.getInterfaceManager().openEditMode();
 			} else if (componentId == 42) {
@@ -2739,6 +2770,7 @@ public class ButtonHandler {
 				else
 					player.getFamiliar().sendDeath(player);
 			} else if (componentId == 13) {
+				System.out.println("OH NO");
 				player.getPackets().sendHideIComponent(662, 8, true);
 				player.getPackets().sendHideIComponent(662, 19, false);
 				player.getPackets().sendIComponentSettings(662, 160, 0, 50, 62);
@@ -3469,6 +3501,83 @@ public class ButtonHandler {
 		} else if (interfaceId == 1311)
 			player.getCosmeticsManager().handleButtons(componentId, slotId,
 					itemId, packetId);
+
+		if(interfaceId==292){
+			player.getTemporaryAttributtes().put("newchar", 0);
+			String mode1 = "";
+			int mode = 0;
+			boolean ischecked = player.getInterfaceManager().ischecked();
+			if(player.getTemporaryAttributtes().get("mode")!=null)
+				mode = (int) player.getTemporaryAttributtes().get("mode");
+			if(ischecked==false){
+				player.getPackets().sendIComponentText(292, 132, "You have not selected a difficulty!");
+				player.getPackets().sendHideIComponent(292, 137, true);
+			} else {
+				player.getPackets().sendIComponentText(292, 132, "Are you sure you want to play on "+mode1+" mode?");
+				player.getPackets().sendHideIComponent(292, 137, false);
+			}
+			if(componentId==102){
+				player.getInterfaceManager().setischecked(true);
+				player.getPackets().sendIComponentText(292, 100, "Selected Mode:");
+				player.getPackets().sendIComponentText(292, 101, "Easy");
+				player.getTemporaryAttributtes().put("mode", 1);
+
+			}
+			if(componentId==103){
+				player.getInterfaceManager().setischecked(true);
+				player.getPackets().sendIComponentText(292, 100, "Selected Mode:");
+				player.getPackets().sendIComponentText(292, 101, "Normal");
+				player.getTemporaryAttributtes().put("mode", 2);
+			}
+			if(componentId==104){
+
+				player.getInterfaceManager().setischecked(true);
+				player.getPackets().sendIComponentText(292, 100, "Selected Mode:");
+				player.getPackets().sendIComponentText(292, 101, "Hard");
+				player.getTemporaryAttributtes().put("mode", 3);
+
+			}
+
+
+			if(componentId==122){
+				player.getPackets().sendIComponentText(292, 132, "You have not selected a difficulty!");
+				player.getPackets().sendHideIComponent(292, 137, true);
+				System.out.println("IS CHECKED: " + ischecked);
+				if(ischecked) {
+					if(mode == 1)
+						mode1="Easy";
+					if(mode == 2)
+						mode1="Normal";
+					if(mode == 3)
+						mode1="Hard";
+
+					player.getPackets().sendIComponentText(292, 132, "Are you sure you want to play on "+mode1+" mode?");
+					player.getPackets().sendHideIComponent(292, 137, false);
+					System.out.println("IS CHECKED: " + ischecked);
+				} else {
+					player.getPackets().sendIComponentText(292, 132, "You have not selected a difficulty!");
+					player.getPackets().sendHideIComponent(292, 137, true);
+					System.out.println("IS CHECKED: " + ischecked);
+				}
+
+			}
+			if(componentId==137){
+				if(ischecked==false){
+					System.out.println("Error Selecting");
+				} else {
+					System.out.println("YESSSSSSSSSSS");
+					player.setDifficulty(mode);
+					player.getInterfaceManager().closeMenu();
+					player.getInterfaceManager().removeInterface(292);
+					player.getInterfaceManager().removeCentralInterface();
+					player.getInterfaceManager().removeInterfaceByParent(292);
+					player.getTemporaryAttributtes().put("newchar", 1);
+					player.unlock();
+					player.getDialogueManager().startDialogue("ServerGuide");
+				}
+			}
+
+		}
 	}
 
 	public static boolean sendRemove(Player player, int slotId, boolean toBank) {

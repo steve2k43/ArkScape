@@ -80,7 +80,7 @@ public class test {
                     16379, 16381 }, { 17883 }, { 17678 }, { 17794 }, { 17754 },
             { 17446 }, { 17444 } };
 
-    private static final int[] VAR_IDS = new int[] { 1102, 1103, 1104 };
+    private static final int[] VAR_IDS = new int[] { 1102, 1103 };
     private static final int[] DUNG_VAR_IDS = new int[] { 1107 };
     private static int[][] items;
     private transient Player player;
@@ -89,12 +89,13 @@ public class test {
     public static void main(String[] args) throws IOException {
         items = new int[][] { new int[TOOLBELT_ITEMS.length],
                 new int[DUNG_TOOLBELT_ITEMS.length] };
-        Item item = new Item(100000);
-        int id = 100000;
+
+        int id = 1597;
+        Item item = new Item(id);
         int[] slot = getItemSlot(id);
         System.out.println("Slot 0 = "+slot[0]);
         System.out.println("Slot 1 = "+slot[1]);
-        //System.out.println("getItems()[slot0] = "+getItems()[slot[0]]);
+        System.out.println("getItems()[slot0] = "+getItems()[slot[0]]);
         System.out.println(getIncremment(slot[0]));
         getItems()[slot[0]] = slot[1] + 1;
         System.out.println("Slot [1]+1 = "+slot[1]+1);

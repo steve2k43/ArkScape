@@ -13,11 +13,28 @@ public class ServerGuide extends Dialogue {
 
 	@Override
 	public void start() {
-		stage = 1;
+		int newchar = 0;
+		String getmode="";
 		player.lock();
-		sendNPCDialogue(945, HAPPY, "Welcome to <col=55728b>"
-				+ Settings.SERVER_NAME + "</col>, " + player.getDisplayName()
-				+ ".");
+		if(player.getTemporaryAttributtes().get("newchar")!=null)
+			newchar = (int) player.getTemporaryAttributtes().get("newchar");
+		System.out.println(newchar);
+		if(newchar==0) {
+
+			stage=1;
+			sendNPCDialogue(945, HAPPY, "Welcome to <col=55728b>"
+					+ Settings.SERVER_NAME + "</col>, " + player.getDisplayName()
+					+ ".");
+		} else {
+			if(player.getDifficulty()==0){getmode="Easy";}
+			if(player.getDifficulty()==1){getmode="Normal";}
+			if(player.getDifficulty()==2){getmode="Hard";}
+			stage = 30;
+			sendNPCDialogue(945, HAPPY,
+					"You have chosen to play in "+getmode+" mode! If you wish to change this in the future, you can do this by talking to the Makover Mage. Please bare in mind, you will lose your current progress though!");
+
+		}
+
 	}
 
 	@Override
@@ -204,11 +221,13 @@ public class ServerGuide extends Dialogue {
 				stage = 19;
 				break;
 			case 19:
-				sendOptionsDialogue(
-						"Please choose a difficulty",
-						"EASY MODE - 50 x EXP (x1 drop chance)",
-						"NORMAL MODE - 10 x EXP (x1.1 drop chance)", "EXTREME MODE - 3 x EXP (x1.3 drop chance)");
-				stage = 20;
+				//sendOptionsDialogue(
+				//		"Please choose a difficulty",
+				//		"EASY MODE - 50 x EXP (x1 drop chance)",
+				//		"NORMAL MODE - 10 x EXP (x1.1 drop chance)", "EXTREME MODE - 3 x EXP (x1.3 drop chance)");
+				player.getInterfaceManager().sendCentralInterface(292);
+				player.getInterfaceManager().DifficultySelect();
+				player.getDialogueManager().finishDialogue();
 				break;
 			case 20:
 				switch (componentId) {
@@ -227,8 +246,7 @@ public class ServerGuide extends Dialogue {
 						break;
 				}
 			case 30:
-				System.out.println("DIFFICULTY SET TO: "+difficulty);
-				player.setDifficulty(difficulty);
+				System.out.println("DIFFICULTY SET TO: "+player.getDifficulty());
 				player.setTitleColor("green");
 				sendNPCDialogue(945, HAPPY,
 						"You will find some useful tools i have added to your toolbelt. You can use these to help gather supplies around this area.");
@@ -238,6 +256,7 @@ public class ServerGuide extends Dialogue {
 				sendNPCDialogue(945, HAPPY,
 						"I suggest heading to the mine to make yourself some weapons and armour, or alternatively you can fletch a bow and arrow using the local trees!");
 				stage = 0;
+				player.getTemporaryAttributtes().put("newchar", 0);
 				break;
 		}
 	}

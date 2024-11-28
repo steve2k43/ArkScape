@@ -9,7 +9,6 @@ import net.nocturne.game.World;
 import net.nocturne.game.item.Item;
 import net.nocturne.game.item.ItemIdentifiers;
 import net.nocturne.game.item.actions.PrizedPendant.Pendants;
-import net.nocturne.game.item.actions.StrangeRock;
 import net.nocturne.game.npc.randomEvent.CombatEventNPC;
 import net.nocturne.game.player.CompletionistCapeManager.Requirement;
 import net.nocturne.game.player.GamePointManager.GPR;
@@ -507,7 +506,7 @@ public final class Skills implements Serializable {
 			else {
 				if(player.getDifficulty()==1){ exp *= Settings.XP_RATE_EASY; }
 				if(player.getDifficulty()==2){ exp *= Settings.XP_RATE_NORMAL; }
-				if(player.getDifficulty()==3){ exp *= Settings.XP_RATE_EXTREME; }
+				if(player.getDifficulty()==3){ exp *= Settings.XP_RATE_HARD; }
 				//exp *= Settings.XP_RATE;
 			}
 		}

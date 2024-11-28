@@ -177,8 +177,11 @@ public class WarriorsGuild extends Controller {
 	 */
 	public static boolean canEnter(Player player) {
 		if (player.getSkills().getLevelForXp(Skills.STRENGTH)
-				+ player.getSkills().getLevelForXp(Skills.ATTACK) < 130)
+				+ player.getSkills().getLevelForXp(Skills.ATTACK) < 130) {
+			player.getPackets().sendGameMessage(
+					"You need a combined Strength and Attack level of 130 to enter!");
 			return false;
+		}
 		if (player.getPrayer().isAncientCurses()
 				&& player.getPrayer().hasPrayersOn()) {
 			player.getPrayer().closeAllPrayers(true);

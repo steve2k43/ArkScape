@@ -1,6 +1,7 @@
 package net.nocturne.game.player;
 
 import java.io.Serializable;
+import java.util.Arrays;
 
 import net.nocturne.game.item.Item;
 import net.nocturne.game.player.actions.skills.woodcutting.Woodcutting;
@@ -10,12 +11,12 @@ public class Toolbelt implements Serializable {
 	private static final long serialVersionUID = -7244573478285647954L;
 
 	private static final int[][] TOOLBELT_ITEMS = new int[][] {
-			{ 946 }, // knife 1
-			{ 1735 }, // shears 2
-			{ 1595 }, // amulet mould 3
-			{ 1755 }, // chisel 4
-			{ 1599 }, // holy mould 5
-			{ 1597 }, // necklake mould 6
+			{ 946 }, // knife 1 1
+			{ 1735 }, // shears 2 3
+			{ 1595 }, // amulet mould 3 7
+			{ 1755 }, // chisel 4 15
+			{ 1599 }, // holy mould 5 31
+			{ 1597 }, // necklake mould 6 63
 			{ 1733 }, // needle 7
 			{ 1592 }, // ring mold 8
 			{ 5523 }, // tiara mold 9
@@ -71,7 +72,7 @@ public class Toolbelt implements Serializable {
 	public Toolbelt() {
 		items = new int[][] { new int[TOOLBELT_ITEMS.length],
 				new int[DUNG_TOOLBELT_ITEMS.length] };
-		setDefaultItems();
+		//setDefaultItems();
 	}
 
 	public void setDefaultItems() {
@@ -103,16 +104,30 @@ public class Toolbelt implements Serializable {
 	private void refreshConfigs() {
 
 		int[] varValues = new int[getVars().length];
+		System.out.println("Vars.length= " +getVars().length);
+		System.out.println(("varValues = "+ Arrays.toString(varValues)));
+		System.out.println("getItems length: "+getItems().length);
 		int indexIncremment = 0;
 		for (int i = 0; i < getItems().length; i++) {
+			System.out.println("Int # "+i);
+			System.out.println(getItems()[i]);
 			if (getItems()[i] != 0) {
 				int index = getVarIndex(indexIncremment);
+				System.out.println("getvarindex = "+getVarIndex(indexIncremment));
+				System.out.println("Index = "+index);
 				varValues[index] |= getItems()[i] << (indexIncremment - (index * 28));
+				System.out.println("Var Values = "+varValues[index]);
+				System.out.println("getItems[i] = "+getItems()[i]);
+				System.out.println("index inc - index * 28 = "+(indexIncremment - (index * 28)));
 			}
 			indexIncremment += getIncremment(i);
 		}
-		for (int i = 0; i < getVars().length; i++)
+		for (int i = 0; i < getVars().length; i++) {
+			System.out.println("PLAYER WRITE:");
+			System.out.println("Get vars = " + getVars()[i]);
+			System.out.println(("Var Values = "+varValues[i]));
 			player.getVarsManager().sendVar(getVars()[i], varValues[i]);
+		}
 	}
 
 	public int[] getItems() {
@@ -256,6 +271,7 @@ public class Toolbelt implements Serializable {
 					"You have a higher tier tool already in your tool belt.");
 		else {
 			getItems()[slot[0]] = slot[1] + 1;
+			System.out.println("getItems()[slot0] = "+getItems()[slot[0]]);
 			player.getInventory().deleteItem(invSlot, item);
 			refreshConfigs();
 			player.getPackets().sendGameMessage(

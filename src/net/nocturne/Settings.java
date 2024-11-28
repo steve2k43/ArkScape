@@ -1,11 +1,9 @@
 package net.nocturne;
 
 import java.io.File;
-import java.io.IOException;
 import java.math.BigInteger;
 import java.net.InetAddress;
 import java.net.InetSocketAddress;
-import java.net.MalformedURLException;
 import java.net.UnknownHostException;
 import java.util.ArrayList;
 
@@ -14,6 +12,8 @@ import net.nocturne.game.player.Player;
 import net.nocturne.login.WorldInformation;
 
 public final class Settings {
+
+
 
 	private static boolean hostName() {
 		try {
@@ -77,10 +77,13 @@ public final class Settings {
 	public static final int XP_RATE = 50;
 	public static final int XP_RATE_EASY = 50;
 	public static final int XP_RATE_NORMAL = 10;
-	public static final int XP_RATE_EXTREME = 3;
+	public static final int XP_RATE_HARD = 3;
 	public static final double DROP_CHANCE_EASY = 1;
 	public static final double DROP_CHANCE_NORMAL = 1.1;
-	public static final double DROP_CHANCE_EXTREME = 1.3;
+	public static final double DROP_CHANCE_HARD = 1.3;
+	public static final String EASY_COLOR = "<col=33cc33>";
+	public static final String NORMAL_COLOR = "<col=ff9900>";
+	public static final String HARD_COLOR = "<col=cc3300>";
 	public static boolean DOUBLE_XP = false;
 	public static boolean DOUBLE_VOTES = false;
 	public static boolean TESTING = true;

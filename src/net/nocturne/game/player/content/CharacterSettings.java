@@ -27,13 +27,15 @@ public class CharacterSettings {
 			break;
 		case 12:
 			//player.getDialogueManager().startDialogue("TicketDialogue");
-			player.getPackets().sendHideIComponent(1082, player.getinternumber(), true);
-			player.getPackets().sendGameMessage("Hiding Component: "+player.getinternumber());
+			player.getInterfaceManager().sendCentralInterface(player.getinternumber());
+			player.getPackets().sendGameMessage("Opening Interface: "+player.getinternumber());
 			player.setinternumber(player.getinternumber()+1);
 			break;
 		case 14:
-			//ScrollMessage.displayScrollMessageUpdate(player, "donatorinfo");
-			player.getDialogueManager().startDialogue("BugDialogue");
+			//player.getDialogueManager().startDialogue("TicketDialogue");
+			player.getPackets().sendHideIComponent(1162, player.getinternumber(), true);
+			player.getPackets().sendGameMessage("Hiding Component: "+player.getinternumber());
+			player.setinternumber(player.getinternumber()+1);
 			break;
 		default:
 			player.getPackets().sendGameMessage(

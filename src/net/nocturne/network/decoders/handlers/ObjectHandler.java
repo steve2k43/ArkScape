@@ -5760,7 +5760,21 @@ public final class ObjectHandler {
 									new Mining(object,
 											RockDefinitions.CRYSTAL_SANDSTONE));
 						handled = true;
-					} else {
+					}
+					else if(id == 66971){
+						player.useStairs(-1, new WorldTile(player.getX(), player.getY()+4, player.getPlane()-1), 1, 1);
+						handled=true;
+					} else if(id == 66970){
+						player.useStairs(-1, new WorldTile(player.getX(), player.getY()-4, player.getPlane()+1), 1, 1);
+						handled=true;
+					} else if(id == 66972){
+						player.useStairs(-1, new WorldTile(player.getX(), player.getY()-5, player.getPlane()-1), 1, 1);
+						handled=true;
+					} else if(id == 66969){
+						player.useStairs(-1, new WorldTile(player.getX(), player.getY()+5, player.getPlane()+1), 1, 1);
+						handled=true;
+					}
+					else {
 						switch (objectDef.name.toLowerCase()) {
 							case "robust glass machine":
 								player.getDialogueManager().startDialogue(
@@ -6387,8 +6401,11 @@ public final class ObjectHandler {
 								handled = true;
 								break;
 							case "ladder":
-								if(generic==true)
+								System.out.println("generic = "+generic);
+								if(handled==false) {
+									System.out.println("test 2");
 									handleLadder(player, object, 1);
+								}
 								generic=false;
 								handled = true;
 								break;
@@ -7583,18 +7600,30 @@ public final class ObjectHandler {
 	private static boolean handleLadder(Player player, WorldObject object,
 										int optionId) {
 		String option = object.getDefinitions().getOption(optionId);
+		System.out.println("option = "+option);
+		System.out.println("object ID = "+object.getId());
 		if (option.equalsIgnoreCase("Climb-up")
 				|| option.equalsIgnoreCase("Climb up")) {
 			if (player.getPlane() == 3)
 				return false;
-			player.useStairs(828, new WorldTile(player.getX(), player.getY(),
-					player.getPlane() + 1), 1, 2);
+			if(object.getId()==66986){
+				player.useStairs(828, new WorldTile(player.getX(), player.getY()+2,
+						player.getPlane() + 2), 1, 2);
+			}else {
+				player.useStairs(828, new WorldTile(player.getX(), player.getY(),
+						player.getPlane() + 1), 1, 2);
+			}
 		} else if (option.equalsIgnoreCase("Climb-down")
 				|| option.equalsIgnoreCase("Climb down")) {
 			if (player.getPlane() == 0)
 				return false;
-			player.useStairs(828, new WorldTile(player.getX(), player.getY(),
-					player.getPlane() - 1), 1, 2);
+			if(object.getId()==66988){
+				player.useStairs(828, new WorldTile(player.getX(), player.getY()-2,
+						player.getPlane() + - 2), 1, 2);
+			}else {
+				player.useStairs(828, new WorldTile(player.getX(), player.getY(),
+						player.getPlane() - 1), 1, 2);
+			}
 		} else if (option.equalsIgnoreCase("Climb")) {
 			if (player.getPlane() == 3 || player.getPlane() == 0)
 				return false;

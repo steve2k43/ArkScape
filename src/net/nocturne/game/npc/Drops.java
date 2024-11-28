@@ -26,7 +26,7 @@ public class Drops {
 
 	public static final double[] DROP_RATES = { always, common, uncommon, rare, vrare };
 	public static final double[] DROP_RATES_NORMAL = { always, common* Settings.DROP_CHANCE_NORMAL, uncommon*Settings.DROP_CHANCE_NORMAL, rare*Settings.DROP_CHANCE_NORMAL, vrare*Settings.DROP_CHANCE_NORMAL };
-	public static final double[] DROP_RATES_EXTREME = { always, common*Settings.DROP_CHANCE_EXTREME, uncommon*Settings.DROP_CHANCE_EXTREME, rare*Settings.DROP_CHANCE_EXTREME, vrare*Settings.DROP_CHANCE_EXTREME };
+	public static final double[] DROP_RATES_EXTREME = { always, common*Settings.DROP_CHANCE_HARD, uncommon*Settings.DROP_CHANCE_HARD, rare*Settings.DROP_CHANCE_HARD, vrare*Settings.DROP_CHANCE_HARD};
 
 	private static final int[] CHARMS = { 12158, 12159, 12160, 12163 };
 	private static final Drop[] RARE_DROP_TABLE = {

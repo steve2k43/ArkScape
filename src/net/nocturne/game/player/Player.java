@@ -114,7 +114,6 @@ import net.nocturne.utils.SerializableFilesManager;
 import net.nocturne.utils.Utils;
 import net.nocturne.utils.sql.BondsManager;
 import net.nocturne.utils.sql.Highscores;
-import net.nocturne.utils.sql.Webstore;
 
 import org.jboss.netty.channel.ChannelFuture;
 import org.jboss.netty.channel.ChannelFutureListener;
@@ -2019,7 +2018,7 @@ public class Player extends Entity {
 		if(z==2)
 			dropChance=Settings.DROP_CHANCE_NORMAL;
 		if(z==3)
-			dropChance=Settings.DROP_CHANCE_EXTREME;
+			dropChance=Settings.DROP_CHANCE_HARD;
 		return dropChance;}
 
 	public int getXPRate() {
@@ -2029,7 +2028,7 @@ public class Player extends Entity {
 		if(z==2)
 			xpr=Settings.XP_RATE_NORMAL;
 		if(z==3)
-			xpr=Settings.XP_RATE_EXTREME;
+			xpr=Settings.XP_RATE_HARD;
 		return xpr;}
 
 	public void setDifficulty(int difficulty) {

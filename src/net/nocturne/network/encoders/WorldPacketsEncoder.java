@@ -220,6 +220,15 @@ public class WorldPacketsEncoder extends Encoder {
 		stream.writeByte128(hidden ? 1 : 0);
 		session.write(stream);
 	}
+	public void sendReplaceIComponent(int interfaceId, int componentId,
+								   int newcomponentId) {
+		OutputStream stream = new OutputStream(6);
+		stream.writePacket(player, 134);
+		stream.writeInt(interfaceId << 16 | componentId);
+		stream.writeByte128(1);
+		stream.writeInt(interfaceId << 16 | newcomponentId);
+		session.write(stream);
+	}
 
 	public void sendRemoveGroundItem(FloorItem item) {
 		OutputStream stream = createChunkInSceneStream(item.getTile());

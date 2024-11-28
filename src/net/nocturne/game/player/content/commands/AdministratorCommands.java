@@ -9,10 +9,7 @@ import java.util.TimerTask;
 
 import net.nocturne.Engine;
 import net.nocturne.Settings;
-import net.nocturne.cache.loaders.AnimationDefinitions;
-import net.nocturne.cache.loaders.IComponentDefinitions;
-import net.nocturne.cache.loaders.ItemDefinitions;
-import net.nocturne.cache.loaders.NPCDefinitions;
+import net.nocturne.cache.loaders.*;
 import net.nocturne.executor.GameExecutorManager;
 import net.nocturne.game.Animation;
 import net.nocturne.game.EffectsManager;
@@ -35,6 +32,7 @@ import net.nocturne.game.npc.NPC;
 import net.nocturne.game.npc.araxxi.Araxxi;
 import net.nocturne.game.npc.combat.impl.NexCombat;
 import net.nocturne.game.npc.randomEvent.CombatEventNPC;
+import net.nocturne.game.player.InterfaceManager;
 import net.nocturne.game.player.Player;
 import net.nocturne.game.player.Skills;
 import net.nocturne.game.player.SlayerManager;
@@ -52,6 +50,7 @@ import net.nocturne.game.player.content.StaffList;
 import net.nocturne.game.player.content.activities.dailychallenges.DailyTasksInterface;
 import net.nocturne.game.player.content.activities.distractions.PenguinHS;
 import net.nocturne.game.player.content.activities.minigames.FightPits;
+import net.nocturne.game.player.content.activities.minigames.WarriorsGuild;
 import net.nocturne.game.player.content.activities.minigames.clanwars.ClanWars;
 import net.nocturne.game.player.content.activities.minigames.clanwars.WallHandler;
 import net.nocturne.game.player.content.activities.minigames.stealingcreation.GameArea;
@@ -3589,19 +3588,23 @@ class AdministratorCommands {
 				return true;
 			case "test1":
 				try {
-					int interId = 1082;
-					System.out.println(Utils.getInterfaceDefinitionsComponentsSize(interId));
-					player.getInterfaceManager().sendCentralInterface(interId);
-					for (int componentId = 0; componentId < Utils
-							.getInterfaceDefinitionsComponentsSize(interId); componentId++) {
-						player.getPackets().sendIComponentText(interId,
-								componentId, "cid1111111111111111111111111111111111: " + componentId);
+					System.out.println("opening dicciculty select");
+					player.getInterfaceManager().DifficultySelect();
+					player.getInterfaceManager().sendCentralInterface(292);
 
-					}
+
 				} catch (NumberFormatException e) {
 					player.getPackets().sendPanelBoxMessage(
 							"Use: ::inter interfaceId");
 				}
+				return true;
+			case "test2":
+				System.out.println(WarriorsGuild.canEnter(player));
+
+				return true;
+			case "new":
+				player.getDialogueManager().startDialogue("ServerGuide");
+				return true;
 			case "ti":
 				if (cmd[0].equals("open")) {
 					int interId = Integer.parseInt(cmd[1]);
@@ -3615,6 +3618,17 @@ class AdministratorCommands {
 					}
 					return true;
 				}
+			case "sendvars":
+				int aaa = Integer.valueOf(cmd[1]);
+				int bbb = Integer.valueOf(cmd[2]);
+				System.out.println("Sending Vars: "+aaa+ " "+bbb);
+				player.getVarsManager().sendVar(aaa, bbb);
+				return true;
+			case "sendsprite":
+				int aaaa = Integer.valueOf(cmd[1]);
+				int bbbb = Integer.valueOf(cmd[2]);
+				player.getPackets().sendIComponentSprite(aaaa, bbbb, 2141);
+				return true;
 		}
 		return false;
 	}
