@@ -220,15 +220,6 @@ public class WorldPacketsEncoder extends Encoder {
 		stream.writeByte128(hidden ? 1 : 0);
 		session.write(stream);
 	}
-	public void sendReplaceIComponent(int interfaceId, int componentId,
-								   int newcomponentId) {
-		OutputStream stream = new OutputStream(6);
-		stream.writePacket(player, 134);
-		stream.writeInt(interfaceId << 16 | componentId);
-		stream.writeByte128(1);
-		stream.writeInt(interfaceId << 16 | newcomponentId);
-		session.write(stream);
-	}
 
 	public void sendRemoveGroundItem(FloorItem item) {
 		OutputStream stream = createChunkInSceneStream(item.getTile());
@@ -1760,7 +1751,7 @@ public class WorldPacketsEncoder extends Encoder {
 	/**
 	 * This will blackout specified area.
 	 *
-	 * @param byte area = area which will be blackout (0 = unblackout; 1 =
+	 * @param area area = area which will be blackout (0 = unblackout; 1 =
 	 *        blackout orb; 2 = blackout map; 5 = blackout orb and map)
 	 */
 	public void sendBlackOut(int area) {

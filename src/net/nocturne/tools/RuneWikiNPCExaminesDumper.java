@@ -42,7 +42,7 @@ public class RuneWikiNPCExaminesDumper {
     public static final void main(String[] args) throws IOException, HTTPException, InterruptedException, ScriptException {
 		Cache.init();
 		int specific = 0;
-		int startnpc = 0;
+		int startnpc = 18806;
 		if(specific != 0){
 			dumpNPC(specific);
 
@@ -89,6 +89,7 @@ public class RuneWikiNPCExaminesDumper {
 					TimeUnit.SECONDS.sleep(10);
 					System.out.println("Retrying id: "+i);
 					//break;
+
 				}
 			}
 		}
@@ -104,6 +105,12 @@ public class RuneWikiNPCExaminesDumper {
 		String npcname = NPCDefinitions.getNPCDefinitions(npcId).name;
 		String examine = "";
 		npcname = npcname.replaceAll(" ", "_");
+		if(npcname.contains("(?)") || npcname.contains("%") || npcname.contains("<") || npcname.contains("[")){
+			writer.write("// "+npcId+" - "+npcname);
+			writer.newLine();
+			writer.flush();
+			return false;
+		}
 		String httpsURL = "https://runescape.wiki/w/"+npcname+"?action=edit";
 		URL myurl = new URL(httpsURL);
 		HttpsURLConnection con = (HttpsURLConnection) myurl.openConnection();
@@ -163,7 +170,9 @@ public class RuneWikiNPCExaminesDumper {
 
 		}
 		if(!skipfile && examine != "") {
-
+			writer.write(+npcId+" - "+examine);
+			writer.newLine();
+			writer.flush();
 
 
 		}else{
