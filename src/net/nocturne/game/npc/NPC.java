@@ -527,6 +527,10 @@ public class NPC extends Entity implements Serializable {
 			setName("Lord Crwys, the gambler");
 			setRandomWalk(0);
 		}
+		//NEW NPC DEFS
+		if (id == 8266){
+			setName("Ghommal");
+		}
 		if (isForceWalking()) {
 			if (!isBound() && !isStunned()) {
 				if (getX() != forceWalk.getX() || getY() != forceWalk.getY()) {

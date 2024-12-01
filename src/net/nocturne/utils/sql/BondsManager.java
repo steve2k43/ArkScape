@@ -1,5 +1,6 @@
 package net.nocturne.utils.sql;
 
+import net.nocturne.Settings;
 import net.nocturne.game.EntityList;
 import net.nocturne.game.World;
 import net.nocturne.game.player.Player;
@@ -18,8 +19,8 @@ public class BondsManager implements Runnable {
 	@Override
 	public void run() {
 		try {
-			Database db = new Database("arctik.co.uk", "ArkScape",
-					"ArkScape", "arkscape");
+			Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+					Settings.MYSQL_PASS, "arkscape");
 
 			if (!db.initBatch()) {
 				System.err.println("[DATABASE] No connection could be made to the database.");
@@ -60,8 +61,8 @@ db.close();
 
 	public static void process(String username) {
 		try {
-			Database db = new Database("arctik.co.uk", "ArkScape",
-					"ArkScape", "arkscape");
+			Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+					Settings.MYSQL_PASS, "arkscape");
 
 			if (!db.initBatch()) {
 				System.err.println("[DATABASE] No connection could be made to the database.");

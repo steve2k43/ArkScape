@@ -8,6 +8,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.HashMap;
 
+import net.nocturne.Settings;
 import net.nocturne.game.WorldObject;
 import net.nocturne.utils.sql.Database;
 
@@ -21,8 +22,8 @@ public class ObjectExamines {
 		loadSQLObjectExamines();
 	}
 	private static void loadSQLObjectExamines() {
-		Database db = new Database("arctik.co.uk", "ArkScape",
-				"ArkScape", "arkscape");
+		Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+				Settings.MYSQL_PASS, "arkscape");
 
 		if (!db.init()) {
 			System.err.println("[DATABASE] No connection could be made to the database.");

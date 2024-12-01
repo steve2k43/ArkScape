@@ -1,6 +1,7 @@
 package net.nocturne.utils;
 
 import com.mysql.jdbc.Statement;
+import net.nocturne.Settings;
 import net.nocturne.cache.loaders.ItemDefinitions;
 import net.nocturne.cache.loaders.NPCDefinitions;
 import net.nocturne.game.World;
@@ -25,8 +26,8 @@ public class Bugsystem {
 
 
     try {
-        Database db = new Database("arctik.co.uk", "ArkScape",
-                "ArkScape", "bugtracker");
+        Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+                Settings.MYSQL_PASS, "bugtracker");
 
         if (!db.init()) {
             System.err.println("[DATABASE] No connection could be made to the database.");
@@ -113,8 +114,8 @@ public class Bugsystem {
 
     public static void addNPCBug(int clickoption, String npcname, int npcid, int x, int y, int plane ) {
         try {
-            Database db = new Database("arctik.co.uk", "ArkScape",
-                    "ArkScape", "arkscape_bugs");
+            Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+                    Settings.MYSQL_PASS, "arkscape_bugs");
 
             if (!db.init()) {
                 System.err.println("[DATABASE] No connection could be made to the database.");
@@ -172,8 +173,8 @@ public class Bugsystem {
 
     public static void addObjectBug(int clickoption, String objectname, int objectid, int x, int y, int plane ) {
         try {
-            Database db = new Database("arctik.co.uk", "ArkScape",
-                    "ArkScape", "arkscape_bugs");
+            Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+                    Settings.MYSQL_PASS, "arkscape_bugs");
 
             if (!db.init()) {
                 System.err.println("[DATABASE] No connection could be made to the database.");
@@ -231,8 +232,8 @@ public class Bugsystem {
 
     public static void addNPCDropBug(int npcId) {
         try {
-            Database db = new Database("arctik.co.uk", "ArkScape",
-                    "ArkScape", "arkscape_bugs");
+            Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+                    Settings.MYSQL_PASS, "arkscape_bugs");
 
             if (!db.init()) {
                 System.err.println("[DATABASE] No connection could be made to the database.");
@@ -277,8 +278,8 @@ public class Bugsystem {
 
     public static void addItemExamineBug(int id) {
         try {
-            Database db = new Database("arctik.co.uk", "ArkScape",
-                    "ArkScape", "arkscape_bugs");
+            Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+                    Settings.MYSQL_PASS, "arkscape_bugs");
 
             if (!db.init()) {
                 System.err.println("[DATABASE] No connection could be made to the database.");

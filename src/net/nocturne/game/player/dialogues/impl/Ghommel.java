@@ -4,7 +4,7 @@ import net.nocturne.game.player.dialogues.Dialogue;
 
 public class Ghommel extends Dialogue {
 
-	private int npcId = 8266;
+	private int npcId = 4285;
 
 	@Override
 	public void start() {

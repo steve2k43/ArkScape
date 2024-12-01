@@ -1,5 +1,6 @@
 package net.nocturne.utils.sql.packers;
 
+import net.nocturne.Settings;
 import net.nocturne.cache.Cache;
 import net.nocturne.game.WorldTile;
 import net.nocturne.utils.Logger;
@@ -17,8 +18,8 @@ public class npcspawns2sql {
             Cache.init();
             BufferedReader in = new BufferedReader(new FileReader(UNPACKED_PATH));
             int count = 0;
-            Database db = new Database("arctik.co.uk", "ArkScape",
-                    "ArkScape", "arkscape");
+            Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+                    Settings.MYSQL_PASS, "arkscape");
 
             if (!db.init()) {
                 System.err.println("[" +

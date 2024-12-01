@@ -1,5 +1,6 @@
 package net.nocturne.utils.sql.packers;
 
+import net.nocturne.Settings;
 import net.nocturne.game.npc.Drop;
 import net.nocturne.game.npc.Drops;
 import net.nocturne.utils.Bugsystem;
@@ -17,8 +18,8 @@ public class npcdropsSQL {
     private static HashMap<Integer, Drops> npcDrops = new HashMap<Integer, Drops>();
     public static String[] getdropstablesql() throws Throwable {
         Connection conn = null;
-        Database db = new Database("arctik.co.uk", "ArkScape",
-                "ArkScape", "npcdrops");
+        Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+                Settings.MYSQL_PASS, "npcdrops");
 
         if (!db.init()) {
             System.err.println("[DATABASE] No connection could be made to the database.");
@@ -54,8 +55,8 @@ public class npcdropsSQL {
     public static String[][] getdropssql(String table) {
         Boolean exists = false;
         Connection conn = null;
-        Database db = new Database("arctik.co.uk", "ArkScape",
-                "ArkScape", "npcdrops");
+        Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+                Settings.MYSQL_PASS, "npcdrops");
 
         if (!db.init()) {
             System.err.println("[DATABASE] No connection could be made to the database.");

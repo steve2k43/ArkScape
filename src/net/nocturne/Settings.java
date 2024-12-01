@@ -34,6 +34,12 @@ public final class Settings {
 	public static final String VPS1_IP = HOSTED ? "arctik.co.uk"
 			: "arctik.co.uk";
 
+	public static final String MYSQL_HOST = "mysql.arctik.co.uk";
+	public static final String MYSQL_PORT = "";
+	public static final String MYSQL_USER = "ArkScape";
+	public static final String MYSQL_PASS = "Ark_Scape0!0";
+
+
 	public static final String UPDATE_TOPIC_TITLE = "";
 	public static final String UPDATE_TOPIC_ID = "";
 	public static final String SERVER_NAME = "ArkScape";

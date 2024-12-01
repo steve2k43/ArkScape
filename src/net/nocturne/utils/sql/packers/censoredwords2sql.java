@@ -1,5 +1,6 @@
 package net.nocturne.utils.sql.packers;
 
+import net.nocturne.Settings;
 import net.nocturne.utils.sql.Database;
 
 import java.io.BufferedReader;
@@ -16,8 +17,8 @@ public class censoredwords2sql {
     private final static String UNPACKED_PATH = "data/unpackedCensoredWords.txt";
     public static void main(String[] args) {
         try {
-            Database db = new Database("arctik.co.uk", "ArkScape",
-                    "ArkScape", "arkscape");
+            Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+                    Settings.MYSQL_PASS, "arkscape");
 
             if (!db.init()) {
                 System.err.println("[DATABASE] No connection could be made to the database.");

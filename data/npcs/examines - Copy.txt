@@ -18804,4 +18804,5108 @@
 18803 - A huge construct built to smite the foes of Bandos.
 18804 - She knows the score.
 18805 - He knows the score.
-
+// 18806 - [ph]
+18807 - A novice seasinger siren from the Eastern Lands.
+18808 - The owner of Solomon's General Store.
+18809 - Displays items available at Solomon's General Store{{sic}}
+18810 - Displays items available at Solomon's General Store{{sic}}
+18811 - Displays items available at Solomon's General Store{{sic}}
+18812 - Displays items available at Solomon's General Store{{sic}}
+// 18813 - null
+18814 - A reindeer who is learning to fly and wrap presents.
+18815 - A reindeer who is learning to fly and wrap presents.
+18816 - A reindeer who is learning to fly and wrap presents.
+18817 - A reindeer who is learning to fly and wrap presents.
+18818 - A reindeer who is learning to fly and wrap presents.
+18819 - A reindeer who is learning to fly and wrap presents.
+// 18820 - Elvis_pressie
+// 18821 - Elvis_pressie
+// 18822 - San'tar_Spawnling
+// 18823 - San'tar_Spawnling
+// 18824 - null
+18825 - San'tar Klaws has come to town!
+18826 - San'tar Klaws has come to town!
+18827 - He knows if you've been naughty or nice.
+// 18828 - null
+18829 - He knows if you've been naughty or nice.
+18830 - He knows if you've been naughty or nice.
+// 18831 - null
+// 18832 - null
+// 18833 - null
+// 18834 - null
+// 18835 - null
+// 18836 - null
+18837 - No doubt playing reindeer games.
+18838 - Well, at least it has a red nose. You might even say it glows.
+18839 - Wields incredible arcane power, if he could remember where he put it.
+18840 - Master of the Wizards' Tower.
+18841 - A wizard. Apparently he's into portals.
+18842 - Master of Beads.
+18843 - No one gets in and out of the tower without being noted in Valina's book.
+18844 - The chief librarian of the Wizards' Tower, guardian of arcane knowledge.
+18845 - The tower's armourer.
+// 18846 - null
+18847 - New Master of Imps.
+18848 - 
+// 18849 - Sled_Dog
+// 18850 - Sled_Dog
+// 18851 - null
+// 18852 - Snow_imp
+// 18853 - Boris_Claus
+// 18854 - Benny_Claus
+// 18855 - Barry_Claus
+// 18856 - Marius_Claus
+// 18857 - Marvin_Claus
+// 18858 - Murray_Claus
+// 18859 - Norris_Claus
+// 18860 - Dennis_Claus
+// 18861 - Marcus_Claus
+// 18862 - Rasmus_Claus
+// 18863 - Freddie_Claus
+// 18864 - Charlie_Claus
+// 18865 - Murphy_Claus
+// 18866 - Morris_Claus
+// 18867 - Magnus_Claus
+18868 - Leader of the White Knights.
+18869 - An ugly green creature.
+18870 - An ugly green creature.
+// 18871 - Thok,_Master_of_Dungeoneering
+// 18872 - Rewards_Trader
+18873 - 
+18874 - Cold, but here to bring festive warmth.
+18875 - I'm not surprised that Kringle needs a dagger-eating troll for an apprentice...
+18876 - A master chef taught by the great Bleston Humenthal.
+18877 - Smaller and more mischievous. It's a snow impling!
+18878 - A toy-seller who looks after people's toys for them.
+// 18879 - <col=B8D1D1>Black_Santa_hat
+18880 - Even the gods fear it.
+18881 - An irritated worker from the warehouse.
+18882 - The best hunter in the world!
+18883 - Likes to make pies with swarms of things.
+18884 - The Architect
+18885 - The best hunter in the world!
+18886 - Likes to make pies with swarms of things.
+18887 - The Architect
+// 18888 - "The_Trapper"
+// 18889 - "The_Chef"
+// 18890 - "The_Architect"
+18891 - He's always looking for new acquisitions.
+18892 - He's always looking for new acquisitions.
+18893 - She has a certain otherworldly quality.
+18894 - She has a certain otherworldly quality.
+// 18895 - 6awe2_closing_cutscene_bandos_staff
+// 18896 - 6awe2_closing_cutscene_armadyl_staff
+// 18897 - "6awe2_opening_cutscene_50_weapon"
+// 18898 - "6awe2_closing_cutscene_armadyl_staff"
+// 18899 - "6awe2_closing_cutscene_shot_04_05_weapon_fires_proj"
+// 18900 - "6awe2_closing_cutscene_armadyl_tower_explode"
+// 18901 - ""Warrior""
+// 18902 - "null"
+// 18903 - "null"
+// 18904 - "null"
+// 18905 - "6awe2_closing_cutscene_armadyl_broken"
+// 18906 - "null"
+// 18907 - "6awe2_opening_cutscene_armadyl_weapon_Focus"
+// 18908 - "[ph]"
+// 18909 - "6awe2_closing_cutscene_bandos_staff"
+18910 - An ugly green creature.
+18911 - The friendliest strykewyrm.
+18912 - The friendliest strykewyrm.
+18913 - The friendliest strykewyrm.
+18914 - Small and strangely cute.
+18915 - The friendliest strykewyrm.
+18916 - The friendliest strykewyrm.
+18917 - The friendliest strykewyrm.
+18918 - The friendliest strykewyrm.
+18919 - The friendliest strykewyrm.
+18920 - The friendliest strykewyrm.
+18921 - Small and strangely cute.
+18922 - A fearful spirit of the drowned.
+18923 - The headless body of a mighty dragon.
+// 18924 - Bouncer
+18925 - Can you bring yourself to hurt another?
+// 18926 - The_Kendal
+18927 - Pure evil lightly whipped with a juicy cherry on top.
+// 18928 - null
+18929 - An old gardener.
+// 18930 - null
+18931 - An old gardener.
+18932 - Holy mole-y!
+18933 - Holy mole-y!
+18934 - Holy mole-y!
+18935 - Holy mole-y!
+18936 - Not giant, but certainly larger than you'd like.
+18937 - Not giant, but certainly larger than you'd like.
+18938 - Moley, moley, moley!
+18939 - A mimic pet.
+18940 - A mimic pet.
+// 18941 - "Alice"
+18942 - A cunning leader.
+18943 - A cunning leader.
+18944 - A White Knight officer with an injured eye.
+// 18945 - null
+// 18946 - null
+// 18947 - null
+// 18948 - null
+// 18949 - null
+// 18950 - null
+// 18951 - null
+// 18952 - null
+// 18953 - null
+// 18954 - null
+// 18955 - null
+// 18956 - null
+// 18957 - null
+18958 - Dead man walking.
+18959 - One of Gielinor's many citizens.
+18960 - One of Gielinor's many citizens.
+18961 - He grows the crops in this area.
+18962 - Known for his light-fingered qualities.
+18963 - He tries to keep order around here.
+18964 - A man down on his luck.
+18965 - A woman, who is a warrior.
+18966 - A holy warrior.
+18967 - One of RuneScape's many citizens.
+// 18968 - Priest
+18969 - Works hard for a living.
+18970 - A local farmer. She may be able to provide some useful information.
+18971 - Dead man walking.
+18972 - One of Gielinor's many citizens.
+18973 - One of Gielinor's many citizens.
+18974 - He grows the crops in this area.
+18975 - Known for his light-fingered qualities.
+18976 - He tries to keep order around here.
+18977 - A man down on his luck.
+18978 - A woman, who is a warrior.
+18979 - A holy warrior.
+18980 - One of RuneScape's many citizens.
+// 18981 - Priest
+18982 - Works hard for a living.
+18983 - A local farmer. She may be able to provide some useful information.
+18984 - One of RuneScape's many citizens, in difficulties.
+18985 - It looks like she's in distress.
+18986 - Children are just like real people...just smaller.
+18987 - He seems to be trying to watch everyone at once.
+18988 - She seems distressed.
+// 18989 - Kitty
+// 18990 - Security_sensor
+// 18991 - Guard
+// 18992 - null
+18993 - Antisocial.
+18994 - Antisocial.
+// 18995 - null
+18996 - A citizen of Al Kharid.
+18997 - A citizen of Al Kharid.
+// 18998 - null
+18999 - Oh, it's a camel.
+19000 - Oh, it's a camel.
+// 19001 - null
+19002 - A citizen of Al Kharid.
+19003 - A citizen of Al Kharid.
+// 19004 - null
+// 19005 - Merchant
+// 19006 - Merchant
+// 19007 - null
+19008 - A citizen of Al Kharid.
+19009 - A citizen of Al Kharid.
+// 19010 - null
+19011 - A citizen of Al Kharid.
+19012 - A citizen of Al Kharid.
+19013 - A nasty sand storm.
+// 19014 - null
+// 19015 - Vyre
+// 19016 - Vyre
+// 19017 - null
+19018 - A citizen of Darkmeyer.
+19019 - A citizen of Darkmeyer.
+// 19020 - null
+19021 - A thirsty-looking, airborne bloodsucker!
+19022 - A thirsty-looking, airborne bloodsucker!
+// 19023 - null
+19024 - A citizen of Darkmeyer.
+19025 - A citizen of Darkmeyer.
+// 19026 - null
+19027 - It looks really hungry!
+19028 - It looks really hungry!
+// 19029 - null
+19030 - A citizen of Darkmeyer.
+19031 - A citizen of Darkmeyer.
+// 19032 - null
+// 19033 - Priest
+// 19034 - Priest
+// 19035 - null
+19036 - Eek! A werewolf!
+19037 - Eek! A werewolf!
+// 19038 - null
+19039 - Eek! A werewolf!
+19040 - Eek! A werewolf!
+// 19041 - Guard
+// 19042 - Guard
+// 19043 - null
+// 19044 - null
+19045 - Runs the local.
+19046 - Runs the local.
+// 19047 - null
+19048 - Keeps shops for a living.
+19049 - Keeps shops for a living.
+// 19050 - null
+19051 - He's staring at the moon.
+19052 - He's staring at the moon.
+// 19053 - null
+19054 - Seems a bit of a drama queen.
+19055 - Seems a bit of a drama queen.
+// 19056 - null
+19057 - I bet she works out.
+19058 - I bet she works out.
+// 19059 - null
+// 19060 - Quiet_woman
+// 19061 - Quiet_woman
+// 19062 - null
+19063 - It looks really hungry.
+19064 - It looks really hungry.
+// 19065 - null
+19066 - Eek! A werewolf!
+19067 - Eek! A werewolf!
+// 19068 - null
+19069 - A vengeful spirit corrupted by dark magic.
+19070 - A vengeful spirit corrupted by dark magic.
+// 19071 - null
+// 19072 - Dharok_the_Wretched
+// 19073 - Dharok_the_Wretched
+// 19074 - null
+19075 - A vengeful spirit corrupted by dark magic.
+19076 - A vengeful spirit corrupted by dark magic.
+// 19077 - null
+19078 - A vengeful spirit corrupted by dark magic.
+19079 - A vengeful spirit corrupted by dark magic.
+// 19080 - null
+19081 - A vengeful spirit corrupted by dark magic.
+19082 - A vengeful spirit corrupted by dark magic.
+// 19083 - null
+19084 - He looks fine.
+19085 - He looks fine.
+19086 - He can store items in your bank for you.
+// 19087 - Baby_troll
+19088 - A vicious mountain wolf.
+19089 - Your very own Golden Gnome.
+19090 - Your very own Golden Gnome.
+// 19091 - null
+19092 - A mini, mechanical, marvellous machine!
+19093 - A mini, mechanical, marvellous machine!
+19094 - An unstable wisp modified by Kerapac's experiments.
+// 19095 - Protoplasmic_spring
+19096 - An ancient Dragon Rider.
+19097 - An ancient Dragon Rider.
+19098 - One of Hannibus's late descendants.
+19099 - Was the biggest, meanest dragon around.
+19100 - Must be related to [[Elvarg]].
+19101 - Its scales seem to be made of steel.
+19102 - Its scales seem to be made of iron.
+// 19103 - Statue
+// 19104 - Statue
+19105 - A powerful - yet seemingly reasonable - dragonkin.
+// 19106 - null
+19107 - She is the last of the white dragons.
+19108 - She is the last of the white dragons.
+19109 - Its wings shine with the old light of distant stars.
+19110 - Its wings shine with the old light of distant stars.
+19111 - 
+19112 - This dark humanoid shape is your mind's attempt to make sense of the awesome manifestation of an Elder God.
+19113 - This dark humanoid shape is your mind's attempt to make sense of the awesome manifestation of an Elder God.
+19114 - This dark humanoid shape is your mind's attempt to make sense of the awesome manifestation of an Elder God.
+// 19115 - False_User
+// 19116 - False_User
+// 19117 - False_User
+19118 - There's more than one way to skin a dragon. This hunter prefers melee.
+19119 - There's more than one way to skin a dragon. This hunter prefers magic.
+19120 - There's more than one way to skin a dragon. This hunter prefers ranged combat.
+19121 - Worms burrow through her rotting flesh.
+// 19122 - null
+// 19123 - null
+// 19124 - null
+// 19125 - null
+// 19126 - null
+// 19127 - null
+// 19128 - null
+// 19129 - null
+// 19130 - null
+// 19131 - null
+// 19132 - null
+// 19133 - null
+// 19134 - null
+19135 - You dare make a bobblehead out of a god?
+19136 - You dare make a bobblehead out of a god?
+19137 - A chronicle of the elder gods.
+19138 - A chronicle of the elder gods.
+19139 - A chronicle of the elder gods.
+19140 - A chronicle of the elder gods.
+19141 - A vampyric abomination.
+19142 - An icyenic abomination.
+19143 - A demonic abomination.
+19144 - An aviansie abomination.
+19145 - A vampyric abomination.
+19146 - A vampyric abomination.
+19147 - An icyenic abomination.
+19148 - A demonic abomination.
+19149 - An aviansie abomination.
+19150 - A nightmarish divine creation that uses ranged attacks.
+19151 - A nightmarish divine creation that uses magic attacks.
+19152 - A nightmarish divine creation that uses melee attacks.
+19153 - An elder artefact that measures levels of anima.
+// 19154 - null
+// 19155 - null
+19156 - A seemingly honourable Mahjarrat dedicated to Zaros.
+19157 - A mysterious and devious Mahjarrat.
+19158 - A seemingly honourable Mahjarrat dedicated to Zaros.
+19159 - A mysterious and devious Mahjarrat.
+19160 - Her entire form burns with rage!
+19161 - An ancient Dragon Rider.
+19162 - Even the gods fear it.
+// 19163 - null
+19164 - A mysterious and devious Mahjarrat.
+// 19165 - null
+19166 - The so-called Empty Lord.
+19167 - The so-called Empty Lord.
+// 19168 - null
+// 19169 - null
+// 19170 - null
+// 19171 - null
+19172 - The so-called Empty Lord.
+19173 - The so-called Empty Lord.
+19174 - The so-called Empty Lord.
+19175 - The so-called Empty Lord.
+// 19176 - null
+19177 - The so-called Empty Lord.
+19178 - The so-called Empty Lord.
+19179 - The so-called Empty Lord.
+19180 - The so-called Empty Lord.
+19181 - The so-called Empty Lord.
+19182 - The so-called Empty Lord.
+19183 - The so-called Empty Lord.
+19184 - The so-called Empty Lord.
+19185 - The so-called Empty Lord.
+19186 - The so-called Empty Lord.
+19187 - The so-called Empty Lord.
+19188 - The so-called Empty Lord.
+19189 - The so-called Empty Lord.
+19190 - The so-called Empty Lord.
+19191 - The so-called Empty Lord.
+19192 - The so-called Empty Lord.
+19193 - The so-called Empty Lord.
+19194 - The so-called Empty Lord.
+19195 - The so-called Empty Lord.
+19196 - The so-called Empty Lord.
+19197 - The so-called Empty Lord.
+19198 - The so-called Empty Lord.
+19199 - The so-called Empty Lord.
+19200 - The so-called Empty Lord.
+19201 - The so-called Empty Lord.
+19202 - The so-called Empty Lord.
+19203 - The so-called Empty Lord.
+19204 - The so-called Empty Lord.
+19205 - The so-called Empty Lord.
+19206 - The so-called Empty Lord.
+19207 - The so-called Empty Lord.
+19208 - The so-called Empty Lord.
+19209 - The so-called Empty Lord.
+19210 - The so-called Empty Lord.
+19211 - The so-called Empty Lord.
+19212 - The so-called Empty Lord.
+19213 - The so-called Empty Lord.
+19214 - The so-called Empty Lord.
+19215 - The so-called Empty Lord.
+19216 - The so-called Empty Lord.
+19217 - The so-called Empty Lord.
+19218 - The so-called Empty Lord.
+// 19219 - null
+// 19220 - null
+// 19221 - null
+// 19222 - null
+// 19223 - null
+// 19224 - null
+// 19225 - null
+// 19226 - null
+// 19227 - null
+// 19228 - null
+// 19229 - null
+// 19230 - null
+// 19231 - null
+// 19232 - null
+// 19233 - null
+// 19234 - null
+// 19235 - null
+// 19236 - null
+// 19237 - null
+// 19238 - null
+// 19239 - null
+// 19240 - null
+// 19241 - null
+// 19242 - null
+// 19243 - null
+// 19244 - null
+// 19245 - null
+// 19246 - null
+// 19247 - null
+// 19248 - null
+// 19249 - null
+// 19250 - null
+// 19251 - null
+// 19252 - null
+// 19253 - null
+// 19254 - null
+// 19255 - null
+// 19256 - null
+// 19257 - null
+// 19258 - null
+// 19259 - null
+// 19260 - null
+// 19261 - null
+// 19262 - null
+// 19263 - null
+// 19264 - tpr_crystal_zaros
+// 19265 - Mah
+// 19266 - tpr_cutscene_crystal_zaros_damaged
+19267 - The so-called Empty Lord.
+// 19268 - tpr_divine_simulacrum_for_cutscene
+// 19269 - tpr_divine_simulacrum_for_cutscene
+19270 - The so-called Empty Lord.
+19271 - The so-called Empty Lord.
+19272 - The so-called Empty Lord.
+19273 - The so-called Empty Lord.
+// 19274 - <col=B8D1D1>Black_partyhat
+// 19275 - <col=B8D1D1>Garish-pink_partyhat
+// 19276 - <col=B8D1D1>Atomic_tangerine_partyhat
+// 19277 - <col=B8D1D1>Aquamarine_partyhat
+// 19278 - <col=B8D1D1>Sepia_partyhat
+// 19279 - <col=B8D1D1>Battleship_gray_partyhat
+// 19280 - Alice
+19281 - A huge, brutish gorilla with dangerous-looking fists.
+19282 - A small, weak monkey, who will try and stop you if he can!
+19283 - Warning: May fire cabbages at high speed. Stay away!
+// 19284 - Quartermaster
+19285 - The emissary of the Godless.
+19286 - The gorilla goddess of good times.
+19287 - All hail Brassica Prime!
+19288 - Cultivation is his speciality.
+19289 - Cultivation is his speciality.
+19290 - Stoic, dedicated follower of his Goddess.
+19291 - Perhaps our oldest relatives?
+// 19292 - Unuki
+19293 - An overly excited gentleman delivering news to all he can.
+// 19294 - null
+// 19295 - null
+19296 - Will need to keep an eye on this snake.
+// 19297 - null
+// 19298 - Fishing_spot
+// 19299 - Fishing_spot
+// 19300 - Fishing_spot
+19301 - The human host to the Slug Queen. What horrors has she witnessed?
+19302 - A keen fisherman.
+19303 - An old sailor.
+19304 - Keeps an eye on things at the quarry.
+19305 - A mysterious old hermit.
+19306 - A keen fisherman.
+19307 - A mysterious old hermit.
+19308 - An old sailor.
+19309 - She sells Farming equipment.
+19310 - Smithing Smith.
+19311 - A bad-tempered rodent.
+19312 - A hideous crab-like creature.
+19313 - A hideous crab-like creature.
+19314 - A powerful crab-like creature.
+19315 - A powerful crab-like creature.
+19316 - A powerful crab-like creature.
+19317 - A powerful crab-like creature.
+19318 - A powerful crab-like creature.
+19319 - A powerful crab-like creature.
+19320 - A powerful crab-like creature.
+19321 - A powerful crab-like creature.
+19322 - A powerful crab-like creature.
+19323 - A huge, aquatic monster.
+// 19324 - Ship
+19325 - Keeps an eye on things at the quarry.
+19326 - I'm glad I can't see the rest of it!
+19327 - I'm glad I can't see the rest of it!
+19328 - I'm glad I can't see the rest of it!
+19329 - I'm glad I can't see the rest of it!
+19330 - I'm glad I can't see the rest of it!
+19331 - I'm glad I can't see the rest of it!
+19332 - A huge, aquatic monster.
+19333 - A huge, aquatic monster.
+19334 - A huge, aquatic monster.
+// 19335 - "Tentacle"
+// 19336 - "Warrior"
+// 19337 - "Agoroth"
+// 19338 - "Ship"
+// 19339 - ""Cosplayer""
+// 19340 - "Ned"
+// 19341 - "Hendrik"
+// 19342 - "Magda"
+// 19343 - "Quarry_overseer"
+// 19344 - "Tentacle"
+// 19345 - "Agoroth"
+// 19346 - "Crassian_scout"
+// 19347 - """Warrior"""
+19348 - The happiest man in Ashdale.
+19349 - A citizen of Burthorpe.
+19350 - An ugly, green creature.
+19351 - An ugly, green creature.
+19352 - An ugly, green creature.
+19353 - An ugly, green creature.
+19354 - A chronicle of the Big High War God.
+19355 - A huge war chief.
+19356 - A huge war chief.
+19357 - Voted the most worthy goblin champion. Somehow.
+19358 - He's just joining your fight, don't mind him.
+19359 - He's just joining your fight, don't mind him.
+19360 - Morningstar's brother. Likely a cat lover.
+19361 - Didn't get invited to the ball, and not happy about it.
+19362 - Didn't get invited to the ball, and not happy about it.
+19363 - Didn't get invited to the ball, and not happy about it.
+19364 - Didn't get invited to the ball, and not happy about it.
+19365 - Didn't get invited to the ball, and not happy about it.
+19366 - Didn't get invited to the ball, and not happy about it.
+// 19367 - player
+// 19368 - null
+// 19369 - null
+19370 - Weapon master and high shaman.
+19371 - Weapon master and high shaman.
+19372 - Weapon master and high shaman.
+// 19373 - null
+19374 - A huge war chief.
+19375 - The Chosen Commander.
+// 19376 - null
+// 19377 - null
+// 19378 - null
+19379 - The Chosen Commander.
+// 19380 - null
+19381 - 
+// 19382 - null
+19383 - Human is his speciality.
+// 19384 - null
+19385 - * Smaller than the average goblin.
+// 19386 - null
+// 19387 - High_Priest
+// 19388 - null
+19389 - An unusually large troll.
+19390 - An ugly green creature.
+19391 - An ugly green creature.
+// 19392 - null
+19393 - That's one big Ork...
+// 19394 - null
+// 19395 - null
+19396 - Voted the most worthy goblin champion. Somehow.
+// 19397 - null
+19398 - Morningstar's brother. Likely a cat lover.
+19399 - An ugly, green messenger.
+// 19400 - null
+19401 - He doesn't look very welcoming.
+// 19402 - null
+19403 - An ugly, green cleaner.
+// 19404 - null
+19405 - An ugly, green actor.
+// 19406 - null
+19407 - He doesn't look very welcoming.
+// 19408 - null
+19409 - He doesn't look very welcoming.
+19410 - Voted the most worthy goblin champion. Somehow.
+19411 - Morningstar's brother. Likely a cat lover.
+19412 - A huge war chief.
+// 19413 - Bodyguard
+// 19414 - null
+// 19415 - null
+// 19416 - null
+// 19417 - null
+// 19418 - null
+19419 - An ugly, green creature.
+19420 - An ugly, green creature.
+19421 - Your guide to Yu'biusk.
+19422 - Weapon master and high shaman.
+// 19423 - "player"
+19424 - The Chosen Commander.
+19425 - The Chosen Commander.
+19426 - Weapon master and high shaman.
+// 19427 - player
+19428 - A huge war chief.
+// 19429 - "null"
+19430 - The Chosen Commander.
+// 19431 - player
+19432 - Weapon master and high shaman.
+19433 - A gnomeball that is larger than normal, suitable for kicking.
+19434 - A ball shaped like a cabbage which you can kick around.
+19435 - A ball shaped like a skull that has been extensively kicked around.
+19436 - A ball shaped like a cute golden chinchompa.
+19437 - A ball decorated with the symbol of an ancient god.
+19438 - A miniature copy of the stone of Jas.
+// 19439 - null
+19440 - Can be used to enhance gathering of energy, fish, logs and ore, as a mithril-equivalent tool, where applicable.
+19441 - Can be used to enhance gathering of energy, fish, logs and ore, as an adamant-equivalent tool, where applicable.
+19442 - Can be used to enhance gathering of energy, fish, logs and ore, as a rune-equivalent tool, where applicable.
+19443 - Can be used to enhance gathering of energy, fish, logs and ore, as a dragon/orikalkum-equivalent tool, where applicable.
+// 19444 - "Colonel_Grimsson"
+// 19445 - "King_Veldaban"
+// 19446 - "Hreidmar"
+// 19447 - """"ph""""
+// 19448 - "Colonel_Grimsson"
+// 19449 - "Colonel_Grenda"
+// 19450 - "Kraka"
+// 19451 - "Black_Guard"
+// 19452 - "King_Veldaban"
+// 19453 - "Black_Guard"
+19454 - A rhino saved by United for Wildlife.
+19455 - Dedicated to saving rhinos.
+19456 - Dedicated to saving rhinos.
+19457 - I don't think a newspaper is going to cut it.
+19458 - Ooh, it's mad. Fights up close in melee.
+19459 - Crackling with wild magic.
+19460 - Attacks at range with its venomous spit.
+// 19461 - Totem_of_wisdom
+19462 - I don't think a newspaper is going to cut it.
+19463 - I don't think a newspaper is going to cut it.
+19464 - Believe it or not, she's still hungry.
+// 19465 - Araxxor_(acidic)
+// 19466 - Araxxor_(acidic)
+// 19467 - Araxxor_(acidic)
+19468 - Evolved to deflect damage from others.
+19469 - Shines with a healing light.
+19470 - It doesn't look healthy.
+19471 - It really doesn't look healthy.
+// 19472 - Cocooned_victim
+// 19473 - null
+// 19474 - null
+19475 - Spiky, toxic and likely to web you up at any second. How cute!
+19476 - Spiky, toxic and likely to web you up at any second. How cute!
+19477 - Spiky, toxic and likely to web you up at any second. How cute!
+19478 - It's like looking in a spidery mirror.
+19479 - Glows with a light that's soothing to spiders.
+19480 - The former Lumber Yard owner turned 'Manager of Blueprint papers'.
+19481 - Spiky, toxic and likely to web you up at any second. How cute!
+19482 - Spiky, toxic and likely to web you up at any second. How cute!
+19483 - Spiky, toxic and likely to web you up at any second. How cute!
+19484 - It's like looking in a spidery mirror.
+19485 - Glows with a light that's soothing to spiders.
+19486 - The former Lumber Yard owner turned 'Manager of Blueprint papers'.
+19487 - Evolved to deflect damage from others.
+// 19488 - Player
+// 19489 - Player
+// 19490 - Player
+// 19491 - Player
+// 19492 - Player
+// 19493 - Player
+// 19494 - Player
+// 19495 - Player
+// 19496 - Player
+// 19497 - Player
+// 19498 - Player
+// 19499 - Player
+// 19500 - Player
+// 19501 - null
+19502 - A Saradominist scholar.
+19503 - A Saradominist scholar.
+19504 - A Saradominist scholar.
+19505 - A Saradominist scholar.
+19506 - One of Denath's minions.
+19507 - One of Denath's minions.
+19508 - One of Denath's minions.
+19509 - One of Denath's minions.
+19510 - One of Denath's minions.
+19511 - One of Denath's minions.
+19512 - One of Denath's minions.
+19513 - The human host to the Slug Queen. What horrors has she witnessed?
+// 19514 - "Gudrik"
+// 19515 - "Hans"
+19516 - A Saradominist scholar.
+19517 - A Saradominist scholar.
+// 19518 - null
+// 19519 - Elf_hermit
+19520 - An elven child.
+// 19521 - null
+19522 - An elven child.
+// 19523 - null
+19524 - This elf has the otherworldly air of a summoned creature.
+19525 - This ancient elf appears to be being kept alive by a metal-and-crystal exoskeleton.
+19526 - This ancient elf appears to be being kept alive by a metal-and-crystal exoskeleton.
+19527 - A construction of metal and crystal in the shape of an elf.
+19528 - A construction of metal and crystal in the shape of an elf.
+19529 - A construction of metal and crystal in the shape of an elf.
+19530 - She looks like she hasn't seen sunlight in a while.
+// 19531 - null
+19532 - His skin has the texture of tree bark.
+19533 - Kelyn from Lletya has become the new Lady Ithell.
+19534 - This elf has the otherworldly air of a summoned creature.
+19535 - This elf has an aura of serenity.
+19536 - She looks like she hasn't seen sunlight in a while.
+19537 - His skin has the texture of tree bark.
+19538 - This ancient elf appears to be being kept alive by a metal-and-crystal exoskeleton.
+19539 - A member of Ardougne's militia.
+19540 - Heroic!
+19541 - A woman, who is a warrior.
+19542 - A holy warrior.
+19543 - A knight of Ardougne.
+19544 - A holy warrior.
+19545 - A holy warrior.
+19546 - King Lathas of East Ardougne.
+19547 - A member of Ardougne's militia.
+19548 - A member of Ardougne's militia.
+// 19549 - Shadow
+// 19550 - Shadow
+19551 - It prevents light from passing through it.
+19552 - It prevents light from passing through it.
+19553 - 
+// 19554 - Dark_Lord_(weakened)
+19555 - 
+19556 - An elf lord.
+19557 - 
+19558 - This ancient elf appears to be being kept alive by a metal-and-crystal exoskeleton.
+19559 - A thoughtful Iorwerth archaeologist.
+19560 - Kelyn from Lletya has become the new Lady Ithell.
+19561 - This elf has the otherworldly air of a summoned creature.
+19562 - This elf has an aura of serenity.
+19563 - She looks like she hasn't seen sunlight in a while.
+19564 - His skin has the texture of tree bark.
+19565 - 
+19566 - Loves mining.
+19567 - An impatient Iorwerth officer.
+19568 - A thoughtful Iorwerth archaeologist.
+19569 - A mourner, or plague healer.
+19570 - A mourner, or plague healer.
+19571 - An elf with expensive tastes.
+19572 - A magnificent gnome with a flying machine.
+19573 - He loads and unloads the boxes. Some day, he hopes to fly the gnomecopter himself.
+19574 - A mourner, or plague healer.
+19575 - He looks hungry.
+19576 - He looks hungry.
+19577 - He looks hungry.
+19578 - He looks hungry.
+19579 - He looks hungry.
+19580 - He looks hungry.
+19581 - He looks hungry.
+19582 - He looks hungry.
+19583 - He looks hungry.
+19584 - A holy warrior.
+19585 - A knight of Ardougne.
+// 19586 - null
+19587 - A knight of Ardougne.
+19588 - A knight of Ardougne.
+19589 - A relative of the former King Lathas.
+// 19590 - null
+// 19591 - null
+// 19592 - null
+// 19593 - null
+// 19594 - null
+// 19595 - null
+// 19596 - null
+// 19597 - null
+// 19598 - null
+// 19599 - null
+// 19600 - null
+// 19601 - null
+// 19602 - null
+// 19603 - null
+// 19604 - null
+19605 - She looks upset.
+19606 - The head of the Rehnison family
+19607 - A fairly poor looking woman.
+19608 - A cynical old man.
+19609 - She looks concerned.
+19610 - She's quite a looker!
+19611 - The cave guide.
+19612 - She looks concerned.
+19613 - She looks upset.
+19614 - The head of the Rehnison family
+19615 - A fairly poor looking woman.
+19616 - A cynical old man.
+19617 - She's quite a looker!
+19618 - The cave guide.
+19619 - A mourner, or plague healer.
+19620 - A mourner, or plague healer.
+19621 - A mourner, or plague healer.
+// 19622 - Elf
+// 19623 - Head_Mourner
+19624 - A mourner, or plague healer.
+19625 - A mourner, or plague healer.
+// 19626 - Kelyn
+19627 - An elf.
+19628 - A mourner, or plague healer.
+19629 - A mourner, or plague healer.
+19630 - A mourner, or plague healer.
+19631 - King Lathas of East Ardougne.
+19632 - A mourner, or plague healer.
+19633 - A mourner, or plague healer.
+19634 - A mourner, or plague healer.
+19635 - A mourner, or plague healer.
+19636 - She's quite a looker!
+19637 - She looks upset.
+// 19638 - Head_mourner
+19639 - A mourner, or plague healer.
+19640 - A mourner, or plague healer.
+19641 - A mourner, or plague healer.
+19642 - The head of the Rehnison family
+19643 - A fairly poor looking woman.
+19644 - A cynical old man.
+19645 - A mourner, or plague healer.
+19646 - The cave guide.
+19647 - An elf lord.
+// 19648 - null
+// 19649 - null
+// 19650 - Grunsh
+// 19651 - null
+19652 - * Proprietor of Vigr's Warhammers.
+// 19653 - null
+// 19654 - null
+19655 - A dwarven trader from [[Keldagrim]].
+// 19656 - null
+// 19657 - null
+// 19658 - Grundt
+// 19659 - null
+19660 - An angry dwarf.
+// 19661 - null
+19662 - The cat belongs to the director of the Red Axe.
+// 19663 - null
+19664 - She's come to offer a wish!
+19665 - A mourner, or plague healer.
+// 19666 - Slave
+// 19667 - Slave
+// 19668 - Slave
+19669 - Do not fear the Reaper.
+19670 - Run away! Run away!
+19671 - Run away! Run away!
+19672 - What's it looking at?
+19673 - He'll lore your face off.
+19674 - What on RuneScape is that?
+19675 - What on RuneScape is that?
+19676 - What on RuneScape is that?
+19677 - What on RuneScape is that?
+19678 - What on RuneScape is that?
+19679 - What on RuneScape is that?
+19680 - What on RuneScape is that?
+19681 - What on RuneScape is that?
+19682 - What on RuneScape is that?
+19683 - He's making a run for it!
+19684 - He's making a run for it!
+19685 - He's making a run for it!
+19686 - He's making a run for it!
+19687 - He's making a run for it!
+19688 - He's making a run for it!
+19689 - He's making a run for it!
+19690 - He's making a run for it!
+19691 - He's making a run for it!
+19692 - Shooty-shooty.
+19693 - Shooty-shooty.
+19694 - Shooty-shooty.
+19695 - Shooty-shooty.
+19696 - Shooty-shooty.
+19697 - Shooty-shooty.
+19698 - Shooty-shooty.
+19699 - Shooty-shooty.
+19700 - Shooty-shooty.
+19701 - A nasty piece of work.
+19702 - A nasty piece of work.
+19703 - A nasty piece of work.
+19704 - A nasty piece of work.
+19705 - A nasty piece of work.
+19706 - A nasty piece of work.
+19707 - A nasty piece of work.
+19708 - A nasty piece of work.
+19709 - A nasty piece of work.
+19710 - Healer of the Penance.
+19711 - Healer of the Penance.
+19712 - Runner of the Penance.
+19713 - Runner of the Penance.
+19714 - Fighter of the Penance.
+19715 - Fighter of the Penance.
+// 19716 - Balthazar
+19717 - Doesn't actually bark.
+19718 - Doesn't actually bark.
+19719 - Doesn't actually bark.
+19720 - 
+19721 - Wizard, inventor, pulley enthusiast.
+19722 - A shifty-looking character.
+// 19723 - Alice
+19724 - A pirate sheep companion pet, who keeps calm even when things get wooly out at sea.
+19725 - A pirate sheep companion pet, who keeps calm even when things get wooly out at sea.
+19726 - An elf lady who manages challenges.
+// 19727 - null
+// 19728 - null
+// 19729 - null
+// 19730 - null
+// 19731 - null
+// 19732 - null
+// 19733 - null
+// 19734 - null
+// 19735 - null
+// 19736 - null
+// 19737 - null
+// 19738 - null
+// 19739 - null
+// 19740 - null
+// 19741 - null
+// 19742 - null
+// 19743 - null
+// 19744 - null
+// 19745 - null
+// 19746 - null
+// 19747 - null
+// 19748 - null
+// 19749 - null
+// 19750 - null
+// 19751 - null
+// 19752 - null
+// 19753 - null
+// 19754 - null
+// 19755 - null
+// 19756 - null
+// 19757 - null
+// 19758 - null
+// 19759 - null
+// 19760 - null
+// 19761 - null
+// 19762 - null
+// 19763 - null
+// 19764 - null
+// 19765 - null
+// 19766 - null
+// 19767 - null
+// 19768 - null
+// 19769 - null
+// 19770 - null
+// 19771 - null
+// 19772 - null
+// 19773 - null
+// 19774 - null
+// 19775 - null
+// 19776 - null
+// 19777 - null
+// 19778 - null
+// 19779 - null
+// 19780 - null
+// 19781 - null
+// 19782 - null
+// 19783 - null
+// 19784 - null
+19785 - She's mastered the many skills of RuneScape.
+19786 - She's mastered the many skills of RuneScape.
+19787 - She's mastered the many skills of RuneScape.
+19788 - She's mastered the many skills of RuneScape.
+19789 - She's mastered the many skills of RuneScape.
+19790 - She's mastered the many skills of RuneScape.
+19791 - She's mastered the many skills of RuneScape.
+19792 - She's mastered the many skills of RuneScape.
+19793 - She's mastered the many skills of RuneScape.
+19794 - She's mastered the many skills of RuneScape.
+19795 - She's mastered the many skills of RuneScape.
+19796 - She's mastered the many skills of RuneScape.
+19797 - She's mastered the many skills of RuneScape.
+19798 - She's mastered the many skills of RuneScape.
+19799 - She's mastered the many skills of RuneScape.
+19800 - She's mastered the many skills of RuneScape.
+19801 - She's mastered the many skills of RuneScape.
+19802 - She's mastered the many skills of RuneScape.
+19803 - She's mastered the many skills of RuneScape.
+19804 - She's mastered the many skills of RuneScape.
+19805 - She's mastered the many skills of RuneScape.
+19806 - She's mastered the many skills of RuneScape.
+19807 - She's mastered the many skills of RuneScape.
+19808 - She's mastered the many skills of RuneScape.
+19809 - She's mastered the many skills of RuneScape.
+19810 - She's mastered the many skills of RuneScape.
+19811 - 
+19812 - 
+// 19813 - null
+19814 - An archer for the Cadarn clan.
+19815 - An archer for the Cadarn clan.
+19816 - An archer for the Cadarn clan.
+19817 - An archer for the Cadarn clan.
+19818 - An elven wizard.
+19819 - An elven wizard.
+19820 - An elven wizard.
+19821 - An elven wizard.
+19822 - An archer for the Cadarn clan.
+19823 - An archer for the Cadarn clan.
+19824 - An archer for the Cadarn clan.
+19825 - An archer for the Cadarn clan.
+19826 - An archer for the Cadarn clan.
+19827 - An archer for the Cadarn clan.
+19828 - An elf selling battlestaves.
+// 19829 - ""Elven_city_guard""
+// 19830 - ""Elven_city_guard""
+19831 - A labourer for Clan Cadarn.
+19832 - A labourer for Clan Cadarn.
+19833 - A labourer for Clan Cadarn.
+19834 - A labourer for Clan Cadarn.
+// 19835 - "Banker"
+// 19836 - "Grand_Exchange_clerk"
+// 19837 - "Elf_boy"
+19838 - 
+19839 - An archer for the Cadarn clan.
+19840 - An archer for the Cadarn clan.
+19841 - An archer for the Cadarn clan.
+19842 - An archer for the Cadarn clan.
+19843 - An archer for the Cadarn clan.
+// 19844 - "Rhobert_Dail_(herbs)"
+// 19845 - "Eirlys"
+// 19846 - "Tiwlip"
+// 19847 - "Tiwlip"
+// 19848 - "Grand_Exchange_clerk"
+// 19849 - "Grand_Exchange_clerk"
+19850 - A labourer for Clan Trahaearn.
+// 19851 - "I'm_a_replacement"
+19852 - A herald for clan Hefin.
+19853 - A herald for clan Meilyr.
+19854 - A herald for clan Trahaearn.
+19855 - A herald for clan Cadarn.
+19856 - A herald for clan Iorwerth.
+19857 - A herald for clan Cadarn.
+19858 - A herald for clan Crwys.
+19859 - A herald for clan Trahaearn.
+19860 - A herald for clan Ithell.
+19861 - A herald for clan Meilyr.
+19862 - A herald for clan Amlodd.
+19863 - A herald for clan Hefin.
+19864 - Attends the golden statue in the Tower of Voices.
+19865 - An elf with an unfeasibly large face.
+// 19866 - null
+// 19867 - Raven
+// 19868 - Raven
+// 19869 - Raven
+// 19870 - Raven
+// 19871 - Raven
+// 19872 - Raven
+19873 - An elf lord.
+19874 - A powerful demon from the Kal'gerion plane.
+19875 - A Clan Iorwerth scout.
+19876 - A Clan Iorwerth scout.
+19877 - A Clan Iorwerth guard.
+19878 - A Clan Iorwerth guard.
+19879 - A Clan Iorwerth guard.
+19880 - A Clan Iorwerth guard.
+19881 - He looks disturbingly familiar.
+19882 - His skin has the texture of tree bark.
+// 19883 - null
+19884 - A manifestation of a memory of Guthix.
+// 19885 - null
+// 19886 - null
+// 19887 - null
+// 19888 - null
+// 19889 - null
+// 19890 - null
+// 19891 - null
+// 19892 - null
+19893 - An elven child.
+19894 - An elven child.
+// 19895 - null
+19896 - 
+// 19897 - null
+19898 - This ancient elf appears to be being kept alive by a metal-and-crystal exoskeleton.
+// 19899 - null
+19900 - A thoughtful Iorwerth archaeologist.
+// 19901 - null
+19902 - Kelyn from Lletya has become the new Lady Ithell.
+// 19903 - null
+19904 - This elf has the otherworldly air of a summoned creature.
+// 19905 - null
+19906 - This elf has an aura of serenity.
+// 19907 - null
+19908 - She looks like she hasn't seen sunlight in a while.
+// 19909 - null
+19910 - His skin has the texture of tree bark.
+19911 - There to help me make my bids.
+19912 - There to help me make my bids.
+19913 - There to help me make my bids.
+19914 - There to help me make my bids.
+19915 - There to help me make my bids.
+19916 - He/She can look after my money.
+19917 - He/She can look after my money.
+19918 - He/She can look after my money.
+19919 - He'll decant potions for you.
+19920 - The most loyal elf you'll ever know.
+19921 - A toy-seller who looks after people's toys for them.
+// 19922 - null
+// 19923 - null
+19924 - N/A
+19925 - N/A
+// 19926 - null
+19927 - This ancient elf appears to be being kept alive by a metal-and-crystal exoskeleton.
+// 19928 - "Arianwyn"
+// 19929 - "Cadarn_worker"
+// 19930 - "Challenge_Mistress_Heriau"
+// 19931 - "Elen_Anterth"
+// 19932 - ""Rhobert_Dail_(herbs)""
+// 19933 - "Elen_Anterth"
+// 19934 - "Cadarn_ranger"
+// 19935 - "Cadarn_ranger"
+// 19936 - "Cadarn_herald"
+// 19937 - "Trahaearn_herald"
+// 19938 - """Elven_city_guard"""
+// 19939 - null
+// 19940 - ""Elf_boy""
+// 19941 - "Cadarn_worker"
+// 19942 - "Cadarn_ranger"
+// 19943 - "Lord_Amlodd"
+// 19944 - "elf_2014_butterfly_crwys"
+// 19945 - "Trahaearn_worker"
+// 19946 - "Banker"
+// 19947 - """Elven_city_guard"""
+// 19948 - "Briallen"
+// 19949 - "Cadarn_worker"
+// 19950 - "Lord_Iorwerth"
+// 19951 - "Guthixian_butterfly"
+// 19952 - ""Grand_Exchange_clerk""
+// 19953 - "Grand_Exchange_clerk"
+// 19954 - "Lady_Trahaearn"
+// 19955 - "Cadarn_ranger"
+// 19956 - "elf_2014_butterfly_hefin"
+// 19957 - "Cadarn_worker"
+// 19958 - "Cadarn_ranger"
+// 19959 - ""Tiwlip""
+// 19960 - "Trahaearn_worker"
+// 19961 - ""Grand_Exchange_clerk""
+// 19962 - ""Eirlys""
+// 19963 - "Trahaearn_worker"
+// 19964 - "Elf_boy"
+// 19965 - "Meilyr_herald"
+// 19966 - "Cadarn_ranger"
+// 19967 - "Elf_girl"
+// 19968 - "Cadarn_ranger"
+// 19969 - "Rhobert_Dail_(herbs)"
+// 19970 - "Guthixian_butterfly"
+// 19971 - "Cadarn_magus"
+// 19972 - "Lady_Hefin"
+// 19973 - "Cadarn_ranger"
+// 19974 - "Hefin_herald"
+// 19975 - null
+// 19976 - "Banker"
+// 19977 - ""Banker""
+// 19978 - ""Grand_Exchange_clerk""
+// 19979 - "Lord_Crwys"
+// 19980 - ""Tiwlip""
+// 19981 - ""I'm_a_replacement""
+// 19982 - "Grand_Exchange_clerk"
+// 19983 - "Ianto"
+// 19984 - "Cadarn_ranger"
+// 19985 - "Cadarn_worker"
+// 19986 - "Meilyr_herald"
+// 19987 - "Banker"
+// 19988 - "Ianto"
+// 19989 - """Elven_city_guard"""
+// 19990 - "Rhobert_Dail_(herbs)"
+// 19991 - ""Elf_boy""
+// 19992 - "Hefin_herald"
+// 19993 - "Cadarn_ranger"
+// 19994 - "Cadarn_worker"
+// 19995 - "Cadarn_herald"
+// 19996 - "Cadarn_worker"
+// 19997 - ""I'm_a_replacement""
+// 19998 - "Cadarn_ranger"
+// 19999 - null
+// 20000 - "Cadarn_worker"
+// 20001 - "Grand_Exchange_clerk"
+// 20002 - null
+// 20003 - "Lady_Trahaearn"
+// 20004 - "Elf_girl"
+// 20005 - "Lord_Iorwerth"
+// 20006 - "Arianwyn"
+// 20007 - "Guthixian_butterfly"
+// 20008 - "Cadarn_ranger"
+// 20009 - "elf_2014_butterfly_hefin"
+// 20010 - "Grand_Exchange_clerk"
+// 20011 - "Cadarn_ranger"
+// 20012 - """Elven_city_guard"""
+// 20013 - "Briallen"
+// 20014 - "elf_2014_butterfly_crwys"
+// 20015 - "Cadarn_magus"
+// 20016 - "Cadarn_ranger"
+// 20017 - "Lady_Hefin"
+// 20018 - "Banker"
+// 20019 - "Elen_Anterth"
+// 20020 - ""Rhobert_Dail_(herbs)""
+// 20021 - "Cadarn_ranger"
+// 20022 - ""Grand_Exchange_clerk""
+// 20023 - "Guthixian_butterfly"
+// 20024 - "Lord_Crwys"
+// 20025 - ""Banker""
+// 20026 - "Trahaearn_worker"
+// 20027 - ""Eirlys""
+// 20028 - ""Grand_Exchange_clerk""
+// 20029 - "Challenge_Mistress_Heriau"
+// 20030 - "Elen_Anterth"
+// 20031 - ""Tiwlip""
+// 20032 - "Lord_Amlodd"
+// 20033 - "Elf_boy"
+// 20034 - ""Grand_Exchange_clerk""
+// 20035 - ""Tiwlip""
+// 20036 - "Trahaearn_herald"
+// 20037 - "Cadarn_ranger"
+// 20038 - "Trahaearn_worker"
+// 20039 - "Cadarn_ranger"
+// 20040 - "Ianto"
+// 20041 - "Cadarn_ranger"
+// 20042 - "Cadarn_worker"
+// 20043 - ""Banker""
+// 20044 - "Elen_Anterth"
+// 20045 - "Lord_Iorwerth"
+// 20046 - ""Tiwlip""
+// 20047 - null
+// 20048 - "Cadarn_ranger"
+// 20049 - "Cadarn_ranger"
+// 20050 - "Guthixian_butterfly"
+// 20051 - "Rhobert_Dail_(herbs)"
+// 20052 - "Cadarn_ranger"
+// 20053 - ""Grand_Exchange_clerk""
+// 20054 - "Cadarn_ranger"
+// 20055 - "elf_2014_butterfly_hefin"
+// 20056 - "Briallen"
+// 20057 - "Cadarn_ranger"
+// 20058 - "Lady_Trahaearn"
+// 20059 - "Elen_Anterth"
+// 20060 - "Grand_Exchange_clerk"
+// 20061 - "Arianwyn"
+// 20062 - """Elven_city_guard"""
+// 20063 - """Elven_city_guard"""
+// 20064 - "Grand_Exchange_clerk"
+// 20065 - "Cadarn_ranger"
+// 20066 - "Lady_Hefin"
+// 20067 - "Cadarn_worker"
+// 20068 - "Lord_Crwys"
+// 20069 - "Cadarn_herald"
+// 20070 - "Elen_Anterth"
+// 20071 - ""Tiwlip""
+// 20072 - "Cadarn_worker"
+// 20073 - "Elf_boy"
+// 20074 - "Elen_Anterth"
+// 20075 - "elf_2014_butterfly_crwys"
+// 20076 - ""Eirlys""
+// 20077 - "Cadarn_ranger"
+// 20078 - "Trahaearn_herald"
+// 20079 - "Guthixian_butterfly"
+// 20080 - ""Elf_boy""
+// 20081 - "Elen_Anterth"
+// 20082 - "Hefin_herald"
+// 20083 - null
+// 20084 - "Elf_girl"
+// 20085 - "Cadarn_worker"
+// 20086 - "Challenge_Mistress_Heriau"
+// 20087 - "Trahaearn_worker"
+// 20088 - "Trahaearn_worker"
+// 20089 - "Cadarn_magus"
+// 20090 - ""Grand_Exchange_clerk""
+// 20091 - "Lord_Amlodd"
+// 20092 - "Cadarn_ranger"
+// 20093 - "Meilyr_herald"
+// 20094 - ""Grand_Exchange_clerk""
+// 20095 - ""Rhobert_Dail_(herbs)""
+20096 - An elven automaton.
+20097 - An elven automaton.
+20098 - An elven automaton.
+20099 - An elven automaton.
+// 20100 - null
+// 20101 - null
+20102 - An impling that thinks itself an elf.
+20103 - An impling that thinks itself an elf.
+// 20104 - Fishing_spot
+20105 - A fancy businessman with a mighty fine hat.
+20106 - Perhaps this gardener might look after your crops for you.
+20107 - Perhaps this gardener might look after your crops for you.
+20108 - Perhaps this gardener might look after your crops for you.
+20109 - Looks after your Farming tools.
+20110 - Looks after your Farming tools.
+20111 - Looks after your Farming tools.
+20112 - He looks a bit creepy.
+// 20113 - null
+// 20114 - null
+// 20115 - null
+// 20116 - null
+// 20117 - null
+// 20118 - null
+// 20119 - null
+// 20120 - null
+// 20121 - null
+// 20122 - null
+// 20123 - null
+// 20124 - null
+// 20125 - null
+// 20126 - null
+// 20127 - null
+// 20128 - null
+20129 - A labourer for Clan Iorwerth.
+20130 - A labourer for Clan Iorwerth.
+20131 - A labourer for Clan Iorwerth.
+20132 - A labourer for Clan Iorwerth.
+20133 - A labourer for Clan Iorwerth.
+20134 - A labourer for Clan Iorwerth.
+20135 - A labourer for Clan Iorwerth.
+20136 - A labourer for Clan Iorwerth.
+20137 - A labourer for Clan Crwys.
+20138 - A labourer for Clan Crwys.
+20139 - A labourer for Clan Crwys.
+20140 - A labourer for Clan Crwys.
+20141 - A labourer for Clan Crwys.
+20142 - A labourer for Clan Crwys.
+20143 - A labourer for Clan Crwys.
+20144 - A labourer for Clan Crwys.
+20145 - A labourer for Clan Cadarn.
+20146 - A labourer for Clan Cadarn.
+20147 - A labourer for Clan Cadarn.
+20148 - A labourer for Clan Cadarn.
+20149 - A labourer for Clan Cadarn.
+20150 - A labourer for Clan Cadarn.
+20151 - A labourer for Clan Cadarn.
+20152 - A labourer for Clan Cadarn.
+20153 - A labourer for Clan Trahaearn.
+20154 - A labourer for Clan Trahaearn.
+20155 - A labourer for Clan Trahaearn.
+20156 - A labourer for Clan Trahaearn.
+20157 - A labourer for Clan Trahaearn.
+20158 - A labourer for Clan Trahaearn.
+20159 - A labourer for Clan Trahaearn.
+20160 - A labourer for Clan Trahaearn.
+20161 - A happy, friendly landlady.
+20162 - A happy, friendly landlady.
+20163 - Only the Grim Reaper would have a pet like this.
+20164 - Do not fear the Reaper.
+20165 - An animalistic Crandorian ghost.
+20166 - A rather nasty Crandorian ghost.
+20167 - A very scary Crandorian spirit.
+20168 - A hard to defeat Crandorian ghost.
+20169 - An extremely loud Crandorian ghost.
+20170 - A Crandorian ghost that is actually dangerous to think about too much.
+20171 - An evil gestalt formed from the dead of Crandor.
+20172 - A Crandorian ghost that is actually dangerous to think about too much.
+20173 - An evil gestalt formed from the dead of Crandor.
+20174 - The personification of the evil deeds and terror of the Crandorian people.
+20175 - A small mirror, probably used for grooming.
+// 20176 - Candle_stand
+// 20177 - Chair
+// 20178 - Wardrobe
+// 20179 - Posh_stool
+// 20180 - Preview
+// 20181 - Preview
+// 20182 - Preview
+// 20183 - Preview
+// 20184 - Preview
+// 20185 - Preview
+// 20186 - Preview
+// 20187 - Preview
+// 20188 - Preview
+// 20189 - Preview
+// 20190 - Preview
+// 20191 - Preview
+// 20192 - null
+20193 - This automaton will defend Guthix's memories at all costs!
+20194 - This automaton will defend Guthix's memories at all costs!
+// 20195 - Subdued_ancient_automaton
+// 20196 - null
+20197 - This automaton will defend Guthix's memories at all costs! Subduing this automaton requires level 45 Divination.
+20198 - This automaton will defend Guthix's memories at all costs! Subduing this automaton requires level 45 Divination.
+// 20199 - Subdued_confused_automaton
+// 20200 - null
+20201 - This automaton will defend Guthix's memories at all costs! Subduing this automaton requires level 85 Divination.
+20202 - This automaton will defend Guthix's memories at all costs! Subduing this automaton requires level 85 Divination.
+// 20203 - Subdued_enraged_automaton
+20204 - 
+20205 - A dishevelled-looking servant.
+// 20206 - Servant
+20207 - The master of this house, reduced to a helpless victim.
+20208 - The ghost that haunts the mansion.
+20209 - The ghost that haunts the mansion.
+// 20210 - Ghostly_waif
+// 20211 - Ghostly_waif
+// 20212 - null
+// 20213 - Emaciated_spirit
+20214 - A ghostly little boy.
+// 20215 - "Lenian"
+// 20216 - Emaciated_spirit
+// 20217 - Emaciated_spirit
+// 20218 - Monster
+// 20219 - null
+// 20220 - Monster
+20221 - A creepy little girl.
+// 20222 - Glass
+// 20223 - Statue
+// 20224 - Statue
+// 20225 - Chair
+// 20226 - Chair
+20227 - A spectral apparition.
+20228 - A spectral apparition.
+20229 - This elf has the otherworldly air of a summoned creature.
+20230 - He's very enthusiastic about implings.
+// 20231 - null
+// 20232 - null
+// 20233 - null
+// 20234 - null
+// 20235 - null
+// 20236 - null
+// 20237 - null
+// 20238 - null
+// 20239 - null
+// 20240 - null
+// 20241 - null
+// 20242 - null
+// 20243 - null
+// 20244 - null
+// 20245 - null
+// 20246 - null
+// 20247 - null
+20248 - N/A
+20249 - A young impling. It's not fair!
+20250 - The king of fashion capes.
+20251 - N/A
+20252 - N/A
+20253 - N/A
+20254 - A very brave merchant.
+20255 - N/A
+20256 - N/A
+20257 - A very stealthy impling.
+20258 - An impling who likes the word 'dragon'.
+20259 - A young cabbagemancer.
+20260 - N/A
+20261 - N/A
+20262 - An impling with lots of energy.
+20263 - N/A
+20264 - He knows nothing.
+20265 - A weak shadow creature.
+20266 - An average shadow creature.
+20267 - A strong shadow creature.
+20268 - It's almost cute.
+20269 - It's almost cute.
+20270 - A caretaker of the Hefin Cathedral.
+20271 - A caretaker of the Hefin Cathedral.
+20272 - This elf has an aura of serenity.
+// 20273 - null
+20274 - A shimmering creature of blue light.
+20275 - A shimmering creature of blue light.
+20276 - A shimmering creature of blue light.
+20277 - A shimmering creature of blue light.
+// 20278 - null
+20279 - Separated from its family when Prifddinas grew up around it.
+20280 - Separated from its family when Prifddinas grew up around it.
+20281 - He has a certain bovine aroma
+20282 - Kelyn from Lletya has become the new Lady Ithell.
+20283 - Guards the entrance to the edimmu section of Clan Meilyr's resource dungeon.
+20284 - Has pillaged the Motherlode Maw, and offers its rewards.
+20285 - Shares the Meilyr clan's knowledge of potions...for a price.
+20286 - She looks like she hasn't seen sunlight in a while.
+20287 - A dealer of cards.
+// 20288 - null
+20289 - A dealer of cards.
+20290 - A spiritual zombie that sucks life out of its victims.
+20291 - A spiritual zombie that sucks life out of its victims.
+20292 - A tiny, tortured undead ghost. It's tiny, so it's adorable.
+20293 - A tiny, tortured undead ghost. It's tiny, so it's adorable.
+// 20294 - null
+// 20295 - null
+20296 - A Mourner showing his true identity.
+20297 - The wife of Essyllt, the Head Mourner whom you chose to spare. It's surprising he wasn't lying!
+20298 - The wife of Essyllt, the Head Mourner whom you chose to spare. It's surprising he wasn't lying!
+20299 - Up up and away!
+20300 - An elvish impersonator on the lookout for top athletes, but why?
+// 20301 - null
+20302 - Her music is beautiful.
+20303 - Her music is beautiful.
+20304 - His music is beautiful.
+20305 - His music is beautiful.
+20306 - A shimmering creature of blue light.
+20307 - A fowl bird.
+20308 - A Greater Jungle demon. A magical aura emanates from its hide.
+20309 - She changes the shape of wood.
+20310 - Perhaps this gardener might look after your crops for you.
+20311 - Looks after your Farming tools.
+// 20312 - null
+// 20313 - null
+// 20314 - null
+// 20315 - null
+// 20316 - null
+// 20317 - null
+// 20318 - null
+// 20319 - null
+// 20320 - null
+// 20321 - null
+// 20322 - null
+// 20323 - null
+// 20324 - null
+// 20325 - null
+// 20326 - null
+// 20327 - null
+20328 - A labourer for Clan Ithell.
+20329 - A labourer for Clan Ithell.
+20330 - A labourer for Clan Ithell.
+20331 - A labourer for Clan Ithell.
+20332 - A labourer for Clan Ithell.
+20333 - A labourer for Clan Ithell.
+20334 - A labourer for Clan Ithell.
+20335 - A labourer for Clan Ithell.
+20336 - A labourer for Clan Amlodd.
+20337 - A labourer for Clan Amlodd.
+20338 - A labourer for Clan Amlodd.
+20339 - A labourer for Clan Amlodd.
+20340 - A labourer for Clan Amlodd.
+20341 - A labourer for Clan Amlodd.
+20342 - A labourer for Clan Amlodd.
+20343 - A labourer for Clan Amlodd.
+20344 - A labourer for Clan Hefin.
+20345 - A labourer for Clan Hefin.
+20346 - A labourer for Clan Hefin.
+20347 - A labourer for Clan Hefin.
+20348 - A labourer for Clan Hefin.
+20349 - A labourer for Clan Hefin.
+20350 - A labourer for Clan Hefin.
+20351 - A labourer for Clan Hefin.
+20352 - A labourer for Clan Meilyr.
+20353 - A labourer for Clan Meilyr.
+20354 - A labourer for Clan Meilyr.
+20355 - A labourer for Clan Meilyr.
+20356 - A labourer for Clan Meilyr.
+20357 - A labourer for Clan Meilyr.
+20358 - A labourer for Clan Meilyr.
+20359 - A labourer for Clan Meilyr.
+// 20360 - Mummy
+// 20361 - Mummy
+// 20362 - Mummy
+// 20363 - Mummy
+// 20364 - Mummy
+// 20365 - shadow_creature
+// 20366 - Trail_advisor
+20367 - A creature born of elemental fury.
+20368 - A creature born of elemental fury.
+20369 - A creature born of elemental fury.
+20370 - An unstable creature born of elemental fury.
+20371 - An unstable creature born of elemental fury.
+20372 - Your new partner.
+20373 - Your new partner.
+20374 - An ancient creature from the Abyss. Covered in armoured plating.
+20375 - An ancient creature from the Abyss. Covered in armoured plating.
+20376 - An ancient creature from the Abyss. Covered in armoured plating.
+20377 - An ancient creature from the Abyss. Covered in armoured plating.
+// 20378 - null
+20379 - 
+20380 - I probably don't want to touch this.
+20381 - An ancient creature from the Abyss. Covered in armoured plating.
+// 20382 - null
+// 20383 - null
+// 20384 - null
+20385 - Your new partner.
+20386 - Your new partner.
+20387 - Your new partner.
+20388 - Your new partner.
+20389 - Your new partner.
+// 20390 - null
+20391 - Your new partner.
+20392 - Your new partner.
+20393 - A powerful monument with a mind of its own.
+20394 - A powerful monument with a mind of its own.
+20395 - A powerful monument with a mind of its own.
+20396 - A powerful monument with a mind of its own.
+20397 - 
+20398 - 
+20399 - 
+20400 - 
+20401 - 
+20402 - 
+20403 - 
+20404 - Smaller than the classic model, but with all of the features you know and love.
+20405 - Smaller than the classic model, but with all of the features you know and love.
+// 20406 - "Ariane"
+// 20407 - "ph"
+// 20408 - "Xenia"
+// 20409 - "Player"
+// 20410 - "Kipple"
+// 20411 - "ph"
+// 20412 - "Kipple"
+// 20413 - "Player"
+// 20414 - "Ariane"
+// 20415 - "Xenia"
+20416 - Are you good enough to fight?
+20417 - null
+20418 - It's trying to mash you flat! Less examine, more fight!
+20419 - A powerful demon. One-time Scourge of Varrock.
+20420 - A powerful warrior mage.
+20421 - An evil vampyre.
+20422 - An evil vampyre.
+20423 - Her entire form burns with rage!
+20424 - Will need to keep an eye on this snake.
+20425 - As dangerous as he is stupid and ugly (i.e. very).
+20426 - Living dead girl.
+20427 - A dangerous and vindictive Mahjarrat.
+20428 - The infamous enemy of Varrock.
+20429 - A demon made of ice.
+20430 - A fowl bird.
+20431 - A memory created by the tower of one of the many who have died here.
+20432 - Voted the most worthy goblin champion. Somehow.
+20433 - There's more than one way to skin a dragon. This hunter prefers melee.
+20434 - There's more than one way to skin a dragon. This hunter prefers magic.
+20435 - There's more than one way to skin a dragon. This hunter prefers ranged combat.
+20436 - This dark humanoid shape is your mind's attempt to make sense of the awesome manifestation of an Elder God.
+// 20437 - Chaos_Grimsson
+// 20438 - Chaos_Hreidmar
+20439 - Morningstar's brother. Likely a cat lover.
+20440 - It's Nial, turned into a yeti.
+// 20441 - Whirling_debris
+// 20442 - Lightning_vortex
+20443 - Gives double dominion factor for a small amount of time.
+20444 - Releases a healing aura over the arena.
+20445 - Ever changing energy, it's hard to predict what this will do.
+20446 - Boosts your adrenaline. Use in small doses.
+20447 - An evil vampyre.
+20448 - An evil vampyre.
+20449 - An evil vampyre.
+20450 - An evil vampyre.
+20451 - An evil vampyre.
+20452 - A bloodveld summoned by Vanstrom to heal him in battle.
+20453 - Voted the most worthy goblin champion. Somehow.
+20454 - Voted the most worthy goblin champion. Somehow.
+20455 - He's just joining your fight, don't mind him.
+20456 - He's just joining your fight, don't mind him.
+20457 - He's just joining your fight, don't mind him.
+// 20458 - Ferocious_dreadnip
+// 20459 - Stinging_dreadnip
+// 20460 - Luminous_dreadnip
+20461 - Devastation incarnate.
+20462 - Devastation incarnate.
+20463 - A snowman armed with a holly bow.
+20464 - A snowman armed with an ice sword.
+20465 - A snowman armed with a winter staff.
+20466 - A Heimland Games snowman.
+20467 - Always rooting for Clan Crwys.
+20468 - Always rooting for Clan Crwys.
+20469 - An elf wise in the ways of limestone.
+20470 - A slightly odd elf who talks to little green men.
+20471 - Ready to help you.
+20472 - A particularly cheerful looking elf-child.
+20473 - An elf with an unfeasibly large face.
+// 20474 - null
+// 20475 - null
+// 20476 - null
+// 20477 - null
+// 20478 - null
+// 20479 - null
+// 20480 - null
+// 20481 - null
+20482 - Displays items available at Solomon's General Store{{sic}}
+20483 - Displays items available at Solomon's General Store{{sic}}
+20484 - Displays items available at Solomon's General Store{{sic}}
+20485 - Displays items available at Solomon's General Store{{sic}}
+20486 - Displays items available at Solomon's General Store{{sic}}
+20487 - Displays items available at Solomon's General Store{{sic}}
+20488 - Displays items available at Solomon's General Store{{sic}}
+20489 - Displays items available at Solomon's General Store{{sic}}
+20490 - Displays items available at Solomon's General Store{{sic}}
+20491 - Displays items available at Solomon's General Store{{sic}}
+20492 - Displays items available at Solomon's General Store{{sic}}
+20493 - Displays items available at Solomon's General Store{{sic}}
+20494 - Displays items available at Solomon's General Store{{sic}}
+20495 - Displays items available at Solomon's General Store{{sic}}
+20496 - Displays items available at Solomon's General Store{{sic}}
+20497 - Displays items available at Solomon's General Store{{sic}}
+20498 - Displays items available at Solomon's General Store{{sic}}
+20499 - Displays items available at Solomon's General Store{{sic}}
+20500 - Displays items available at Solomon's General Store{{sic}}
+20501 - Displays items available at Solomon's General Store{{sic}}
+20502 - Displays items available at Solomon's General Store{{sic}}
+20503 - Displays items available at Solomon's General Store{{sic}}
+20504 - Displays items available at Solomon's General Store{{sic}}
+20505 - Displays items available at Solomon's General Store{{sic}}
+20506 - Displays items available at Solomon's General Store{{sic}}
+20507 - Displays items available at Solomon's General Store{{sic}}
+20508 - Displays items available at Solomon's General Store{{sic}}
+20509 - Displays items available at Solomon's General Store{{sic}}
+20510 - Displays items available at Solomon's General Store{{sic}}
+20511 - Displays items available at Solomon's General Store{{sic}}
+20512 - Displays items available at Solomon's General Store{{sic}}
+20513 - Displays items available at Solomon's General Store{{sic}}
+20514 - Displays items available at Solomon's General Store{{sic}}
+20515 - Displays items available at Solomon's General Store{{sic}}
+// 20516 - Dwarven_Challenge_Barrel
+// 20517 - Dwarven_Challenge_Barrel
+// 20518 - Warm_Winter_outfit
+// 20519 - Warm_Winter_outfit
+20520 - Displays items available at Solomon's General Store{{sic}}
+20521 - Displays items available at Solomon's General Store{{sic}}
+20522 - Displays items available at Solomon's General Store{{sic}}
+20523 - Displays items available at Solomon's General Store{{sic}}
+20524 - A toy royal battleship that is ready for battle.
+20525 - A toy royal battleship that is ready for battle.
+20526 - A toy royal battleship that is ready for battle.
+20527 - A toy royal battleship that is ready for battle. It has been damaged.
+20528 - A toy royal battleship that is ready for battle. It has been damaged.
+20529 - A toy royal battleship that is ready for battle. It has been damaged.
+20530 - Little avatar of Armadyl.
+20531 - A small servant of the god Zamorak.
+20532 - A tiny war chief.
+20533 - Commander of Saradomin's forces' pets.
+20534 - Perhaps the gods don't fear this version...
+20535 - A newspaper will be fine!
+20536 - 
+20537 - mIniScuLe A crEaTurE!
+20538 - A vision of miniature horror.
+20539 - Is she the good one?
+20540 - This is the little head of Shrimpy.
+20541 - This diminutive kalphite is not more powerful than the queen!
+20542 - I think insect repellent would work quite well.
+20543 - I think insect repellent would work quite well.
+20544 - Was never the biggest, meanest dragon around.
+20545 - A less-than-powerful Order of the Ascension unit.
+20546 - A less-than-powerful Order of Ascension unit.
+20547 - A less-than-powerful Order of Ascension unit.
+20548 - A less-than-powerful Order of Ascension unit.
+20549 - A less-than-powerful Order of Ascension unit.
+20550 - A less-than-powerful Order of Ascension unit.
+20551 - Wonder if there are tiny grotworms, too...
+20552 - 
+20553 - 
+20554 - 
+20555 - Have a bit of growing to do.
+20556 - Little avatar of Armadyl.
+20557 - A small servant of the god Zamorak.
+20558 - A tiny war chief.
+20559 - Commander of Saradomin's forces' pets.
+20560 - Perhaps the gods don't fear this version...
+20561 - A newspaper will be fine!
+20562 - 
+20563 - mIniScuLe A crEaTurE!
+20564 - A vision of miniature horror.
+20565 - Is she the good one?
+20566 - This is the little head of Shrimpy.
+20567 - This diminutive kalphite is not more powerful than the queen!
+20568 - I think insect repellent would work quite well.
+20569 - I think insect repellent would work quite well.
+20570 - Was never the biggest, meanest dragon around.
+20571 - A less-than-powerful Order of the Ascension unit.
+20572 - A less-than-powerful Order of Ascension unit.
+20573 - A less-than-powerful Order of Ascension unit.
+20574 - A less-than-powerful Order of Ascension unit.
+20575 - A less-than-powerful Order of Ascension unit.
+20576 - A less-than-powerful Order of Ascension unit.
+20577 - Wonder if there are tiny grotworms, too...
+// 20578 - Prime_Hatchling
+// 20579 - Rex_Hatchling
+// 20580 - Supreme_Hatchling
+20581 - Have a bit of growing to do.
+20582 - A big, scary, jet-black demon.
+20583 - A big, scary, jet-black demon.
+20584 - A big, scary, jet-black demon.
+20585 - A big, scary, jet-black demon.
+20586 - A big, scary, jet-black demon.
+// 20587 - Jmod
+// 20588 - Jmod
+20589 - A self-described Ramokee worldbearer.
+20590 - The fading memory of a long-dead race.
+20591 - A mischievous, mystical and misunderstood man.
+20592 - A self-described Ramokee worldbearer.
+20593 - The fading memory of a long-dead race.
+20594 - A mischievous, mystical and misunderstood man.
+// 20595 - "The_Exile"
+// 20596 - "The_Memory"
+// 20597 - "The_Tengu"
+20598 - 
+20599 - Niya's evil twin, dressed in misery.
+// 20600 - Alice
+// 20601 - Nomad_outfit
+// 20602 - Nomad_outfit
+20603 - Lookin' clean!
+20604 - Lookin' clean!
+// 20605 - Gameblast_outfit
+// 20606 - Gameblast_outfit
+// 20607 - Ethereal_wings
+// 20608 - Gemstone_wings
+// 20609 - Freefall_wings
+// 20610 - Silver_bladed_wings
+20611 - A scroll for demon familiars.
+20612 - A scroll for demon familiars.
+20613 - A scroll for demon familiars.
+20614 - A scroll for demon familiars.
+20615 - A scroll for demon familiars.
+20616 - A scroll for demon familiars.
+20617 - A scroll for a cockatrice variant familiar.
+20618 - A scroll for a cockatrice variant familiar.
+20619 - A scroll for a cockatrice variant familiar.
+20620 - A scroll for a cockatrice variant familiar.
+20621 - A scroll for a cockatrice variant familiar.
+20622 - A scroll for a cockatrice variant familiar.
+20623 - A scroll for a cockatrice variant familiar.
+20624 - A scroll for a cockatrice variant familiar.
+20625 - A scroll for pig familiars.
+20626 - A scroll for pig familiars.
+20627 - A scroll for pig familiars.
+20628 - Salt and vinegaroon.
+// 20629 - Large_mound
+20630 - I'm pretty sure there's something big under there.
+// 20631 - Trap
+20632 - A Mahjarrat recently reawakened by his cult of followers.
+20633 - A Mahjarrat recently reawakened by his cult of followers.
+20634 - A Mahjarrat recently reawakened by his cult of followers.
+20635 - A Mahjarrat recently reawakened by his cult of followers.
+20636 - A Mahjarrat recently reawakened by his cult of followers.
+20637 - A Mahjarrat recently reawakened by his cult of followers.
+// 20638 - null
+// 20639 - null
+// 20640 - null
+// 20641 - null
+// 20642 - null
+20643 - He looks really nasty. Smells bad, too.
+// 20644 - null
+// 20645 - null
+// 20646 - null
+20647 - He looks really nasty. Smells bad, too.
+20648 - He looks really nasty. Smells bad, too.
+20649 - 
+// 20650 - null
+// 20651 - null
+// 20652 - null
+20653 - 
+20654 - 
+20655 - The scourge of souls.
+20656 - The scourge of souls.
+20657 - The scourge of souls.
+// 20658 - null
+// 20659 - null
+// 20660 - null
+20661 - The scourge of souls.
+20662 - The scourge of souls.
+20663 - The scourge of souls.
+20664 - Lucien's daughter.
+// 20665 - null
+// 20666 - null
+// 20667 - null
+20668 - Lucien's daughter.
+20669 - Lucien's daughter.
+20670 - A horribly scarred human rogue.
+20671 - A horribly scarred human rogue.
+20672 - A horribly scarred human rogue.
+20673 - A horribly scarred human rogue.
+// 20674 - null
+// 20675 - null
+20676 - A horribly scarred human rogue.
+20677 - A horribly scarred human rogue.
+20678 - A horribly scarred human rogue.
+20679 - A horribly scarred human rogue.
+20680 - A dangerous and vindictive Mahjarrat.
+// 20681 - null
+// 20682 - null
+// 20683 - null
+20684 - A dangerous and vindictive Mahjarrat.
+20685 - A dangerous and vindictive Mahjarrat.
+20686 - The infamous enemy of Varrock.
+// 20687 - null
+// 20688 - null
+// 20689 - null
+20690 - The infamous enemy of Varrock.
+20691 - The infamous enemy of Varrock.
+20692 - A mysterious and devious Mahjarrat.
+// 20693 - null
+20694 - A mysterious and devious Mahjarrat.
+// 20695 - null
+20696 - The god of chaos has returned.
+20697 - The god of chaos has returned.
+20698 - N/A
+20699 - Do not fear the Reaper.
+20700 - The god of justice.
+20701 - The god of war.
+// 20702 - null
+20703 - A dark-hearted knight.
+20704 - A dark-hearted knight.
+20705 - A dark-hearted knight.
+20706 - A dark-hearted knight.
+20707 - A Black Knight who believes that chaos is a force of evil.
+20708 - A dark-hearted knight.
+20709 - A dark-hearted knight.
+20710 - Seems to flitter in and out of existence...
+// 20711 - Vault_guard
+20712 - Armed, and nowhere near as dead as it should be.
+20713 - Armed, and nowhere near as dead as it should be.
+20714 - Armed, and nowhere near as dead as it should be.
+20715 - Armed, and nowhere near as dead as it should be.
+20716 - Armed, and nowhere near as dead as it should be.
+20717 - Armed, and nowhere near as dead as it should be.
+20718 - Armed, and nowhere near as dead as it should be.
+20719 - Armed, and nowhere near as dead as it should be.
+20720 - Armed, and nowhere near as dead as it should be.
+20721 - Armed, and nowhere near as dead as it should be.
+20722 - Armed, and nowhere near as dead as it should be.
+20723 - A ghostly shadow clone of Hazeel.
+20724 - A ghostly shadow clone of General Khazard.
+20725 - A ghostly shadow clone of Lord Daquarius.
+20726 - A ghostly shadow clone of Nomad.
+20727 - A ghostly shadow clone of Moia.
+20728 - A ghostly shadow clone of Jerrod.
+20729 - A ghostly shadow clone of Enakhra.
+20730 - A ghostly shadow clone of Zemouregal.
+// 20731 - null
+20732 - He looks really nasty. Smells bad, too.
+20733 - 
+20734 - The scourge of souls.
+20735 - Lucien's daughter.
+20736 - A horribly scarred human rogue.
+20737 - A dangerous and vindictive Mahjarrat.
+20738 - The infamous enemy of Varrock.
+20739 - A shadowy apparition of your future self.
+20740 - A shadowy apparition of your future self.
+20741 - A shadowy apparition of your future self.
+// 20742 - Inner_demon
+20743 - A rift to another universe.
+// 20744 - Armoured_zombie
+// 20745 - Armoured_zombie
+20746 - Armed, and nowhere near as dead as it should be.
+20747 - One of Sliske's wights.
+20748 - Bred for destruction.
+// 20749 - "Nomad"
+// 20750 - "Zamorak"
+// 20751 - "Jerrod"
+// 20752 - "Enakhra"
+// 20753 - "Player"
+// 20754 - "Sliske"
+// 20755 - "Moia"
+// 20756 - "Zemouregal"
+// 20757 - "Lord_Daquarius"
+// 20758 - "Hazeel"
+// 20759 - "Hazeel"
+// 20760 - null
+// 20761 - "General_Khazard"
+20762 - A tiny leader of an adorable cult.
+20763 - A tiny leader of an adorable cult.
+// 20764 - Nomad_outfit
+// 20765 - Nomad_outfit
+20766 - A helpful owl.
+20767 - A helpful owl.
+// 20768 - Mammoth_Outfit
+// 20769 - Mammoth_Outfit
+// 20770 - Ancient_Outfit
+// 20771 - Ancient_Outfit
+20772 - Newspaper seller.
+// 20773 - Shopkeeper
+// 20774 - Shopkeeper
+20775 - Sells superior staffs.
+20776 - The man with the armour.
+20777 - Runes are his passion.
+20778 - He has a certain bovine aroma
+20779 - A crafter at the pinnacle of his art.
+20780 - Has an interesting assortment of clothes on offer.
+20781 - A busy housewife.
+20782 - A master smith.
+20783 - He's mastered many skills of RuneScape.
+20784 - * 'Berg bard{{sic}}
+20785 - * 'Berg bard{{sic}}
+20786 - An ancient looking gnome.
+20787 - She has a certain twinkle in her eye.
+20788 - 
+20789 - A man down on his luck.
+20790 - Rather more tired than most.
+20791 - A less enthusiastic ecclesiastic woman, she seems slightly tired.
+// 20792 - null
+20793 - Looks very young.
+20794 - Looks very young.
+20795 - Animal skins are a specialty.
+20796 - Looks down on his luck.
+// 20797 - null
+20798 - An empowered woman.
+20799 - An empowered woman.
+20800 - He looks a bit funny.
+// 20801 - null
+// 20802 - Jonny_the_Beard
+// 20803 - Jonny_the_Beard
+// 20804 - Jonny_the_Beard
+// 20805 - Jonny_the_Beard
+20806 - Sells arrows.
+20807 - Goodness, gracious, great bird of fire!&lt,br />'''Wounded:''' The phoenix is mortally wounded.
+// 20808 - null
+20809 - A baby phoenix and it's bad to the burn!
+20810 - A baby phoenix and it's bad to the burn!
+20811 - Is she the good one?
+20812 - Is this the evil one?
+20813 - The west vault's employees have been downsized to a skeleton staff.
+20814 - The west vault's employees have been downsized to a skeleton staff.
+// 20815 - Gypsy_Aris
+20816 - One of the king's knights.
+20817 - The book appears to be alive.
+// 20818 - null
+20819 - The spirit of one of Silverlight's former owners.
+// 20820 - null
+20821 - The spirit of one of Silverlight's former owners.
+// 20822 - null
+20823 - The spirit of one of Silverlight's former owners.
+// 20824 - null
+20825 - A retired vampyre hunter.
+20826 - A retired vampyre hunter.
+20827 - A dealer in potions.
+// 20828 - Bartender
+20829 - Curator of the museum.
+20830 - He seems to like wearing black.
+// 20831 - null
+20832 - A powerful demon. One-time Scourge of Varrock.
+// 20833 - null
+20834 - A summoned demon.
+20835 - Reldo the librarian.
+// 20836 - null
+20837 - He has seen better, happier days.
+20838 - He has seen better, happier days.
+20839 - He has seen better, happier days.
+20840 - He has seen better, happier days.
+20841 - He has seen better, happier days.
+20842 - He has seen better, happier days.
+20843 - He has seen better, happier days.
+// 20844 - null
+// 20845 - null
+20846 - Queen Ellamaria of Varrock.
+20847 - The head of the palace guard.
+// 20848 - Trial_announcer
+// 20849 - Red_mist
+// 20850 - null
+// 20851 - Tin_soldier
+// 20852 - Tin_soldier
+// 20853 - Tin_soldier
+// 20854 - Tin_soldier
+// 20855 - Tin_soldier
+20856 - He really likes urns.
+20857 - A religious man... And occasional drunk.
+20858 - The most loyal person you'll ever know.
+20859 - 
+20860 - 
+20861 - 
+// 20862 - null
+// 20863 - null
+20864 - A friendly feline?
+20865 - A friendly feline?
+// 20866 - null
+// 20867 - null
+// 20868 - null
+20869 - A hopeless, not-so-friendly and not-so-little stray cat.
+// 20870 - null
+// 20871 - null
+// 20872 - null
+20873 - An augmented kitty, easily confused.
+// 20874 - null
+// 20875 - null
+// 20876 - null
+20877 - A hellish and angry stray cat.
+// 20878 - null
+// 20879 - null
+// 20880 - null
+20881 - An ex-witch's ex-cat, afraid for its life.
+20882 - N/A
+20883 - N/A
+20884 - N/A
+20885 - A summoned demon.
+20886 - Lesser, but still pretty big.
+20887 - He's ugly, but he is a gargoyle.
+20888 - He's ugly, but he is a gargoyle.
+20889 - He's ugly, but he is a gargoyle.
+20890 - He's ugly, but he is a gargoyle.
+20891 - A recently deceased bovine.
+20892 - He keeps order around here, and never sleeps.
+// 20893 - Armoured_zombie
+// 20894 - Armoured_zombie
+// 20895 - Armoured_zombie
+// 20896 - Armoured_zombie
+20897 - Dead man walking.
+20898 - Dead man walking.
+20899 - Dead man walking.
+20900 - Dead man walking.
+20901 - Dead man walking.
+20902 - Dead man walking.
+20903 - Dead man walking.
+20904 - Dead man walking.
+20905 - The portal seems to be sustaining Zemouregal.
+20906 - The infamous enemy of Varrock.
+20907 - The infamous enemy of Varrock.
+20908 - An intangible projection of the infamous enemy of Varrock.
+// 20909 - null
+20910 - He keeps order around here, and never sleeps.
+20911 - He ensures the law of Zemouregal is strictly enforced.
+20912 - Dead man walking.
+20913 - Dead man walking.
+20914 - Dead man walking.
+20915 - Dead man walking.
+20916 - Dead man walking.
+20917 - Dead man walking.
+20918 - Dead man walking.
+20919 - Dead man walking.
+20920 - Dead man walking.
+20921 - Dead man walking.
+20922 - Dead man walking.
+20923 - Dead man walking.
+// 20924 - Armoured_zombie
+// 20925 - Armoured_zombie
+// 20926 - Armoured_zombie
+// 20927 - Armoured_zombie
+20928 - A recently deceased bovine.
+20929 - Yep, definitely a chicken...an undead chicken.
+20930 - 
+20931 - 
+// 20932 - Gypsy_Aris
+// 20933 - Gypsy_Aris
+20934 - Converts grass to beef.
+// 20935 - null
+20936 - 
+// 20937 - null
+20938 - He's got friends on the other side.
+// 20939 - null
+20940 - A cheeky little demon who seems to be in charge of the other imps.
+20941 - A cheeky little demon who seems to be in charge of the other imps.
+// 20942 - null
+20943 - A cheeky little imp.
+20944 - A cheeky little imp.
+// 20945 - null
+20946 - He has the aura of old hymn books.
+20947 - The Easter Bunny's lazy son.
+// 20948 - null
+// 20949 - null
+// 20950 - Dwarven_engineer
+20951 - She wanders in a concerned manner, muttering about lost machinery.&lt,br />She looks proudly at the machine nearby.
+// 20952 - null
+20953 - A cheeky little demon who is carrying some eggs.
+20954 - A cheeky little demon who is carrying some eggs.
+20955 - A cheeky little demon who is carrying some eggs.
+// 20956 - null
+// 20957 - null
+// 20958 - Jadinko
+// 20959 - Jadinko
+20960 - A cheeky little imp.
+20961 - A jadinko created by the Easter Bunny to carry eggs.
+20962 - A jadinko created by the Easter Bunny to carry eggs.
+20963 - A jadinko created by the Easter Bunny to carry eggs.
+20964 - A jadinko created by the Easter Bunny to carry eggs.
+20965 - A jadinko created by the Easter Bunny to carry eggs.
+20966 - Yep. Definitely a chicken.
+20967 - Converts grass to beef.
+20968 - Converts grass to beef.
+20969 - Converts grass to beef.
+20970 - Converts grass to beef.
+20971 - Converts grass to beef.
+20972 - Converts grass to beef.
+20973 - Converts grass to beef.
+20974 - Converts grass to beef.
+20975 - Converts grass to beef.
+20976 - Converts grass to beef.
+20977 - Converts grass to beef.
+20978 - Young, but still beefy.
+20979 - Young, but still beefy.
+20980 - Converts grass to beef.
+20981 - Converts grass to beef.
+20982 - Converts grass to beef.
+20983 - Converts grass to beef.
+20984 - Young, but still beefy.
+20985 - This pig dreams of becoming bacon.
+// 20986 - null
+20987 - Looks after the blast furnace.
+// 20988 - Vitality_Suit
+// 20989 - Vitality_Suit
+20990 - A diving suit that allows you to open oysters in the aquarium.
+20991 - A diving suit that allows you to open oysters in the aquarium.
+20992 - A diving suit that allows you to open oysters in the aquarium.
+20993 - A diving suit that allows you to open oysters in the aquarium.
+20994 - A diving suit that allows you to open mermaids purses and oysters in the aquarium.
+20995 - A diving suit that allows you to open mermaids purses and oysters in the aquarium.
+20996 - A diving suit that allows you to open mermaids purses and oysters in the aquarium.
+20997 - A diving suit that allows you to open mermaids purses and oysters in the aquarium.
+20998 - I don't think a newspaper is going to cut it.
+20999 - I don't think a newspaper is going to cut it.
+21000 - I don't think a newspaper is going to cut it.
+21001 - Believe it or not, she's still hungry.
+21002 - A powerful entity that is one with the earth.
+21003 - Was the biggest, meanest dragon around.
+21004 - Even the gods fear it.
+21005 - A huge war chief.
+21006 - Graceful servant of Armadyl.
+21007 - pUre A cHaOs of crEatuRe!&lt,!-- {{sic}} it's like this, do not edit -->
+21008 - A diving suit that allows you to open treasure chests, mermaid purses and oysters in the aquarium.
+21009 - A diving suit that allows you to open treasure chests, mermaid purses and oysters in the aquarium.
+21010 - A diving suit that allows you to open treasure chests, mermaid purses and oysters in the aquarium.
+21011 - A diving suit that allows you to open treasure chests, mermaid purses and oysters in the aquarium.
+// 21012 - null
+21013 - This looks tricky to eat.
+21014 - N/A
+21015 - * '''Outside:''' Has a beaming grin of white gnashers.
+21016 - * '''Outside:''' Has a beaming grin of white gnashers.
+21017 - * '''Outside:''' Ahhh. Isn't it cute?
+21018 - * '''Outside:''' Ahhh. Isn't it cute?
+// 21019 - Portal
+// 21020 - Fishing_spot
+// 21021 - Fishing_spot
+// 21022 - Fishing_spot
+// 21023 - Suspicious_mound
+21024 - A wandering spirit, attracted to death.
+// 21025 - Mod_Balance's_clone
+// 21026 - Mod_Raven's_clone
+// 21027 - Mod_Moltare's_clone
+// 21028 - Mod_Maz's_clone
+// 21029 - Mod_Cuppa's_clone
+// 21030 - Mod_Neena's_clone
+// 21031 - Fire_drake
+// 21032 - Shadow_drake
+// 21033 - Fire_drake
+// 21034 - Shadow_drake
+// 21035 - Fire_drake
+// 21036 - Shadow_drake
+// 21037 - Fire_drake
+// 21038 - Shadow_drake
+// 21039 - Fire_drake
+// 21040 - Shadow_drake
+// 21041 - Fire_drake
+// 21042 - Shadow_drake
+// 21043 - Fire_drake
+// 21044 - Fire_drake
+// 21045 - Fire_drake
+// 21046 - Shadow_drake
+// 21047 - Shadow_drake
+// 21048 - Shadow_drake
+// 21049 - Lava_outfit
+// 21050 - Lava_outfit
+21051 - It doesn't seem that tea and biscuits can subdue this one.
+21052 - Smells as bad as it looks.
+21053 - It doesn't seem that tea and biscuits can subdue this one.
+21054 - Smells as bad as it looks.
+21055 - Approach with extreme caution.
+21056 - Holds all of the goodies.
+// 21057 - null
+// 21058 - null
+// 21059 - null
+// 21060 - null
+// 21061 - null
+// 21062 - null
+// 21063 - null
+// 21064 - null
+// 21065 - null
+// 21066 - null
+// 21067 - null
+// 21068 - null
+// 21069 - null
+// 21070 - null
+21071 - Where did this come from?
+21072 - The nastiest flea you'll ever see.
+// 21073 - Fallen_rock
+// 21074 - Astromancer
+21075 - 
+21076 - A servant of the god Zamorak.
+21077 - This is going to hurt...
+// 21078 - <col=B8D1D1>Deposit_Box
+// 21079 - Pack_Yak
+// 21080 - Meat_Pizza
+// 21081 - Cup_of_Tea
+// 21082 - Rainbow_Lootbeam
+// 21083 - Lootbeam
+21084 - This mighty kalphite is even more powerful than the queen.
+21085 - Have a bit of growing to do.
+21086 - This big rock has fallen from the sky. What could it be a sign of?
+// 21087 - null
+21088 - To go where no monkey has gone before.
+21089 - An empty barrel.
+21090 - Where is he going?
+21091 - Where is he going?
+// 21092 - Reborn_Phoenix
+// 21093 - Reborn_Phoenix
+21094 - Keep him away from his twin!
+21095 - Lucien's daughter.
+21096 - Armadyl's advisor on the art of divination.
+21097 - Champion of truth, representative of Saradomin.
+// 21098 - Taw'Paak
+// 21099 - Julienne
+// 21100 - Moldark
+// 21101 - Holstein
+// 21102 - null
+21103 - The emissary of Zaros.
+21104 - A master in the art of Astromancy, he can teleport me to the crash site.
+21105 - The nastiest flea you'll ever see.
+21106 - The nastiest flea you'll ever see.
+// 21107 - null
+// 21108 - null
+// 21109 - Lost_soul
+// 21110 - Lost_soul
+// 21111 - null
+// 21112 - null
+21113 - A soul, tormented by the long past destruction of their world, begging to be freed.
+21114 - A soul, tormented by the long past destruction of their world, begging to be freed.
+21115 - I'm glad I can't see the rest of it!
+21116 - I'm glad I can't see the rest of it!
+// 21117 - Lightning_trap_(empty)
+21118 - How shocking!
+21119 - How shocking!
+21120 - I'm glad I can't see the rest of it!
+// 21121 - null
+21122 - A banner to represent your faith in Saradomin.
+21123 - A banner to represent your faith in Saradomin.
+21124 - A banner to represent your faith in Zamorak.
+21125 - A banner to represent your faith in Zamorak.
+21126 - A banner to represent your faith in Armadyl.
+21127 - A banner to represent your faith in Armadyl.
+21128 - A banner to represent your faith in the Godless.
+21129 - A banner to represent your faith in the Godless.
+21130 - Apparently has an amazing belt.
+21131 - Reyna is looking for help in setting up her beach party.
+21132 - A cute baby war tortoise.
+21133 - A cute baby war tortoise.
+// 21134 - Snappy_crab
+21135 - Its scales seem to be fused with adamant.
+21136 - Its scales seem to be fused with rune metal.
+21137 - Its scales seem to be fused with rune metal.
+21138 - Its scales seem to be fused with rune metal.
+21139 - Its scales seem to be fused with rune metal.
+21140 - Its scales seem to be fused with rune metal.
+21141 - Its scales seem to be fused with rune metal.
+21142 - Its scales seem to be fused with rune metal.
+21143 - Its scales seem to be fused with rune metal.
+21144 - This big rock has fallen from the sky. What could it be a sign of?
+21145 - Pirates on the beach! They look unbeatable, but you can use your battleships to fight them.
+21146 - Reyna is looking for help in setting up her beach party.
+21147 - Interesting heritage.
+21148 - A magical feather that floats around the world looking for adventure.
+21149 - Sells pets, animations and various fun items to those visiting the beach.
+21150 - The fish just fling themselves at him.
+21151 - He's suspiciously talented with a meat-cleaver.
+21152 - Nice shave.
+21153 - She sells Farming equipment.
+21154 - Hours of fun for the whole family.
+21155 - Hours of fun for the whole family.
+21156 - A mutated crustacean that is set on ruining the party atmosphere.
+// 21157 - Fishing_spot
+21158 - Protecting all those visiting the beach this summer.
+21159 - Protecting all those visiting the beach this summer.
+21160 - Protecting all those visiting the beach this summer.
+21161 - Protecting all those visiting the beach this summer.
+// 21162 - null
+21163 - The man in charge of leading the rebuilding project.
+21164 - Master of the Wizards' Tower.
+21165 - It's hard to enjoy the beach when there could be money to be made.
+21166 - The brave and magnificent Ozan, who writes his own descriptions.
+21167 - Duke Horacio of Lumbridge.
+// 21168 - null
+// 21169 - null
+21170 - They seem to be locked in an argument.
+21171 - They seem to be locked in an argument.
+21172 - They seem to be locked in an argument.
+21173 - They seem to be locked in an argument.
+21174 - They seem to be locked in an argument.
+21175 - They seem to be locked in an argument.
+21176 - They seem to be locked in an argument.
+21177 - They seem to be locked in an argument.
+21178 - They seem to be locked in an argument.
+21179 - They seem to be locked in an argument.
+21180 - They seem to be locked in an argument.
+21181 - They seem to be locked in an argument.
+// 21182 - V
+// 21183 - V
+// 21184 - V
+// 21185 - Fisherman
+// 21186 - null
+21187 - 
+21188 - 
+21189 - Is it me, or is he looking worse?
+21190 - Is it me, or is he looking worse?
+21191 - Is it me, or is he looking worse?
+21192 - 
+21193 - You won't like them when they're angry.
+21194 - 
+21195 - You won't like them when they're angry.
+21196 - You won't like them when they're angry.
+21197 - You won't like them when they're angry.
+21198 - Its scales seem to be made of bronze.
+21199 - Its scales seem to be made of iron.
+21200 - Its scales seem to be made of steel.
+21201 - Experimenting with mithril gone bad!
+21202 - Its scales seem to be fused with adamant.
+21203 - Is it me, or is he looking worse?
+21204 - Is it me, or is he looking worse?
+// 21205 - Tarshak?
+21206 - What was once a powerful Dragonkin.
+21207 - What was once a powerful Dragonkin.
+// 21208 - Ragged_Abomination
+// 21209 - Ragged_Abomination
+21210 - Some of V's leaking energy.
+// 21211 - V_spring
+21212 - A powerful - yet seemingly reasonable - dragonkin.
+21213 - You won't like them when they're angry.
+// 21214 - null
+21215 - The Fremennik tribe's chieftain.
+21216 - A bartender.
+21217 - 
+21218 - One of Rellekka's many citizens.
+21219 - One of Rellekka's many citizens.
+21220 - One of Jatizso's many citizens.
+21221 - One of Rellekka's many citizens.
+21222 - One of the inhabitants of the camp.
+21223 - One of the inhabitants of the camp.
+21224 - Spiritual leader of the Moonclan.
+21225 - A building that allows one-way travel to your Player Owned house.
+21226 - 
+21227 - She has a certain twinkle in her eye.
+21228 - As beautiful as a fallen star... I feel sick.
+21229 - Did she just wink at me?
+21230 - A priestess of great wisdom.
+21231 - '''During Lunar Diplomacy:''' She will tan your suqah hides. &lt,br/> '''After Lunar Diplomacy:''' Not a single hair on her head. But one or two warts.
+21232 - Glad to be one of only three men on the island.
+21233 - Should I pronounce it 'bucket'?
+// 21234 - Dragonkin
+// 21235 - Crate
+// 21236 - null
+21237 - null
+21238 - A powerful Mahjarrat.
+21239 - A powerful Mahjarrat.
+21240 - A powerful Mahjarrat.
+21241 - A powerful Mahjarrat.
+// 21242 - "Qutiedoll"
+// 21243 - "Strisath"
+// 21244 - "V"
+// 21245 - "Tarshak"
+// 21246 - "Sakirth"
+// 21247 - "Kalibath"
+// 21248 - "a"
+// 21249 - "Borrokar"
+// 21250 - "V"
+// 21251 - "Player"
+// 21252 - "Freya_Lune"
+// 21253 - "Alfrick_the_Planner"
+// 21254 - "Thora_the_Barkeep"
+// 21255 - "Brundt_the_Chieftain"
+// 21256 - "Oneiromancer"
+// 21257 - "Pauline_Polaris"
+21258 - The emissary of V.
+// 21259 - "Elena_Suerten"
+// 21260 - "Cow"
+// 21261 - "Chicken"
+// 21262 - "Larry"
+// 21263 - null
+// 21264 - "Cow_calf"
+// 21265 - "Chicken"
+// 21266 - "John_Wyrd"
+// 21267 - "Burthorpe_refugee"
+// 21268 - "Banker"
+// 21269 - ""ph""
+// 21270 - "Player"
+// 21271 - "Forgotten_warrior"
+// 21272 - "Cow_calf"
+// 21273 - null
+// 21274 - "Nigel"
+// 21275 - ""Saradominist_ranger""
+// 21276 - "Jeed"
+// 21277 - "Cow"
+// 21278 - "Gardener"
+// 21279 - "Chicken"
+// 21280 - "[ph]"
+// 21281 - "Customer"
+// 21282 - "Cow"
+// 21283 - null
+// 21284 - "Cow"
+// 21285 - "Bandosian_record_keeper"
+// 21286 - "Chicken"
+// 21287 - "Philipe_Carnillean"
+// 21288 - "[ph]"
+// 21289 - null
+// 21290 - "Armadylean_record_keeper"
+// 21291 - "Chicken"
+// 21292 - "Guardsman_Dante"
+// 21293 - ""Witchaven_villager""
+// 21294 - ""Witchaven_villager""
+// 21295 - "Guardsman_Peale"
+// 21296 - "Guardsman_Peale"
+// 21297 - null
+// 21298 - "Guardsman_Dante"
+// 21299 - null
+// 21300 - "Cow"
+// 21301 - "Farmer_of_Brassica"
+// 21302 - "Cow"
+// 21303 - "Zamorak_follower"
+// 21304 - "Vorago"
+// 21305 - "Astromancer"
+// 21306 - ""Warrior""
+// 21307 - "[ph]"
+// 21308 - "Wizard_Valina"
+// 21309 - "Wizard"
+// 21310 - "Wizard_Borann"
+// 21311 - "Player"
+// 21312 - "Wizard"
+// 21313 - "Archmage_Sedridor"
+// 21314 - "Wizard_Grayzag"
+// 21315 - "[ph]"
+// 21316 - "Wizard_Traiborn"
+// 21317 - ""Wizard_Borann""
+21318 - Keep him away from his twin!
+21319 - A master in the art of Astromancy, he can teleport me to the crash site.
+21320 - A sad but determined Icyene with no wings.
+21321 - A tough-looking woman, observing the leftovers.
+// 21322 - [ph]
+// 21323 - null
+21324 - He has seen better, happier days.
+21325 - He has seen better, happier days.
+21326 - Varrock's resident monarch. He looks strangely evil!
+21327 - One of the king's knights.
+21328 - Reldo the librarian.
+21329 - A fish out of water.
+21330 - It's jelly time!
+21331 - A fish out of water.
+21332 - It's a village kid.
+21333 - A lycanthropic backing singer.
+// 21334 - null
+21335 - At least as blind as a bat. Studies suggest more so.
+21336 - It's not only good things that come in threes.
+21337 - It's not only good things that come in threes.
+// 21338 - Bomb
+21339 - Even in death he looks angry.
+21340 - Poor lil' thing.
+21341 - Looks after the team on the left.
+21342 - Looks after the team on the right.
+21343 - Those helmets save lives. Charger lives. Goebie lives, not so much.
+21344 - An aggressive beast that comes from another world.
+21345 - An aggressive beast that comes from another world.
+21346 - An aggressive beast that comes from another world.
+21347 - An aggressive beast that comes from another world.
+21348 - The embodiment of water.
+// 21349 - Yakamaru_(Melee)
+// 21350 - Yakamaru_(Ranged)
+// 21351 - Yakamaru_(Magic)
+21352 - Yakamaru split into a lesser form.
+// 21353 - Image_of_Yakamaru_(Melee)
+// 21354 - Image_of_Yakamaru_(Magic)
+// 21355 - Image_of_Yakamaru_(Ranged)
+// 21356 - null
+// 21357 - Sick_Yakamaru
+21358 - There's always room for jelly.
+21359 - There's always room for jelly.
+21360 - There's always room for jelly.
+21361 - There's always room for jelly.
+21362 - There's always room for jelly.
+21363 - There's always room for jelly.
+21364 - N/A
+21365 - I dread to even inspect this...
+21366 - Poor lil' thing.
+21367 - Poor lil' thing.
+21368 - Poor lil' thing.
+21369 - Poor lil' thing.
+21370 - It looks to be a young Goebie, the rocks on its back aren't very big.
+21371 - It looks to be a young Goebie, the rocks on its back aren't very big.
+21372 - It looks to be a young Goebie, the rocks on its back aren't very big.
+21373 - It looks to be a young Goebie, the rocks on its back aren't very big.
+21374 - Poor lil' thing.
+21375 - Poor lil' thing.
+21376 - Poor lil' thing.
+21377 - Poor lil' thing.
+21378 - Knows his way around towns, mountains and deserts.
+21379 - Will exchange Teci for exotic equipment.
+21380 - Poor lil' thing.
+21381 - The crime buster of the sea...
+21382 - How shocking!
+21383 - Poor lil' thing.
+// 21384 - Sickly_Airut
+// 21385 - Sickly_Airut
+21386 - The nastiest flea you'll ever see.
+21387 - Dark magic has caused this fly to grow to giant size.
+21388 - Dark magic has made this cockroach grow to giant size.
+21389 - Probably not man's best friend...
+21390 - Poor lil' thing.
+21391 - Poor lil' thing.
+21392 - Poor lil' thing.
+21393 - Poor lil' thing.
+21394 - 
+21395 - Poor lil' thing.
+21396 - Poor lil' thing.
+21397 - Poor lil' thing.
+21398 - The elder of the grand city of Otot.
+21399 - The elder of the village of Kanatah.
+21400 - Poor lil' thing.
+21401 - Poor lil' thing.
+21402 - Going through a cute little rebellious phase.
+21403 - Going through a cute little rebellious phase.
+21404 - Don't let the horns, muscles and powerful jaw fool you, he's harmless!
+21405 - Don't let the horns, muscles and powerful jaw fool you, he's harmless!
+// 21406 - Wild_Krar_Jnr
+21407 - She looks old!
+21408 - She looks old!
+21409 - She looks rather bossy.
+21410 - He likes playing with bricks.
+21411 - A baby goebie.
+21412 - A dwarf kidnapped from Keldagrim East.
+21413 - He's got a suspicious look in his eyes.
+21414 - It's a terror to the goebie race!
+21415 - A goebie tasked with keeping watch of the world window.
+// 21416 - V_Armour
+// 21417 - V_Armour
+21418 - A host of 'The Drop: Big Cats Edition' event.
+21419 - An adorable companion saved by the WWF.
+21420 - An adorable companion saved by the WWF.
+21421 - An adorable companion saved by the WWF.
+21422 - An adorable companion saved by the WWF.
+21423 - An adorable companion saved by the WWF.
+21424 - An adorable companion saved by the WWF.
+21425 - An adorable companion saved by the WWF.
+21426 - An adorable companion saved by the WWF.
+21427 - An adorable companion saved by the WWF.
+21428 - An adorable companion saved by the WWF.
+21429 - An adorable companion saved by the WWF.
+21430 - An adorable companion saved by the WWF.
+21431 - One of Wizard Chambers' apprentices who can offer teleportation to the world window.
+21432 - A horrible, emaciated ape like creature with beady red eyes.
+21433 - A bony ghost.
+21434 - He fights for Armadyl.
+21435 - He fights for Armadyl.
+21436 - An Armadylean bodyguard, protecting caravans.
+21437 - An Armadylean bodyguard, protecting caravans.
+21438 - An Armadylean bodyguard, protecting caravans.
+21439 - An Armadylean bodyguard, protecting caravans.
+21440 - An Armadylean bodyguard, protecting caravans.
+21441 - An Armadylean bodyguard, protecting caravans.
+21442 - An Armadylean bodyguard, protecting caravans.
+21443 - A huge construct built to support the armies of Armadyl.
+21444 - A Bandosian bodyguard, protecting caravans.
+21445 - A Bandosian bodyguard, protecting caravans.
+21446 - A Bandosian bodyguard, protecting caravans.
+21447 - A Bandosian bodyguard, protecting caravans.
+21448 - A Bandosian bodyguard, protecting caravans.
+21449 - A Bandosian bodyguard, protecting caravans.
+21450 - A Bandosian bodyguard, protecting caravans.
+21451 - A Bandosian bodyguard, protecting caravans.
+21452 - A Bandosian bodyguard, protecting caravans.
+21453 - A huge construct built to smite the foes of Bandos.
+21454 - His blade is deliciounsess, his shield nutrition.
+21455 - Her bow is powered by the will of Brassica Prime.
+21456 - His leaves contain deadly enchantments.
+21457 - He strikes from the shadows, a whirling dervish of death.
+21458 - Volguus Zildrohar, the traveller has come. Choose...choose the form of your destructor!!! Oh...a cabbage...erm...right, ok then?
+21459 - Look how angry is, he's about to go ape!
+// 21460 - Monkey_archer
+21461 - Marimbo followers are always in high spirits...the 'in' might be unnecessary there.
+21462 - He's really not very nice when he's drunk.
+21463 - For Justice!
+21464 - For Justice!
+21465 - For Justice!
+21466 - Looks that can kill.
+21467 - Looks that can kill.
+21468 - Looks that can kill.
+21469 - Wisdom is her weapon.
+21470 - Wisdom is her weapon.
+21471 - Wisdom is her weapon.
+21472 - Bringing order to the people, in boulder-sized chunks.
+21473 - A Clan Iorwerth scout.
+21474 - A Clan Iorwerth scout.
+21475 - An archer for the Cadarn clan.
+21476 - An archer for the Cadarn clan.
+21477 - An elven wizard.
+21478 - An elven wizard.
+21479 - An enormous battle construct forged by Trahaearn smithing techniques.
+21480 - A close-range brute.
+21481 - A close-range brute.
+21482 - A close-range brute.
+21483 - Deadly at range.
+21484 - Deadly at range.
+21485 - Deadly at range.
+21486 - He kills in the name of Zamorak.
+21487 - He kills in the name of Zamorak.
+21488 - He kills in the name of Zamorak.
+21489 - Bred for destruction.
+21490 - He looks angry and dangerous!
+21491 - A dangerous ranger.
+21492 - A mage well practised in the art of ancient spellcasting.
+21493 - A nihil of unusual size.
+21494 - An ugly, smelly creature.
+21495 - A strange, inhuman, elemental warrior.
+21496 - Big, red, and incredibly evil.
+21497 - This is a particularly mean looking cow.
+21498 - From a darker dimension.
+21499 - It has a light on its forehead. What a pretty light... So shiny!
+21500 - A fiendish embodiment of water.
+21501 - An evil death demon.
+21502 - A denizen of the Abyss!
+21503 - The vacuumed face of evil.
+21504 - An evil magic user.
+21505 - A swarm of bugs.
+21506 - He'll decant potions and enchant crystals for you.
+21507 - A stealthy looking figure.
+21508 - This grows Novtumber Festival produce which can be offered to the Gods for Prayer XP or returned to the earth for Farming XP.
+21509 - This grows Novtumber Festival produce which can be offered to the Gods for Prayer XP or returned to the earth for Farming XP.
+21510 - This grows Novtumber Festival produce which can be offered to the Gods for Prayer XP or returned to the earth for Farming XP.
+21511 - A flea infested, pale looking excuse for a man.
+21512 - A citizen of Burgh de Rott.
+21513 - A citizen of [[Burgh de Rott]].
+21514 - A citizen of Burgh de Rott.
+21515 - A citizen of Burgh de Rott.
+21516 - A citizen of [[Burgh de Rott]].
+21517 - A citizen of Burgh de Rott.
+21518 - A citizen of Burgh de Rott.
+21519 - It's a village kid.
+21520 - It's a village kid.
+21521 - He tries to grow crops in this area.
+21522 - A citizen of Burgh de Rott.
+21523 - A citizen of [[Burgh de Rott]].
+21524 - A citizen of Burgh de Rott.
+21525 - A citizen of Burgh de Rott.
+21526 - A citizen of Burgh de Rott.
+21527 - A citizen of [[Burgh de Rott]].
+21528 - A citizen of Burgh de Rott.
+// 21529 - Barbarian_Outfit
+// 21530 - Barbarian_Outfit
+21531 - An elven bowyer.
+21532 - Wow - the prettiest elf I have ever seen.
+21533 - Wow - the prettiest elf I have ever seen.
+21534 - This elf has the otherworldly air of a summoned creature.
+21535 - 
+21536 - His skin has the texture of tree bark.
+21537 - An elf lord.
+21538 - This elf has an aura of serenity.
+21539 - Kelyn from Lletya has become the new Lady Ithell.
+21540 - She looks like she hasn't seen sunlight in a while.
+21541 - This ancient elf appears to be being kept alive by a metal-and-crystal exoskeleton.
+21542 - N/A
+// 21543 - null
+21544 - The prettiest elf I have ever seen.
+21545 - A caretaker of the Hefin Cathedral.
+21546 - A caretaker of the Hefin Cathedral.
+21547 - A construction of metal and crystal in the shape of an elf.
+21548 - A construction of metal and crystal in the shape of an elf.
+21549 - The once king of the elves.
+21550 - He looks a bit creepy.
+// 21551 - null
+// 21552 - null
+21553 - The so-called Empty Lord.
+21554 - The so-called Empty Lord.
+// 21555 - null
+21556 - N/A
+21557 - N/A
+21558 - A nightmarish divine creation that uses magic attacks.
+// 21559 - null
+21560 - The so-called Empty Lord.
+// 21561 - null
+21562 - N/A
+21563 - N/A
+// 21564 - null
+21565 - N/A
+21566 - N/A
+21567 - Mysterious swamp lights.
+// 21568 - "Lord_Amlodd"
+// 21569 - "Lady_Trahaearn"
+// 21570 - "Seren"
+// 21571 - "Seren"
+// 21572 - "Eluned"
+// 21573 - "Arianwyn"
+// 21574 - "Lady_Hefin"
+// 21575 - "Player"
+// 21576 - "Lord_Crwys"
+// 21577 - "Lady_Ithell"
+// 21578 - "Baxtorian"
+// 21579 - "Lady_Meilyr"
+// 21580 - "Lord_Iorwerth"
+21581 - That's Mr. G. Willikers to you.
+// 21582 - Starfury_Armour
+21583 - 
+21584 - A quiet, war-weary man with the keen eye of a ranger.
+21585 - Mekritus disguised as a vampyre.
+// 21586 - null
+// 21587 - null
+// 21588 - null
+21589 - A tall, charismatic leader with an unusual appearance.
+21590 - A tall, charismatic leader with an unusual appearance.
+// 21591 - 'Deathly_Hallows'
+// 21592 - 'Deathly_Hallows'
+21593 - A tall, charismatic leader with an unusual appearance.
+// 21594 - "Lady_Trahaearn"
+// 21595 - "Eluned"
+// 21596 - "Lady_Ithell"
+// 21597 - "Lord_Crwys"
+// 21598 - "Seren"
+// 21599 - "Lady_Hefin"
+// 21600 - "Seren"
+// 21601 - "Arianwyn"
+// 21602 - "Player"
+// 21603 - "Baxtorian"
+// 21604 - "Lord_Amlodd"
+// 21605 - "Lady_Meilyr"
+// 21606 - "Lord_Iorwerth"
+// 21607 - "Eluned"
+// 21608 - "Baxtorian"
+// 21609 - "Arianwyn"
+// 21610 - "Lord_Amlodd"
+// 21611 - "Player"
+// 21612 - "Seren"
+// 21613 - "a"
+// 21614 - "Lady_Hefin"
+// 21615 - "Lady_Meilyr"
+// 21616 - "Lady_Trahaearn"
+// 21617 - "Lady_Ithell"
+// 21618 - "Lord_Crwys"
+// 21619 - "Lord_Iorwerth"
+// 21620 - null
+// 21621 - null
+// 21622 - null
+// 21623 - null
+// 21624 - null
+// 21625 - null
+// 21626 - null
+// 21627 - null
+21628 - It looks like there is something shining under the water.
+21629 - A remnant of the Tarddian elves, twisted by hunger.
+21630 - A remnant of the Tarddian elves, twisted by hunger.
+21631 - A remnant of the Tarddian elves, twisted by hunger.
+21632 - A remnant of the Tarddian elves, twisted by hunger.
+// 21633 - null
+21634 - A crystal shapeshifter. She seems more coherent than the others.
+21635 - A crystal shapeshifter. She seems more coherent than the others.
+21636 - A crystal infused raven.
+// 21637 - Prism_of_Loyalty
+// 21638 - null
+// 21639 - Prism_of_Salvation
+// 21640 - Prism_of_dowsing
+21641 - A tall, charismatic leader with an unusual appearance.
+// 21642 - null
+// 21643 - null
+21644 - A quiet, war-weary man with the keen eye of a ranger.
+21645 - A quiet, war-weary man with the keen eye of a ranger.
+21646 - A quiet, war-weary man with the keen eye of a ranger.
+// 21647 - 'Vertigo_von_Cephalitis'
+// 21648 - 'Vertigo_von_Cephalitis'
+21649 - A quiet, war-weary man with the keen eye of a ranger.
+21650 - A quiet, war-weary man with the keen eye of a ranger.
+// 21651 - null
+// 21652 - null
+21653 - Mekritus disguised as a vampyre.
+21654 - Mekritus disguised as a vampyre.
+// 21655 - 'Mekky_Graah'
+// 21656 - 'Mekky_Graah'
+21657 - Mekritus disguised as a vampyre.
+21658 - Mekritus disguised as a vampyre.
+// 21659 - null
+// 21660 - null
+21661 - A fighter for the Myreque.
+21662 - A fighter for the Myreque.
+// 21663 - 'Kill_Fosho'
+// 21664 - 'Kill_Fosho'
+21665 - A fighter for the Myreque.
+21666 - A fighter for the Myreque.
+// 21667 - null
+// 21668 - null
+// 21669 - null
+21670 - 
+21671 - 
+21672 - 
+// 21673 - 'Venial_Hurts'
+21674 - 
+21675 - 
+// 21676 - null
+// 21677 - null
+// 21678 - null
+// 21679 - null
+21680 - A member of the Myreque and an aspiring young priest.
+21681 - A member of the Myreque and an aspiring young priest.
+21682 - A member of the Myreque and an aspiring young priest.
+// 21683 - 'I_Vanstrom'
+21684 - A member of the Myreque and an aspiring young priest.
+21685 - A member of the Myreque and an aspiring young priest.
+21686 - A member of the Myreque and an aspiring young priest.
+21687 - A member of the Myreque and an aspiring young priest.
+// 21688 - null
+// 21689 - null
+21690 - A quick and agile fighter, a mercenary from Asgarnia.
+21691 - A quick and agile fighter, a mercenary from Asgarnia.
+// 21692 - 'Rageguard_Pain-fire'
+21693 - A quick and agile fighter, a mercenary from Asgarnia.
+// 21694 - null
+// 21695 - null
+21696 - A member of the Myreque and intellectual assistant to Veliaf.
+21697 - A member of the Myreque and intellectual assistant to Veliaf.
+// 21698 - 'Pygmalion_Mardigras'
+// 21699 - null
+// 21700 - null
+// 21701 - null
+// 21702 - null
+21703 - A powerful female vampyre.
+21704 - A powerful female vampyre.
+21705 - A powerful female vampyre.
+21706 - A powerful female vampyre.
+21707 - A powerful female vampyre.
+21708 - A powerful female vampyre.
+21709 - A powerful female vampyre.
+21710 - A powerful female vampyre.
+// 21711 - null
+// 21712 - null
+// 21713 - null
+21714 - She's the new head of the Vyrewatch.
+21715 - She's the new head of the Vyrewatch.
+21716 - She's the new head of the Vyrewatch.
+// 21717 - null
+// 21718 - null
+21719 - A thirsty-looking, airborne bloodsucker!
+// 21720 - null
+// 21721 - null
+21722 - A thirsty-looking, airborne bloodsucker!
+// 21723 - null
+// 21724 - null
+21725 - A thirsty-looking, airborne bloodsucker!
+21726 - The Lord of Vampyrium.
+21727 - The Lord of Vampyrium.
+21728 - The Lord of Vampyrium.
+21729 - The Lord of Vampyrium.
+21730 - The Lord of Vampyrium.
+21731 - The Lord of Vampyrium.
+21732 - The Lord of Vampyrium.
+21733 - The Lord of Vampyrium.
+21734 - The Lord of Vampyrium.
+21735 - The Lord of Vampyrium.
+21736 - The Lord of Vampyrium.
+21737 - The Lord of Vampyrium.
+21738 - The Lord of Vampyrium.
+21739 - The Lord of Vampyrium.
+21740 - The Lord of Vampyrium.
+21741 - The Lord of Vampyrium.
+21742 - The Lord of Vampyrium.
+21743 - The Lord of Vampyrium.
+21744 - The Lord of Vampyrium.
+21745 - The Lord of Vampyrium.
+21746 - A devolved vampyre.
+21747 - A devolved vampyre.
+21748 - A devolved vampyre.
+21749 - A devolved vampyre.
+21750 - A devolved vampyre.
+21751 - A devolved vampyre.
+21752 - A devolved vampyre.
+21753 - Server and hors d'ouevre combined.
+21754 - Server and hors d'ouevre combined.
+21755 - Server and hors d'ouevre combined.
+21756 - Server and hors d'ouevre combined.
+// 21757 - null
+// 21758 - Blood_tithe
+// 21759 - null
+21760 - Eek! A werewolf!
+21761 - Eek! A werewolf!
+21762 - He looks hungry.
+21763 - He looks disappointed.
+21764 - She looks mean and angry.
+// 21765 - null
+21766 - 
+// 21767 - ???
+21768 - A messy bird.
+21769 - An annoying flappy thing.
+21770 - A quick and agile fighter, a mercenary from Asgarnia.
+21771 - A member of the Myreque and intellectual assistant to Veliaf.
+// 21772 - <col=B8D1D1>Cake
+// 21773 - <col=B8D1D1>Kelp
+21774 - Only good for compost and being spooky.
+21775 - This tree has been cut down.
+21776 - I can help pull this to shore for a reward!
+21777 - Grab them before they are gone!
+// 21778 - Fishing_spot
+// 21779 - Fishing_spot
+// 21780 - Fishing_spot
+21781 - They seem to be waiting for something.
+21782 - 
+21783 - 
+21784 - 
+21785 - 
+21786 - 
+21787 - 
+21788 - 
+21789 - 
+21790 - 
+21791 - 
+21792 - 
+21793 - 
+21794 - 
+21795 - Made from flourishing seeds. Combine with Pets of Summer, Autumn, and Winter to create a Pet of Seasons token.
+21796 - Made from flourishing seeds. Combine with Pets of Summer, Autumn, and Winter to create a Pet of Seasons token.
+21797 - Made from lush blossoms. Combine with Pets of Spring, Autumn, and Winter to create a Pet of Seasons token.
+21798 - Made from lush blossoms. Combine with Pets of Spring, Autumn, and Winter to create a Pet of Seasons token.
+21799 - Made from fallen leaves. Combine with Pets of Spring, Summer and Winter to create a Pet of Seasons token.
+21800 - Made from fallen leaves. Combine with Pets of Spring, Summer and Winter to create a Pet of Seasons token.
+21801 - Made from charred branches. Combine with Pets of Spring, Summer and Autumn to create a Pet of Seasons token.
+21802 - Made from charred branches. Combine with Pets of Spring, Summer and Autumn to create a Pet of Seasons token.
+21803 - A pet infused with natural magic. It changes appearance based on the season.
+21804 - A pet infused with natural magic. It changes appearance based on the season.
+// 21805 - <col=00FFFF>Pumpkin
+// 21806 - <col=00FFFF>Cauldron
+// 21807 - Emmet_Logowski
+21808 - She seems to look constantly annoyed.
+21809 - A twisted fire swirler!
+21810 - Every move you make, every breath you take, I'll be burning you.
+21811 - Likes to make pies with swarms of things.
+21812 - A very dangerous wyvern.
+// 21813 - Spirit_Hunter_Outfit
+// 21814 - Spirit_Hunter_Outfit
+// 21815 - Revenant_Outfit
+// 21816 - Revenant_Outfit
+21817 - A mechanical dragon created from a prototype design uncovered at RuneFest 2015.
+21818 - A mechanical dragon created from a prototype design uncovered at RuneFest 2015.
+// 21819 - Mod_Kelvin
+// 21820 - Mod_Kelvin
+// 21821 - null
+21822 - An intrepid young goebie.
+21823 - An intrepid young goebie.
+21824 - An intrepid young goebie.
+21825 - An intrepid young goebie.
+21826 - Poor massive thing.
+21827 - Looks after the ancient goebie.
+21828 - Looks after the ancient goebie.
+21829 - 
+// 21830 - Heavy_block
+21831 - An intrepid young goebie.
+21832 - An intrepid young goebie.
+21833 - An intrepid young goebie.
+21834 - An aggressive beast that comes from another world.
+21835 - An aggressive beast that comes from another world.
+21836 - Those helmets save lives. Charger lives. Goebie lives, not so much.
+21837 - It's not only good things that come in threes.
+21838 - An intrepid young goebie.
+21839 - An intrepid young goebie.
+21840 - An intrepid young goebie.
+21841 - An intrepid young goebie.
+21842 - An intrepid young goebie.
+21843 - An intrepid young goebie.
+// 21844 - null
+// 21845 - null
+// 21846 - null
+21847 - Arod the Environmentalist in Otot may be interested in your catch.
+21848 - Arod the Environmentalist in Otot may be interested in your catch.
+21849 - Arod the Environmentalist in Otot may be interested in your catch.
+21850 - Arod the Environmentalist in Otot may be interested in your catch.
+21851 - Arod the Environmentalist in Otot may be interested in your catch.
+21852 - Arod the Environmentalist in Otot may be interested in your catch.
+21853 - Arod the Environmentalist in Otot may be interested in your catch.
+21854 - Arod the Environmentalist in Otot may be interested in your catch.
+21855 - Arod the Environmentalist in Otot may be interested in your catch.
+21856 - Arod the Environmentalist in Otot may be interested in your catch.
+21857 - Operator of the renowned Arod wildlife reserve.
+// 21858 - null
+// 21859 - null
+// 21860 - null
+// 21861 - null
+// 21862 - null
+// 21863 - null
+// 21864 - null
+// 21865 - null
+// 21866 - null
+21867 - An intrepid young goebie.
+21868 - An intrepid young goebie.
+21869 - An intrepid young goebie.
+21870 - An intrepid young goebie.
+21871 - An intrepid young goebie.
+// 21872 - null
+21873 - 
+// 21874 - null
+// 21875 - null
+// 21876 - null
+21877 - The elder of the goebie refugees.
+// 21878 - null
+21879 - An intrepid young goebie.
+21880 - A dark-hearted knight.
+21881 - A dark-hearted knight.
+21882 - A dark-hearted knight.
+21883 - A dark-hearted knight.
+21884 - A dark-hearted knight.
+21885 - A dark-hearted knight.
+21886 - Other knights merely adopted the dark. The champions were born in it.
+21887 - A White Knight proselyte.
+21888 - A White Knight proselyte.
+21889 - A White Knight proselyte.
+21890 - A White Knight proselyte.
+21891 - A White Knight proselyte.
+21892 - A White Knight proselyte.
+21893 - Saradomin's mighty warrior.
+21894 - A projection of the Lord of the Kinshra.
+21895 - I wonder if they will look at my tonsils?
+21896 - I wonder if they will look at my tonsils?
+21897 - I wonder if they will look at my tonsils?
+21898 - I wonder if they will look at my tonsils?
+// 21899 - null
+// 21900 - null
+// 21901 - null
+21902 - A White Knight proselyte.
+21903 - A White Knight proselyte.
+21904 - A White Knight proselyte.
+21905 - A White Knight proselyte.
+21906 - A White Knight proselyte.
+21907 - A White Knight proselyte.
+21908 - A White Knight proselyte.
+21909 - Saradomin's mighty warrior.
+21910 - A dark-hearted knight.
+21911 - A dark-hearted knight.
+21912 - A dark-hearted knight.
+21913 - A dark-hearted knight.
+21914 - A dark-hearted knight.
+21915 - A dark-hearted knight.
+21916 - Other knights merely adopted the dark. The champions were born in it.
+21917 - A knight to remember from the Invasion of Falador.
+21918 - A knight to remember from the Invasion of Falador.
+21919 - A knight to remember from the Invasion of Falador.
+21920 - A knight to remember from the Invasion of Falador.
+// 21921 - null
+21922 - The egregore of Asgarnia, guardian of the banner.
+21923 - An odd merchant who apparently has wares for sale.
+21924 - Sometimes known to wander the streets in search of sparkly things.
+21925 - Will ferry you around Um.
+// 21926 - null
+21927 - One of The Horsemen's five founders.
+21928 - Do not fear the Reaper.
+21929 - An evil priest.
+21930 - Looks like it's in trouble.
+21931 - Looks like it's in trouble.
+21932 - Looks like it's in trouble.
+// 21933 - Rescued_souls
+// 21934 - Rescued_souls
+21935 - A jackal-headed demi god.
+21936 - A jackal-headed demi god.
+// 21937 - Soul_Devourer
+// 21938 - Soul_Devourer
+21939 - The devourer.
+21940 - Master of Puppets pulling the strings.
+21941 - Master of Puppets pulling the strings.
+21942 - Sinn Derkwill in the Underworld will reward you for bringing this to him.
+21943 - The coolest of the cats.
+21944 - The coolest of the cats.
+// 21945 - null
+// 21946 - null
+// 21947 - null
+// 21948 - null
+// 21949 - null
+// 21950 - null
+// 21951 - null
+// 21952 - null
+// 21953 - null
+// 21954 - null
+// 21955 - null
+// 21956 - null
+// 21957 - null
+// 21958 - null
+// 21959 - null
+// 21960 - null
+// 21961 - null
+// 21962 - null
+// 21963 - null
+// 21964 - null
+// 21965 - null
+// 21966 - null
+// 21967 - null
+// 21968 - null
+// 21969 - null
+// 21970 - null
+// 21971 - null
+// 21972 - null
+// 21973 - null
+// 21974 - null
+// 21975 - null
+// 21976 - null
+// 21977 - null
+21978 - Specialises on the history of Falador and sent by Varrock Museum to uncover the secrets of the chest. Talk to her for more information about the event.
+21979 - Specialises on the history of Falador and sent by Varrock Museum to uncover the secrets of the chest. Talk to her for more information about the event.
+21980 - Positively petrifying.
+21981 - Positively petrifying.
+21982 - A White Knight proselyte.
+// 21983 - Wig
+// 21984 - 
+21985 - Lost in shadow.
+// 21986 - Memorial_stone
+// 21987 - Broken_memorial_stone
+// 21988 - Collapsing_memorial_stone
+// 21989 - Memorial_stone
+// 21990 - Broken_memorial_stone
+// 21991 - Collapsing_memorial_stone
+21992 - A very dangerous wyvern.
+21993 - A mysterious warrior clad in thick plate armour.
+21994 - Skilled demonic slasher.
+21995 - Skilled demonic slasher.
+// 21996 - Morvran's_reward_chest
+21997 - An enchanted dragonkin container used for long-term storage.
+// 21998 - Barrows_chest
+// 21999 - Dominion_Tower_reward_box
+// 22000 - Player
+22001 - A camel who's come from the south.
+22002 - Imagine there is no camel, it's all an illusion.
+22003 - How can the camels be real if our eyes aren't real?
+22004 - Dromedary? But I hardly know Madary.
+22005 - Bulk haulage never had so much junk in its trunk.
+22006 - Bulk haulage never had so much junk in its trunk.
+22007 - Large, noble and wooly. He's still going to smush you into paste.
+// 22008 - Snow_imp
+22009 - Cold, but here to bring festive warmth.
+// 22010 - null
+// 22011 - null
+// 22012 - null
+// 22013 - null
+22014 - 
+22015 - 
+// 22016 - null
+// 22017 - Snow_imp
+// 22018 - null
+// 22019 - Snow_imp
+// 22020 - Thok,_Master_of_Dungeoneering
+22021 - Hitting this penguin will reduce your enjoyment (and XP) for 3 laps.
+22022 - Leader of the White Knights.
+22023 - A snowman armed with an ice sword.
+22024 - A snowman armed with a winter staff.
+22025 - A snowman armed with a holly bow.
+// 22026 - Penguin
+// 22027 - Penguin
+// 22028 - Penguin
+// 22029 - null
+// 22030 - null
+// 22031 - null
+// 22032 - null
+// 22033 - Festive_fishing_spot
+// 22034 - Penguin
+// 22035 - null
+// 22036 - null
+22037 - Posts things.
+22038 - Posts things.
+// 22039 - null
+// 22040 - Snow_imp
+// 22041 - Snow_imp
+// 22042 - null
+22043 - He knows if you've been naughty or nice.
+22044 - He has snow business being here!
+// 22045 - Penguin
+22046 - He looks like he's in charge.
+22047 - He looks like he's in charge.
+// 22048 - null
+// 22049 - null
+22050 - Thanks for all your help! Love, Bob &amp, Neite.
+// 22051 - null
+// 22052 - null
+// 22053 - Divination_energy_outfit
+// 22054 - Prifddinas_camouflage_outfit
+22055 - Deploy this to create an elite training dummy, on which to train your Slayer skills.
+22056 - Deploy this to create an elite training dummy, on which to train your Thieving.
+// 22057 - Loot_Piñata
+// 22058 - Loot_Piñata
+22059 - A pet is not just fir Christmas.
+22060 - A pet is not just fir Christmas.
+// 22061 - null
+// 22062 - null
+22063 - A skilled hydromancer, one of the few of her kind.
+22064 - A skilled hydromancer, one of the few of her kind.
+// 22065 - null
+// 22066 - null
+22067 - He looks dangerous!
+// 22068 - null
+22069 - He looks dangerous!
+22070 - He looks dangerous!
+22071 - He looks dangerous!
+// 22072 - null
+22073 - An official representative from the First National Bank of RuneScape.
+// 22074 - null
+22075 - An expert in Mining-related skills.
+// 22076 - null
+// 22077 - Brynna
+// 22078 - null
+// 22079 - Master_Chef
+// 22080 - null
+// 22081 - Wizard_Terrova
+// 22082 - null
+22083 - Looks rather intimidating.
+22084 - Looks rather intimidating.
+// 22085 - Shrimp
+// 22086 - null
+22087 - Overgrown vermin with gills.
+// 22088 - null
+22089 - A holy man.
+// 22090 - Fish
+// 22091 - Fish
+// 22092 - Fish
+// 22093 - Fish
+// 22094 - Fish
+22095 - 
+22096 - 
+22097 - 
+22098 - 
+// 22099 - Crassian
+// 22100 - Wizard_Terrova
+22101 - Yep. Definitely a chicken.
+22102 - Yep. Definitely a chicken.
+22103 - A skilled hydromancer, one of the few of her kind.
+// 22104 - null
+// 22105 - Master_Chef
+// 22106 - null
+22107 - Very much an outdoors type.
+// 22108 - null
+// 22109 - Magic_instructor
+// 22110 - null
+22111 - An official representative from the First National Bank of RuneScape.
+// 22112 - null
+22113 - An expert in Mining-related skills.
+// 22114 - null
+22115 - A holy man.
+// 22116 - Spell
+// 22117 - Penguin
+// 22118 - Penguin
+// 22119 - null
+// 22120 - null
+// 22121 - null
+// 22122 - null
+// 22123 - null
+// 22124 - null
+// 22125 - null
+// 22126 - null
+// 22127 - null
+// 22128 - null
+// 22129 - null
+// 22130 - null
+// 22131 - null
+// 22132 - null
+// 22133 - null
+// 22134 - Snow_imp
+22135 - Was the biggest, meanest dragon around.
+22136 - A master at farming.
+22137 - 
+22138 - * 'Berg bard{{sic}}
+22139 - * 'Berg bard{{sic}}
+// 22140 - Musician
+22141 - His music is beautiful.
+// 22142 - Musician
+22143 - She wants to live forever... and she probably will.
+22144 - The legendary wolf.
+22145 - The legendary wolf.
+22146 - Stares with burning eyes like suns.
+// 22147 - Shadow_Dragoon_outfit
+// 22148 - Shadow_Dragoon_outfit
+22149 - An enthusiastic Fremennik poet.
+22150 - A powerful Mahjarrat.
+// 22151 - null
+22152 - An inventive dwarf assistant.
+22153 - An inventive dwarf assistant.
+// 22154 - null
+// 22155 - null
+22156 - * Smaller than the average goblin.
+// 22157 - null
+22158 - He looks like he's in charge.
+// 22159 - Money
+22160 - This snake seems to be in distress.
+22161 - Happy to Helps!
+22162 - Happy to Helps!
+22163 - 
+22164 - A mimic pet.
+22165 - Look out, it wants to eat you!
+22166 - Look out, it wants to eat you!
+22167 - Look out, it wants to eat you!
+22168 - Look out, it wants to eat you!
+22169 - It's protecting the Giant Mimic from harm. Kill it!
+22170 - The Chosen Commander.
+22171 - The Chosen Commander.
+22172 - The Chosen Commander.
+22173 - The Chosen Commander.
+22174 - The Chosen Commander.
+22175 - The Chosen Commander.
+22176 - A Bandosian spirit, here to claim goblin skulls.
+22177 - A Bandosian spirit, here to claim goblin skulls.
+22178 - A Bandosian spirit, here to claim goblin skulls.
+22179 - A Bandosian spirit, here to claim goblin skulls.
+22180 - A Bandosian spirit, here to claim goblin skulls.
+22181 - A Bandosian spirit, here to claim goblin skulls.
+22182 - A Bandosian spirit, here to claim goblin skulls.
+22183 - A Bandosian spirit, here to claim goblin skulls.
+22184 - A Bandosian spirit, here to claim goblin skulls.
+22185 - A Bandosian spirit, here to claim goblin skulls.
+22186 - A Bandosian spirit, here to claim goblin skulls.
+22187 - A Bandosian spirit, here to claim goblin skulls.
+22188 - A Bandosian spirit, here to claim goblin skulls.
+22189 - A Bandosian spirit, here to claim goblin skulls.
+22190 - A Bandosian spirit, here to claim goblin skulls.
+22191 - A Bandosian spirit, here to claim goblin skulls.
+22192 - A Bandosian spirit, here to claim goblin skulls.
+22193 - A Bandosian spirit, here to claim goblin skulls.
+22194 - A Bandosian spirit, here to claim goblin skulls.
+22195 - A Bandosian spirit, here to claim goblin skulls.
+22196 - A Bandosian spirit, here to claim goblin skulls.
+22197 - A Bandosian spirit, here to claim goblin skulls.
+22198 - A huge construct built to smite the foes of Bandos.
+// 22199 - Cave_goblin
+// 22200 - Cave_goblin
+22201 - The Chosen Commander.
+22202 - The Chosen Commander.
+22203 - The Chosen Commander.
+22204 - 
+22205 - Nomad's unfortunate minion.
+22206 - Do not fear the Reaper.
+22207 - A jackal-headed demi god.
+22208 - Eyes on me, not your pockets.
+// 22209 - Jessika
+22210 - 
+22211 - 
+22212 - An ancient looking gnome.
+22213 - Nomad's right hand man.
+22214 - A mysterious and devious Mahjarrat.
+22215 - The scourge of souls.
+22216 - The scourge of souls.
+22217 - Do not fear the Reaper.
+22218 - A jackal-headed demi god.
+22219 - 
+// 22220 - Brand
+// 22221 - Astrid
+22222 - 
+22223 - 
+// 22224 - Jessika
+// 22225 - null
+// 22226 - null
+// 22227 - null
+// 22228 - null
+// 22229 - null
+// 22230 - null
+// 22231 - null
+22232 - An ancient looking gnome.
+22233 - An ancient looking gnome.
+22234 - An ancient looking gnome.
+22235 - You know what you did and you know how they suffered afterwards. You monster.
+22236 - Deep down you know how awful you are.
+22237 - 
+// 22238 - Jessika
+22239 - 
+22240 - What's he doing here?
+22241 - What's he doing here?
+22242 - She holds a part of Korasi's memory.
+22243 - She holds a part of Korasi's memory.
+22244 - A lost soul who has been allured to the ritual site.
+22245 - A lost soul who has been allured to the ritual site.
+22246 - A lost soul who has been allured to the ritual site.
+22247 - A lost soul who has been allured to the ritual site.
+22248 - A lost soul who has been allured to the ritual site.
+22249 - A lost soul who has been allured to the ritual site.
+22250 - A lost soul who has been allured to the ritual site.
+22251 - A lost soul who has been allured to the ritual site.
+22252 - A lost soul who has been allured to the ritual site.
+22253 - A lost soul who has been allured to the ritual site.
+22254 - A lost soul who has been allured to the ritual site.
+22255 - The scourge of souls.
+22256 - The scourge of souls.
+// 22257 - Gielinor
+22258 - 
+22259 - A highly mobile Order of Ascension unit.
+22260 - A support unit from the Order of Ascension.
+22261 - A heavily armoured Order of Ascension unit.
+22262 - Weakest of the Order of Ascension's units.
+22263 - Do not fear the Reaper.
+22264 - This soul appears to have been weaponised by the construct.
+22265 - This soul has been freed from the construct.
+22266 - A jackal-headed demi god.
+22267 - Do not fear the Reaper.
+22268 - A jackal-headed demi god.
+// 22269 - "Player"
+// 22270 - "Death"
+// 22271 - "Nomad"
+// 22272 - "Icthlarin"
+// 22273 - Gielinor
+// 22274 - "Player"
+// 22275 - "Icthlarin"
+// 22276 - "Nomad"
+// 22277 - Gielinor
+// 22278 - "Death"
+22279 - The Chosen Commander.
+22280 - 
+22281 - An ancient looking gnome.
+22282 - 
+// 22283 - Jessika
+22284 - 
+22285 - 
+22286 - The Chosen Commander.
+22287 - 
+22288 - An ancient looking gnome.
+22289 - An illusion of an old gnome, it appears to be insulting the Order of Ascension.
+22290 - 
+// 22291 - Jessika
+22292 - Do not fear the Reaper.
+22293 - A jackal-headed demi god.
+22294 - A highly mobile Order of Ascension unit.
+22295 - A support unit from the Order of Ascension.
+22296 - A heavily armoured Order of Ascension unit.
+22297 - Weakest of the Order of Ascension's units.
+22298 - The Chosen Commander.
+22299 - 
+22300 - An ancient looking gnome.
+22301 - 
+// 22302 - Jessika
+// 22303 - GameBlast_2016_Outfit
+// 22304 - GameBlast_2016_Outfit
+// 22305 - null
+22306 - A collector, dedicated to discovering and archiving tales.
+// 22307 - null
+22308 - A fragment of a memory still lingering in the area.
+22309 - Leader of the Cywir hunters, possessing ancient powers of transformation.
+22310 - Leader of the Cywir hunters, possessing ancient powers of transformation.
+22311 - A skilled hunter.
+22312 - A skilled hunter.
+22313 - 
+22314 - 
+22315 - A mysterious and devious Mahjarrat.
+22316 - Feared for invoking Zamorak's wrath on those who have sworn a false oath.
+22317 - Feared for invoking Zamorak's wrath on those who have sworn a false oath.
+22318 - The god of chaos has returned.
+22319 - A servant of the god Zamorak.
+22320 - A violent and powerful dragon rider.
+22321 - A violent and powerful dragon rider.
+// 22322 - Gorvek_and_Vindicta
+22323 - The dragon that raised Vindicta, originally ridden by Morvannon.
+22324 - 
+22325 - 
+22326 - 
+22327 - 
+22328 - 
+22329 - 
+22330 - 
+22331 - 
+22332 - 
+22333 - 
+22334 - 
+22335 - 
+22336 - 
+22337 - 
+22338 - 
+22339 - 
+22340 - 
+22341 - 
+22342 - Used to be a black knight.&lt,br />
+22343 - A rather manic looking Rift Closer.
+// 22344 - Rogue_Outfit
+// 22345 - Rogue_Outfit
+22346 - Will eating this make me a chocoholic or entomophagous?
+22347 - A vengeful spirit corrupted by dark magic.
+// 22348 - null
+// 22349 - null
+// 22350 - null
+// 22351 - Dharok_the_Wretched
+// 22352 - null
+// 22353 - null
+// 22354 - null
+22355 - A vengeful spirit corrupted by dark magic.
+// 22356 - null
+// 22357 - null
+22358 - A vengeful spirit corrupted by dark magic.
+// 22359 - null
+// 22360 - null
+// 22361 - null
+22362 - A vengeful spirit corrupted by dark magic.
+// 22363 - null
+// 22364 - null
+// 22365 - null
+22366 - He looks fine.
+// 22367 - null
+22368 - A mysterious and devious Mahjarrat.
+22369 - A mysterious and devious Mahjarrat.
+// 22370 - null
+// 22371 - null
+// 22372 - null
+22373 - That's Mr. G. Willikers to you.
+22374 - That's Mr. G. Willikers to you.
+// 22375 - null
+// 22376 - null
+// 22377 - null
+// 22378 - null
+// 22379 - null
+// 22380 - null
+// 22381 - null
+// 22382 - null
+// 22383 - null
+22384 - A master at farming.
+22385 - A master at farming.
+// 22386 - null
+// 22387 - null
+// 22388 - null
+// 22389 - null
+// 22390 - null
+// 22391 - null
+// 22392 - null
+// 22393 - null
+// 22394 - null
+// 22395 - null
+// 22396 - null
+22397 - A gnome who's supposed to be cleaning up a mess.
+22398 - A gnome who's supposed to be cleaning up a mess.
+// 22399 - null
+// 22400 - null
+// 22401 - null
+// 22402 - null
+// 22403 - null
+// 22404 - null
+// 22405 - null
+// 22406 - null
+22407 - A young witch.
+22408 - A young witch.
+// 22409 - null
+// 22410 - null
+// 22411 - null
+// 22412 - null
+// 22413 - null
+// 22414 - null
+22415 - The Easter Bunny's lazy son.
+// 22416 - null
+// 22417 - null
+22418 - Fit for milking.
+// 22419 - Milk_churn
+// 22420 - Milk_churn
+// 22421 - Feed
+22422 - A dealer of cards.
+22423 - A dealer of cards.
+22424 - A dealer of cards.
+22425 - A dealer of cards.
+22426 - Someone who has fallen in love with the new card game craze.
+22427 - Someone who has fallen in love with the new card game craze.
+22428 - Someone who has fallen in love with the new card game craze.
+22429 - Someone who has fallen in love with the new card game craze.
+22430 - A book that holds tales of legendary feats. Read its contents to earn rewards immediately, and as you skill and kill.
+22431 - A book that holds tales of legendary feats. Read its contents to earn rewards immediately, and as you skill and kill.
+// 22432 - Mummy_ashes
+22433 - A representative of the Heart's Sliskeans.
+22434 - A representative of the Heart's Zamorakians.
+22435 - A representative of the Heart's Serenists.
+22436 - A representative of the Heart's Zarosians.
+22437 - The sweet blood, oh, it sings in him.
+22438 - Leader of the Cywir hunters, possessing ancient powers of transformation.
+22439 - Trained to lead its pack against dark creatures.
+22440 - Leader of the Cywir hunters, possessing ancient powers of transformation.
+22441 - Trained to lead its pack against dark creatures.
+22442 - 
+22443 - 
+// 22444 - Shadow
+22445 - A vengeful spirit, corrupted by dark magic.
+// 22446 - null
+// 22447 - Wight_hunter_(Melee)
+// 22448 - Wight_hunter_(Ranged)
+// 22449 - Wight_hunter_(Magic)
+22450 - A wandering soul, lost in this lost world.
+22451 - A wandering soul, lost in this lost world.
+22452 - A wandering soul, lost in this lost world.
+22453 - Feared for invoking Zamorak's wrath on those who have sworn a false oath.
+22454 - Feared for invoking Zamorak's wrath on those who have sworn a false oath.
+22455 - Feared for invoking Zamorak's wrath on those who have sworn a false oath.
+22456 - Feared for invoking Zamorak's wrath on those who have sworn a false oath.
+// 22457 - null
+22458 - A violent and powerful dragon rider.
+22459 - A violent and powerful dragon rider.
+// 22460 - Gorvek_and_Vindicta
+22461 - A violent and powerful dragon rider.
+// 22462 - Gorvek_and_Vindicta
+22463 - The dragon that raised Vindicta, originally ridden by Morvannon.
+// 22464 - NEVER_SEEN__-_DO_NOT_TRANSLATE
+// 22465 - null
+// 22466 - null
+// 22467 - null
+// 22468 - null
+// 22469 - null
+22470 - An elven archer.
+22471 - An elven combatant.
+22472 - An elven wizard.
+22473 - Not man's best friend.
+// 22474 - Automaton
+// 22475 - Automaton
+// 22476 - Automaton
+22477 - A construction of metal and crystal in the shape of an elf.
+// 22478 - Necromancer
+22479 - One of Sliske's wights.
+22480 - Armed, and nowhere near as dead as it should be.
+22481 - Could do with gaining a few pounds.
+22482 - Once a rising star, now just a part of the collection.
+22483 - Once a rising star, now just a part of the collection.
+22484 - Once a rising star, now just a part of the collection.
+22485 - Is it real?
+22486 - The tongue of evil.
+22487 - Hello, nice doggy...
+22488 - A dark-hearted knight.
+22489 - A dark-hearted knight.
+22490 - A dwarf gone bad.
+22491 - A dwarf gone bad.
+22492 - Deadly at range.
+22493 - A demonic champion of chaos.
+22494 - Other knights merely adopted the dark. The champions were born in it.
+22495 - An embodiment of terror.
+22496 - A denizen of the Abyss!
+22497 - An evil death demon.
+22498 - He looks angry and dangerous!
+22499 - A dangerous ranger.
+22500 - A mage well practised in the art of ancient spellcasting.
+22501 - A strange and twisted creature.
+22502 - The kind of terror that even other terrors feel uncomfortable around.
+22503 - Choo choo...all aboard!
+22504 - Choo choo...all aboard!
+// 22505 - Navigator_Outfit
+// 22506 - steampunk_Outfit
+22507 - I wonder how cute the dragon she rides is?
+22508 - Probably still not a good size to ride.
+22509 - Is it a bear? Is it a wolf? Is it a stag? No, it's a wolf-bear-stag!
+22510 - One of the not-so-fearsome-in-this-size demon twins.
+22511 - She's watching you.
+22512 - Probably best to lock him out of the room while you sleep...
+22513 - I wonder how cute the dragon she rides is?
+22514 - Probably still not a good size to ride.
+22515 - One of the not-so-fearsome-in-this-size demon twins.
+22516 - She's watching you.
+22517 - Probably best to lock him out of the room while you sleep...
+22518 - Is it a bear? Is it a wolf? Is it a stag? No, it's a wolf-bear-stag!
+22519 - His eyes look unfocused, crazed.
+// 22520 - null
+// 22521 - The_Twin_Furies
+// 22522 - The_Twin_Furies_(CM)
+// 22523 - Barrows:_RotS_chest
+// 22524 - The_Barrows:_Rise_of_the_Six
+// 22525 - The_Barrows_Brothers
+22526 - 
+22527 - 
+22528 - The so-called Empty Lord.
+// 22529 - Kimono_Outfit
+// 22530 - Kimono_Outfit
+22531 - It's totally savage.
+// 22532 - null
+// 22533 - null
+// 22534 - null
+// 22535 - null
+// 22536 - null
+// 22537 - null
+// 22538 - null
+// 22539 - null
+// 22540 - null
+22541 - What's a human child doing here?
+22542 - He looks hungry.
+// 22543 - null
+22544 - It's totally savage.
+// 22545 - null
+22546 - A Zamorakian human cleric.
+22547 - A Zamorakian human cleric.
+22548 - A Zamorakian human cleric.
+22549 - A rather distinguished pack yak.
+22550 - Draws the attention of shades away from the temple for a period of time. Will last for 10 minutes or until destroyed.
+22551 - An initiate juvenile vampyre, a guard for the mining area.
+22552 - An initiate juvenile vampyre, a guard for the mining area.
+22553 - A thirsty-looking, airborne bloodsucker!
+22554 - A thirsty-looking, airborne bloodsucker!
+22555 - A thirsty-looking, airborne bloodsucker!
+22556 - A thirsty-looking, airborne bloodsucker!
+22557 - A thirsty-looking, airborne bloodsucker!
+22558 - A thirsty-looking, airborne bloodsucker!
+22559 - A thirsty-looking, airborne bloodsucker!
+22560 - A thirsty-looking, airborne bloodsucker!
+22561 - A thirsty-looking, airborne bloodsucker!
+22562 - A thirsty-looking, airborne bloodsucker!
+22563 - A thirsty-looking, airborne bloodsucker!
+22564 - A thirsty-looking, airborne bloodsucker!
+22565 - A thirsty-looking, airborne bloodsucker!
+22566 - A thirsty-looking, airborne bloodsucker!
+22567 - A thirsty-looking, airborne bloodsucker!
+22568 - A thirsty-looking, airborne bloodsucker!
+22569 - A thirsty-looking, airborne bloodsucker!
+22570 - He or she certainly has an air of mystery.
+22571 - He or she certainly has an air of mystery.
+22572 - A conspirator you fought in an earlier adventure.
+22573 - A conspirator you fought in an earlier adventure.
+22574 - The head of the palace guard.
+22575 - The head of the palace guard.
+// 22576 - Guard
+// 22577 - Guard
+22578 - 
+22579 - 
+22580 - A member of the Myreque and an aspiring young priest.
+22581 - A member of the Myreque and an aspiring young priest.
+22582 - A member of the Myreque and an aspiring young priest.
+// 22583 - Vampyre_juvinate
+// 22584 - Vampyre_juvinate
+22585 - It looks really hungry!
+22586 - It looks really hungry!
+22587 - A tall, charismatic leader with an unusual appearance.
+22588 - A tall, charismatic leader with an unusual appearance.
+22589 - A tall, charismatic leader with an unusual appearance.
+22590 - A tall, charismatic leader with an unusual appearance.
+22591 - The Lord of Vampyrium.
+22592 - An evil vampyre.
+22593 - A tall, charismatic leader with an unusual appearance.
+// 22594 - null
+22595 - 
+22596 - 
+22597 - 
+22598 - 
+22599 - 
+// 22600 - null
+// 22601 - Vampyre_juvinate
+// 22602 - Vampyre_juvinate
+22603 - One of Gielinor's many citizens.
+22604 - One of Gielinor's many citizens.
+// 22605 - Blood-dyed_man
+// 22606 - Blood-dyed_woman
+// 22607 - Male_juvenile
+// 22608 - Female_juvenile
+22609 - A citizen of Burgh de Rott.
+22610 - A citizen of [[Burgh de Rott]].
+22611 - A citizen of Burgh de Rott.
+22612 - A flea infested, pale looking excuse for a man.
+22613 - A citizen of Burgh de Rott.
+22614 - A creature summoned by Vanstrom to kill the remaining Myreque.
+22615 - It's so cute!
+22616 - The Lord of Vampyrium.
+22617 - A fighter of the Myreque.
+22618 - A fighter for the Myreque.
+22619 - Hot headed big built youth who trained in the militia.
+22620 - This person looks like he's always concentrating, always researching things.
+22621 - Mekritus disguised as a vampyre.
+22622 - A member of the Myreque and intellectual assistant to Veliaf.
+22623 - A quick and agile fighter, a mercenary from Asgarnia.
+22624 - A quiet, war-weary man with the keen eye of a ranger.
+22625 - A pretty young rogue.
+22626 - A thirsty-looking, airborne bloodsucker!
+22627 - A thirsty-looking, airborne bloodsucker!
+22628 - He tries to grow crops in this area.
+22629 - A citizen of [[Burgh de Rott]].
+22630 - A citizen of Burgh de Rott.
+22631 - A citizen of Burgh de Rott.
+// 22632 - null
+// 22633 - null
+// 22634 - null
+// 22635 - null
+// 22636 - null
+22637 - An evil, bloodsucking vampyre.
+// 22638 - Navigator_Outfit
+// 22639 - steampunk_Outfit
+// 22640 - Rogue_Outfit
+// 22641 - Rogue_Outfit
+22642 - A typical, if overly heavy handed, jobs worth guard.
+22643 - A turoth with a love for socks.
+22644 - A turoth with a love for socks.
+// 22645 - null
+// 22646 - Megatha_Christie
+22647 - What do you mean multiple personality disorder?
+// 22648 - null
+// 22649 - null
+22650 - She looks weary.
+// 22651 - null
+22652 - It's one small leg short!
+22653 - It's one small leg short!
+// 22654 - Deirdre
+// 22655 - null
+// 22656 - null
+// 22657 - null
+// 22658 - null
+// 22659 - null
+// 22660 - Lion_Outfit
+// 22661 - Lion_Outfit
+// 22662 - Major_Mary_Rancour
+22663 - Expert combatant and tactician.
+// 22664 - Seasinger_Jemi
+// 22665 - null
+// 22666 - Vampyre_juvenile
+// 22667 - null
+// 22668 - Vampyre_juvenile
+// 22669 - null
+// 22670 - Vampyre_juvinate
+// 22671 - null
+// 22672 - Vampyre_juvinate
+// 22673 - Griffin_Outfit
+// 22674 - Griffin_Outfit
+22675 - An ugly, green creature.
+22676 - One of Gielinor's many citizens.
+22677 - Brings fire and brimstone upon you.
+22678 - Could do with gaining a few pounds.
+22679 - Dead man walking.
+22680 - Eek! A werewolf!
+22681 - The tongue of evil.
+22682 - A very large foe.
+22683 - A large dim looking humanoid.
+22684 - Lesser, but still pretty big.
+22685 - From a darker dimension.
+22686 - A denizen of the Abyss!
+22687 - An aggressive beast that comes from another world.
+22688 - A spiritual zombie that sucks life out of its victims.
+22689 - Skilled demonic slasher.
+// 22690 - Shauny
+// 22691 - Shauny
+// 22692 - null
+// 22693 - null
+// 22694 - null
+22695 - 
+// 22696 - null
+22697 - Looks very stylish, but how can he sail in that gear?
+// 22698 - null
+22699 - One of Gielinor's many citizens.
+// 22700 - null
+// 22701 - null
+22702 - A citizen of Rimmington.
+22703 - A citizen of Rimmington.
+// 22704 - null
+// 22705 - null
+// 22706 - null
+22707 - He holds up passers by.
+// 22708 - null
+// 22709 - The_Iron_Link
+// 22710 - Zambo
+// 22711 - null
+// 22712 - null
+22713 - A monkey butler domesticated by mind-control technology.
+22714 - A monkey butler domesticated by mind-control technology.
+// 22715 - null
+// 22716 - null
+// 22717 - null
+// 22718 - null
+22719 - She looks like she has a tool for everything.
+22720 - She looks like she has a tool for everything.
+22721 - She's safe from the Dragonkin now.
+22722 - A mysterious and devious Mahjarrat.
+22723 - A mysterious and devious Mahjarrat.
+22724 - A mysterious and devious Mahjarrat.
+// 22725 - Ahrim
+// 22726 - Ahrim
+// 22727 - Dharok
+// 22728 - Guthan
+// 22729 - Guthan
+// 22730 - Karil
+// 22731 - Torag
+// 22732 - Karil
+// 22733 - Torag
+// 22734 - Verac
+// 22735 - Verac
+22736 - A mysterious and devious Mahjarrat.
+// 22737 - null
+// 22738 - Dharok
+22739 - You won't like them when they're angry.
+22740 - For Justice!
+22741 - Saradomin's mighty warrior.
+22742 - The soul of someone from Guthan's past.
+// 22743 - Major_Mary_Rancour
+22744 - 
+22745 - 
+// 22746 - Major_Mary_Rancour
+22747 - A monk of Saradomin who survived the slaughter.
+22748 - 
+// 22749 - Major_Mary_Rancour
+22750 - She looks like she has a tool for everything.
+22751 - A young druidess with a tragic story.
+22752 - A mysterious and devious Mahjarrat.
+// 22753 - Wight_footsoldier
+22754 - One of Sliske's wights.
+// 22755 - "Guthan_the_Infested"
+// 22756 - "Sliske"
+// 22757 - "Karil_the_Tainted"
+// 22758 - "Meg"
+// 22759 - "Player"
+// 22760 - "Sliske"
+// 22761 - "Verac_the_Defiled"
+// 22762 - "Linza"
+// 22763 - "Dharok_the_Wretched"
+// 22764 - "Major_Mary_Rancour"
+// 22765 - "Ahrim_the_Blighted"
+// 22766 - "Torag_the_Corrupted"
+// 22767 - Balthazar
+// 22768 - Scorpion_Outfit
+// 22769 - Scorpion_Outfit
+22770 - She's safe from the Dragonkin now.
+22771 - Save yourself a gp for the ferryman!
+22772 - Save yourself a gp for the ferryman!
+22773 - Save yourself a gp for the ferryman!
+22774 - Save yourself a gp for the ferryman!
+22775 - The architect of chaos.
+22776 - The architect of chaos.
+// 22777 - <col=B8D1D1>Green_partyhat
+22778 - 
+// 22779 - Outfit_of_Spring
+// 22780 - Outfit_of_Summer
+// 22781 - Outfit_of_Autumn
+// 22782 - Outfit_of_Winter
+22783 - He/She can look after my money.
+// 22784 - null
+// 22785 - Black_Knight_Titan
+// 22786 - null
+// 22787 - Black_Knight_Titan
+// 22788 - null
+// 22789 - null
+22790 - A tall cabbagemancer.
+22791 - A tall cabbagemancer.
+// 22792 - null
+// 22793 - null
+22794 - A beardy cabbagemancer.
+22795 - A beardy cabbagemancer.
+// 22796 - null
+// 22797 - null
+22798 - A young cabbagemancer.
+22799 - A young cabbagemancer.
+// 22800 - Thordur
+// 22801 - null
+22802 - Cabbage... yuck!
+22803 - Cabbage... yuck!
+22804 - Cabbage... yuck!
+22805 - Cabbage... yuck!
+// 22806 - null
+22807 - Yuck, I don't like cabbage.
+22808 - Yuck, I don't like cabbage.
+22809 - Yuck, I don't like cabbage.
+22810 - Yuck, I don't like cabbage.
+22811 - N/A
+// 22812 - Bartender
+// 22813 - Bartender
+// 22814 - Bartender
+// 22815 - null
+22816 - A Mahjarrat of incomprehensible power.
+// 22817 - Thok
+22818 - pUre A cHaOs of crEatuRe!&lt,!-- {{sic}} it's like this, do not edit -->
+22819 - The Chosen Commander.
+22820 - The Chosen Commander.
+// 22821 - null
+// 22822 - null
+22823 - Rather dense and soppy looking.
+// 22824 - null
+// 22825 - null
+22826 - N/A
+// 22827 - null
+// 22828 - null
+22829 - The old gatekeeper to the world of RuneScape.
+// 22830 - null
+// 22831 - null
+22832 - The old gatekeeper to the world of RuneScape.
+// 22833 - null
+// 22834 - null
+22835 - Ex-KGP agent.
+22836 - Yuck, I don't like cabbage.
+// 22837 - null
+22838 - He really likes urns.
+// 22839 - null
+22840 - A little flaky. Looks like she'd be easy to distract.
+22841 - A hard working, salt of the earth type.
+22842 - A hard working, salt of the earth type.
+22843 - A hard working, salt of the earth type.
+22844 - A hard working, salt of the earth type.
+22845 - A hard working, salt of the earth type.
+22846 - Ageless, but seems older because he's so mature.
+22847 - A powerful entity that is one with the earth.
+22848 - Worms burrow through her rotting flesh.
+22849 - Even the gods fear it.
+22850 - A huge war chief.
+22851 - 
+22852 - Graceful servant of Armadyl.
+22853 - A servant of the god Zamorak.
+22854 - The embodiment of water.
+22855 - At least as blind as a bat. Studies suggest more so.
+22856 - A mutated crustacean that is set on ruining the party atmosphere.
+// 22857 - null
+22858 - 
+// 22859 - Jessika
+22860 - One of Gielinor's many citizens.
+22861 - Apparently, this is a thingummywut.
+22862 - A creature.
+// 22863 - Apropos
+22864 - 
+// 22865 - Mod_Raven
+22866 - He's mastered many skills of RuneScape.
+// 22867 - null
+// 22868 - null
+// 22869 - null
+// 22870 - null
+22871 - A ship captain, wandering around the port.
+22872 - A ship captain, wandering around the port.
+22873 - They're ready to train you to 99 Riding.
+22874 - Put this down to get the dancing started!
+22875 - One of Valerio's dancers.
+22876 - One of Valerio's dancers.
+22877 - One of Valerio's dancers.
+22878 - An old gardener.
+// 22879 - null
+// 22880 - Black_Knight_Titan
+// 22881 - Black_Knight_Titan
+// 22882 - Black_Knight_Titan
+22883 - Cabbage... yuck!
+// 22884 - Crispy
+22885 - This duck has conquered this cart. Bet you're glad you examined everything in the quest now.
+22886 - He/She can look after my money.
+// 22887 - null
+// 22888 - Black_Knight_Titan
+22889 - Her eyes are misted over as if her vision is somewhere else.
+22890 - Her eyes are misted over as if her vision is somewhere else.
+22891 - It won't stop until it can be sure the Heart is safe.
+// 22892 - Telos,_the_Warden_(dormant)
+22893 - 
+// 22894 - Volcanic_Anima_Font
+// 22895 - Corrupt_Anima_Font
+22896 - 
+// 22897 - Volcanic_Anima_Font
+// 22898 - Corrupt_Anima_Font
+22899 - 
+// 22900 - Volcanic_Anima_Font
+// 22901 - Corrupt_Anima_Font
+22902 - 
+// 22903 - Volcanic_Anima_Font
+// 22904 - Corrupt_Anima_Font
+22905 - It won't stop until it can be sure the Heart is safe.
+22906 - It won't stop until it can be sure the Heart is safe.
+22907 - It won't stop until it can be sure the Heart is safe.
+22908 - It won't stop until it can be sure the Heart is safe.
+22909 - It won't stop until it can be sure the Heart is safe.
+22910 - It won't stop until it can be sure the Heart is safe.
+22911 - It won't stop until it can be sure the Heart is safe.
+22912 - 
+// 22913 - Corrupt_Anima_Font
+// 22914 - Volcanic_Anima_Font
+// 22915 - Pure_Anima_Font_(charged)
+// 22916 - Corrupt_Anima_Font_(charged)
+// 22917 - Volcanic_Anima_Font_(charged)
+22918 - It won't stop until it can be sure the Heart is safe.
+// 22919 - Anima-golem_(inactive)
+22920 - An apparition summoned from the shadow realm.
+// 22921 - Manticore_Melee_Weapons
+// 22922 - Manticore_Ranged_Weapons
+// 22923 - Manticore_Magic_Weapons
+// 22924 - Manticore_Melee_Weapons
+22925 - Hopefully not as strong as the bigger version.
+22926 - Hopefully not as strong as the bigger version.
+22927 - Also known as Grawnffrwyth to his friends.
+22928 - Deploy this to create an elite training dummy, on which to train your Agility skills.
+22929 - Deploy this to create an elite training dummy, on which to train your Hunting.
+22930 - Captain of the Port Sarim prison guard.
+22931 - A champion of the Skulls pirates.
+22932 - Most impressive.
+22933 - Most impressive.
+22934 - Most impressive.
+22935 - Most impressive.
+22936 - A champion of the Port Sarim prison guard.
+22937 - A prison guard.
+22938 - A prison guard.
+// 22939 - null
+// 22940 - null
+// 22941 - Mister_Gully
+22942 - 
+// 22943 - null
+// 22944 - null
+// 22945 - Seasinger_Jemi
+22946 - 
+// 22947 - null
+// 22948 - null
+// 22949 - Black_Knight_sergeant
+22950 - A sergeant of the Black Knights.
+22951 - A sergeant of the Black Knights.
+// 22952 - Seasinger_Jemi
+// 22953 - null
+// 22954 - null
+// 22955 - null
+// 22956 - null
+22957 - The old gatekeeper to the world of RuneScape.
+22958 - The old gatekeeper to the world of RuneScape.
+22959 - A fisherman from Waiko, also something of a greeter.
+// 22960 - null
+// 22961 - Lydilla
+// 22962 - Toad
+22963 - They're very hip.
+22964 - 
+22965 - Host of the Easter Egg shy and Hook-a-Duck.
+// 22966 - null
+// 22967 - null
+// 22968 - null
+// 22969 - null
+// 22970 - null
+// 22971 - null
+// 22972 - null
+22973 - The most piratical penguin you ever did see.
+// 22974 - Lookout_Ekahi
+// 22975 - null
+// 22976 - null
+// 22977 - null
+// 22978 - null
+// 22979 - null
+22980 - A Waiko fish merchant.
+22981 - A Waiko bamboo merchant.
+22982 - A Waiko rock merchant.
+// 22983 - 'Reggie'_(tortle_shell_merchant)
+22984 - A Waiko cooking merchant.
+22985 - She deals in supplies to facilitate ship travel.
+22986 - He/She can look after my money.
+22987 - She may not have the rewards you want, but she has the rewards you deserve.
+22988 - A crab, native to the Wushanko Isles.
+22989 - 
+22990 - 
+22991 - A crab, native to the Wushanko Isles. It is covered in special, golden, salt crystals.
+22992 - A crab, native to the Wushanko Isles. It is covered in special, golden, salt crystals.
+22993 - A crab, native to the Wushanko Isles. Wait. What is that on its shell?
+22994 - A crab, native to the Wushanko Isles. Wait. What is that on its shell?
+// 22995 - null
+// 22996 - null
+22997 - A type of tortoise, native to the Wushanko Isles.
+22998 - A type of tortoise, native to the Wushanko Isles.
+22999 - A type of tortoise, native to the Wushanko Isles. This one has gold flecks in its shell.
+23000 - An ex-Death Lotus trainee, now acolyte of Seiryu.
+23001 - A castaway werewolf.
+23002 - A once legendary pirate captain (and his pet cyclops).
+23003 - May be a monkey's uncle.
+23004 - A Ga'al explorer.
+23005 - A castaway coconut.
+23006 - Talk to the big, giant head.
+23007 - Talk to the big, giant head.
+// 23008 - Island_Moai
+23009 - She is singing a haunting song.
+23010 - A cyclops pirate captain.
+// 23011 - null
+// 23012 - null
+23013 - A cyclops pirate captain.
+// 23014 - null
+// 23015 - null
+23016 - He has a strong back and a weak mind.
+23017 - He has a strong back and a weak mind.
+23018 - He has a strong back and a weak mind.
+23019 - He has a strong back and a weak mind.
+// 23020 - null
+23021 - She has connections. If there's something or someone you need, she may be able to get it...for a price.
+23022 - He's not the weakest.
+23023 - Avast ye scurvy land lubbers!
+23024 - Known for his light-fingered qualities.
+23025 - He jumps out and attacks people.
+23026 - A retired highwayman.
+23027 - Swashbuckles his way across the seven seas.
+23028 - A prison guard.
+23029 - I like a dragon with spirit.
+23030 - I like a dragon with spirit.
+// 23031 - Sojobo_(contracts)
+// 23032 - null
+// 23033 - Ling_(contracts)
+// 23034 - null
+// 23035 - Hubbub_(contracts)
+23036 - A powerful crab-like creature.
+23037 - A hideous crab-like creature.
+23038 - One of Khnum's Skulls.
+23039 - One of Khnum's Skulls.
+23040 - One of Khnum's Skulls.
+23041 - There's always room for jelly.
+// 23042 - Armoured_zombie
+// 23043 - Armoured_zombie
+// 23044 - Armoured_zombie
+// 23045 - Armoured_zombie
+23046 - Dead man walking.
+23047 - Dead man walking.
+23048 - Dead man walking.
+23049 - Dead man walking.
+23050 - Dead man walking.
+23051 - Dead man walking.
+23052 - Dead man walking.
+23053 - Dead man walking.
+23054 - Could do with gaining a few pounds.
+23055 - Could do with gaining a few pounds.
+23056 - Could do with gaining a few pounds.
+23057 - A soldier from the Eastern Lands.
+23058 - A soldier from the Eastern Lands.
+23059 - A soul, tormented by the long past destruction of their world, begging to be freed.
+23060 - An extremely vicious scorpion.
+23061 - Stoic, dedicated follower of his Goddess.
+23062 - Perhaps our oldest relatives?
+// 23063 - Seasinger_priest
+23064 - Bodyguard and acolyte to the Khan of the Sea.
+23065 - An ex-assassin yet to receive their "severance" package.
+23066 - An ex-assassin yet to receive their "severance" package.
+23067 - A Gu warrior without a master.
+23068 - A Gu warrior without a master.
+23069 - An initiate human of the Temple of Seiryu.
+23070 - An initiate human of the Temple of Seiryu.
+23071 - An enlightened elemental of the Temple of Seiryu.
+23072 - An enlightened elemental of the Temple of Seiryu.
+23073 - An ascending dragon of the Temple of Seiryu.
+23074 - An ascending dragon of the Temple of Seiryu.
+23075 - An ascended spirit dragon of the Temple of Seiryu.
+23076 - An ascended spirit dragon of the Temple of Seiryu.
+23077 - A resident of Waiko.
+23078 - A resident of Waiko.
+23079 - A resident of Waiko.
+23080 - A resident of Waiko.
+23081 - A resident of Waiko.
+23082 - A resident of Waiko.
+23083 - A resident of Waiko.
+23084 - A resident of Waiko.
+23085 - A resident of Waiko.
+23086 - A resident of Waiko.
+23087 - A resident of Waiko.
+23088 - A resident of Waiko.
+23089 - A resident of Waiko.
+23090 - A resident of Waiko.
+23091 - A resident of Waiko.
+23092 - A resident of Waiko.
+23093 - A resident of Waiko.
+23094 - A resident of Waiko.
+23095 - A resident of Waiko.
+23096 - A resident of Waiko.
+23097 - A resident of Waiko.
+23098 - A resident of Waiko.
+23099 - A resident of Waiko.
+23100 - A resident of Waiko.
+23101 - A resident of Waiko.
+23102 - A resident of Waiko.
+23103 - A resident of Waiko.
+23104 - A resident of Waiko.
+23105 - A resident of Waiko.
+23106 - Off duty!
+23107 - A resident of Waiko.
+23108 - A resident of Waiko.
+23109 - A resident of Waiko.
+23110 - A resident of Waiko.
+23111 - A resident of Waiko.
+23112 - A resident of Waiko.
+23113 - A resident of Waiko.
+23114 - A resident of Waiko.
+23115 - A resident of Waiko.
+23116 - A resident of Waiko.
+23117 - A resident of Waiko.
+23118 - A resident of Waiko.
+23119 - A resident of Waiko.
+23120 - A resident of Waiko.
+23121 - Swashbuckles his way across the seven seas.
+23122 - A retired highwayman.
+23123 - A retired highwayman.
+// 23124 - null
+// 23125 - Flourishing_Fairy_Outfit
+// 23126 - Flourishing_Fairy_Outfit
+23127 - Shake your tail feathers.
+23128 - Shake your tail feathers.
+23129 - Avast ye scurvy land lubbers!
+23130 - Known for his light-fingered qualities.
+23131 - He jumps out and attacks people.
+// 23132 - Fishing_spot
+// 23133 - Fishing_spot
+// 23134 - Fishing_spot
+// 23135 - Wobbegong
+23136 - This looks like a good place to fish from.
+23137 - It won't stop until it can be sure the Heart is safe.
+23138 - Looks like he's carrying a lot of supplies.
+23139 - You'll need to charm the wings off them.
+23140 - Would never be seen wearing rouge.
+23141 - Row, row, rogue your boat gently down the stream.
+23142 - Rogueish.
+23143 - Would never be seen wearing rouge.
+23144 - Row, row, rogue your boat gently down the stream.
+// 23145 - null
+// 23146 - null
+// 23147 - null
+// 23148 - null
+// 23149 - null
+// 23150 - null
+// 23151 - null
+// 23152 - null
+// 23153 - null
+// 23154 - null
+// 23155 - null
+// 23156 - null
+23157 - Don't get on the wrong side of him, or his maul.
+23158 - Don't get on the wrong side of him, or his maul.
+23159 - A cursed wisp of energy.
+// 23160 - Cursed_spring
+23161 - An enriched wisp of cursed energy. Enriched wisps always give enriched memories.
+// 23162 - Enriched_cursed_spring
+23163 - A wilderness slayer keeping firmly on this side of the wall.
+23164 - The most loyal person you'll ever know.
+23165 - A wobbly starfish.
+23166 - A wobbly starfish.
+23167 - A floaty seahorse.
+23168 - A floaty seahorse.
+23169 - An underpaid delivery ghoul.
+23170 - An underpaid delivery ghoul.
+23171 - 
+// 23172 - null
+// 23173 - Satyr_Outfit
+// 23174 - Satyr_Outfit
+23175 - Solely interested in partying.
+23176 - A highly-trained ninja monkey.
+23177 - A highly-trained ninja monkey.
+23178 - A tiny house on legs.
+23179 - A tiny house on legs.
+23180 - I'd think twice before eating anything he cooks.
+23181 - I'd think twice before eating anything he cooks.
+23182 - A golem, covered in gems, who wants to spread beauty across the world.
+23183 - A golem, covered in gems, who wants to spread beauty across the world.
+23184 - These trees are found near water.
+23185 - These trees are found near water.
+23186 - Forever a naabe.
+23187 - Forever a naabe.
+23188 - You have to admire his balance.
+23189 - You have to admire his balance.
+23190 - His name is a complete coincidence.
+23191 - His name is a complete coincidence.
+23192 - A rocktail contained in an enchanted ball of water that is ready to explore the world of the land-walkers.
+23193 - A rocktail contained in an enchanted ball of water that is ready to explore the world of the land-walkers.
+23194 - A magical feather that floats around the world looking for adventure.
+23195 - A magical feather that floats around the world looking for adventure.
+23196 - A tortoise covered in herbs.
+23197 - A tortoise covered in herbs.
+23198 - A famous squadron leader who is battle-ready at a moment's notice.
+23199 - A famous squadron leader who is battle-ready at a moment's notice.
+23200 - The perfect blend of nature and science.
+23201 - The perfect blend of nature and science.
+23202 - Don't worry, he's used to people looking at him in ore.
+23203 - Don't worry, he's used to people looking at him in ore.
+23204 - A dragon imbued with runic energy.
+23205 - A dragon imbued with runic energy.
+23206 - A rock-hard travelling companion.
+23207 - A rock-hard travelling companion.
+23208 - Protect yourself at all costs if this golem charges at you head first.
+23209 - Protect yourself at all costs if this golem charges at you head first.
+23210 - Swag bag ready, this little guy is after all your loot. Watch your pockets!
+23211 - Swag bag ready, this little guy is after all your loot. Watch your pockets!
+23212 - It doesn't look like he has said a lie in his life.
+23213 - It doesn't look like he has said a lie in his life.
+23214 - A shimmering creature of blue light.
+23215 - Forged from the dreams of an elder god.
+// 23216 - null
+23217 - Wonder what this crablet is doing here? Could be a spy crab...
+23218 - This grows Harvest Festival produce which can be converted into Farming or Prayer experience. It will also grow rotten produce which can be burned for Firemaking XP.
+23219 - This grows Harvest Festival produce which can be converted into Farming or Prayer experience. It will also grow rotten produce which can be burned for Firemaking XP.
+23220 - This grows Harvest Festival produce which can be converted into Farming or Prayer experience. It will also grow rotten produce which can be burned for Firemaking XP.
+// 23221 - Merchant
+// 23222 - Merchant
+23223 - He/She can look after my money.
+23224 - He/She can look after my money.
+23225 - A fisherman who never has time to fish.
+23226 - Fast and dangerous!
+// 23227 - null
+// 23228 - Gossamer_Outfit
+// 23229 - Gossamer_Outfit
+23230 - A lion uncovered whilst at RuneFest 2016.
+23231 - A lion uncovered whilst at RuneFest 2016.
+23232 - A lion uncovered whilst watching RuneFest 2016.
+23233 - A lion uncovered whilst watching RuneFest 2016.
+23234 - 
+23235 - A mechanical dragon created from a prototype design uncovered at RuneFest 2015.
+23236 - Contains a huge amount of energy.
+23237 - Yep. Definitely a chicken.
+// 23238 - Daze
+23239 - Ryan, a motivated and excited rat. Key traits include - Love, Passion and the ability grind at even the most laborious of tasks.
+// 23240 - Ollie
+// 23241 - Labl
+// 23242 - Stu
+23243 - She looks like a tourist.
+// 23244 - Fae_Fairy_Light_Weapons
+// 23245 - Fae_Fairy_Heavy_Weapons
+// 23246 - Fae_Fairy_Ranged_Weapons
+// 23247 - Fae_Fairy_Magic_Weapons
+// 23248 - Fae_Melee_Weapons
+// 23249 - Fae_Ranged_Weapons
+// 23250 - Fae_Magic_Weapons
+// 23251 - Fae_Melee_Weapons
+// 23252 - null
+23253 - The scourge of souls.
+23254 - The scourge of souls.
+// 23255 - null
+// 23256 - null
+// 23257 - null
+// 23258 - null
+// 23259 - null
+23260 - They took her from me.
+23261 - Murdered because they feared his beliefs.
+23262 - 
+23263 - 
+23264 - 
+// 23265 - null
+// 23266 - null
+// 23267 - null
+// 23268 - null
+// 23269 - null
+// 23270 - null
+// 23271 - null
+// 23272 - null
+// 23273 - null
+23274 - I was forced to find money where I could.
+23275 - I was forced to find money where I could.
+23276 - I was forced to find money where I could.
+23277 - I was forced to find money where I could.
+// 23278 - The_distracted
+23279 - The strong prey on the weak.
+23280 - The strong prey on the weak.
+23281 - The strong prey on the weak.
+23282 - The strong prey on the weak.
+// 23283 - null
+// 23284 - null
+// 23285 - null
+23286 - Oreb taught me how little other people matter in the great scheme of things.
+23287 - Oreb knew things about the nature of the soul and he shared all his wisdom with me.
+23288 - I was forced to find money where I could.
+// 23289 - null
+// 23290 - null
+// 23291 - Oreb
+23292 - I was forced to find money where I could.
+// 23293 - null
+// 23294 - null
+23295 - I was forced to find money where I could.
+23296 - He proved less than useful.
+// 23297 - null
+23298 - I was forced to find money where I could.
+// 23299 - null
+23300 - I was forced to find money where I could.
+// 23301 - null
+// 23302 - null
+// 23303 - null
+23304 - Warriors dared to face me when I sat on my throne drinking in the power, they were nothing.
+23305 - You came to face me and I, in my arrogance, thought you were no match for my power.
+23306 - You were stronger than I could have dared imagine. I died that day... for a while.
+// 23307 - null
+// 23308 - null
+23309 - I pretended to follow.
+23310 - With each sentence I discovered more and more how the Saradominists had brainwashed him.
+// 23311 - null
+// 23312 - null
+23313 - I was forced to find money where I could.
+23314 - With each sentence I discovered more and more how the Saradominists had brainwashed him.
+// 23315 - null
+// 23316 - null
+23317 - I was forced to find money where I could.
+23318 - Do not fear the Reaper.
+// 23319 - null
+23320 - An aura of cold radiates from this figure, it sends shivers down your spine.
+23321 - An aura of cold radiates from this figure, it sends shivers down your spine.
+23322 - The air is colder here for some reason.
+23323 - It appears to be someone's memories condensed into a wisp.
+23324 - It appears to be someone's memories condensed into a wisp.
+23325 - The focus for this memory.
+23326 - The focus for this memory.
+23327 - The focus for this memory.
+23328 - The focus for this memory.
+23329 - The focus for this memory.
+23330 - The focus for this memory.
+23331 - The focus for this memory.
+23332 - The focus for this memory.
+23333 - The focus for this memory.
+23334 - The focus for this memory.
+23335 - The focus for this memory.
+// 23336 - null
+// 23337 - null
+// 23338 - null
+// 23339 - null
+// 23340 - null
+// 23341 - null
+// 23342 - null
+// 23343 - null
+// 23344 - null
+// 23345 - null
+// 23346 - null
+23347 - What's a raven doing in the Underworld?
+23348 - A clever little count.
+23349 - This guy looks suspicious.
+23350 - A retired security guard.
+23351 - 
+23352 - Niya's evil twin, dressed in misery.
+23353 - Evil Goatee is a baa-a-a-d goat.
+23354 - Not as cute as it once was.
+23355 - Not as cute as it once was.
+23356 - A huge variety of the normal sprout, made from lush blossoms.
+23357 - A huge variety of the normal sprout, not as cute as it once was.
+23358 - A huge variety of the normal sprout, made from lush blossoms.
+23359 - A huge variety of the normal sprout, not as cute as it once was.
+23360 - Made from lush blossoms.
+23361 - Not as cute as it once was.
+23362 - Yep. Definitely a Wushanko chicken.
+23363 - Yep. Definitely a Wushanko chicken.
+23364 - Yep. Definitely a Wushanko chicken.
+23365 - Yep. Definitely a Wushanko chicken.
+23366 - Yep. Definitely a Wushanko chicken...an undead Wushanko chicken.
+// 23367 - Lookout_Ekahi
+// 23368 - Lookout_Ekahi
+23369 - If you want grass, he's got grass.
+23370 - A gnomish fruit merchant.
+23371 - A gnomish purveyor of horticultural splendour.
+23372 - A trader in lost power and ancestral memories.
+// 23373 - Crabletine
+// 23374 - Salty_crabletine
+// 23375 - Salty_crabletine
+// 23376 - null
+23377 - It radiates positive emotions that distract and overwhelm you.
+23378 - It radiates negative emotions that distract and overwhelm you.
+23379 - A chunk of balanced energy. It can be manipulated to create or transmute objects.
+23380 - A cannonball that eats people - i.e. a cannibal.
+23381 - A cannonball, I mean cannibal, with a sweet tooth.
+23382 - A pescatarian cannonball...I mean cannibal.
+23383 - A partially digested cannibal, I mean cannonball. Wait, no, I was right the first time.
+23384 - An adventurous lady gnome glider pilot.
+23385 - The animated skull of a castaway cyclops.
+23386 - A particularly messy flying squid.
+23387 - Salmon Max's fish-wife.
+23388 - A wealthy little crab.
+23389 - A wealthy little crab.
+23390 - A guardian lion native to the Eastern Lands.
+23391 - Could do with gaining a few pounds.
+23392 - Sharkborne's pet crablet.
+23393 - Khan of Cyclosis.
+23394 - The moon priestess of Cyclosis.
+23395 - Praise the sun!
+23396 - The chef of Cyclosis.
+23397 - The beach comber of Cyclosis.
+23398 - The blacksmith of Cyclosis.
+23399 - The banker of Cyclosis.
+23400 - The banker of Cyclosis.
+23401 - Male desert villager.
+23402 - Male desert villager.
+23403 - Male desert villager.
+23404 - Male desert villager.
+23405 - Male desert villager.
+23406 - Male desert villager.
+23407 - A salt-encrusted mobile bank chest.
+23408 - A salt-encrusted mobile bank chest.
+23409 - A bird-fancier living on Cyclosis.
+// 23410 - null
+23411 - Khan of Cyclosis.
+23412 - Maybe he should be called Zed now.
+23413 - Maybe he should be called Zed now.
+23414 - An ex-cyclops.
+23415 - An ex-cyclops.
+23416 - An ex-cyclops.
+23417 - An ex-cyclops.
+23418 - Ooooh spooky!
+23419 - Commander of the Harbinger. Scourge of the seven isles. Owner of a crow called Cheryl.
+23420 - Commander of the Harbinger. Scourge of the seven isles. Owner of a crow called Cheryl.
+// 23421 - null
+23422 - Commander of the Harbinger. Scourge of the seven isles. Owner of a crow called Cheryl.
+// 23423 - Your_ship
+23424 - They load and fire the cannons.
+23425 - An ex-cyclops.
+// 23426 - null
+// 23427 - Malignant_entity
+23428 - A mysterious soul-eating abomination.
+23429 - A mysterious soul-eating abomination.
+23430 - A floating fish-face.
+23431 - Some sort of tree spirit thing.
+23432 - Finds your salty tears delicious.
+23433 - A big fan of tortles.
+23434 - Loves berries and 'shrooms.
+23435 - Yin, meet Yang.
+23436 - An unenlightened spirit.
+23437 - A spirit that carries money.
+23438 - A floating fish-face, found on uncharted isles.
+23439 - Some sort of uncharted tree spirit thing.
+23440 - Finds your salty uncharted tears delicious.
+23441 - A big fan of ornate tortles.
+23442 - Loves uncharted berries and 'shrooms.
+23443 - Yin, meet uncharted Yang.
+23444 - An unenlightened uncharted spirit.
+23445 - An uncharted spirit that carries money.
+23446 - A somewhat twitchy man who is fascinated by kami spirit folklore.
+23447 - An expert on the ocean and its many inhabitants.
+23448 - Strange looking fella.
+23449 - She's learning to become a seasinger.
+23450 - She's learning to become a seasinger. (It's pronounced 'nah-mi'.)
+23451 - A gnomish bartender.
+23452 - Time has trapped her in a prison of bamboo.
+23453 - A gnome with a new home.
+23454 - A gnome with a new home.
+23455 - A gnome with a new home.
+23456 - A gnome with a new home.
+// 23457 - null
+// 23458 - null
+// 23459 - null
+// 23460 - null
+// 23461 - null
+// 23462 - null
+// 23463 - null
+// 23464 - null
+23465 - A resident of Waiko.
+23466 - A resident of Waiko.
+23467 - A resident of Waiko.
+23468 - A resident of Waiko.
+23469 - A one-eyed man eater.
+23470 - A one-eyed man eater.
+23471 - A one-eyed man eater.
+23472 - A one-eyed man eater.
+23473 - A one-eyed man eater.
+23474 - A one-eyed man eater.
+23475 - A one-eyed man eater.
+23476 - A one-eyed man eater.
+// 23477 - null
+// 23478 - null
+// 23479 - null
+// 23480 - null
+// 23481 - null
+// 23482 - null
+// 23483 - null
+// 23484 - null
+// 23485 - null
+// 23486 - null
+// 23487 - null
+// 23488 - null
+// 23489 - null
+// 23490 - null
+// 23491 - null
+// 23492 - null
+23493 - Definitely not a chicken.
+23494 - Definitely not a chicken.
+// 23495 - null
+// 23496 - null
+// 23497 - Privateer_Pack
+// 23498 - Privateer_Pack
+23499 - An adorable little spider, how could it be scary?
+23500 - An adorable little spider, how could it be scary?
+23501 - A failed attempt at making a wight. Cute though! (deployed)
+23502 - A failed attempt at making a wight. Cute though! (deployed)
+23503 - A failed attempt at making a wight. Cute though! (deployed)
+23504 - A failed attempt at making a wight. Cute though! (deployed)
+23505 - '''Inventory:''' An attempt to make a wight go wrong.. or wright?&lt,br />'''Deployed:''' A failed attempt at making a wight. Cute though!
+23506 - A failed attempt at making a wight. Cute though! (deployed)
+// 23507 - Iron_Doc
+23508 - Dr Fenkenstrain in a jar, I presume.
+23509 - It has a key hanging from its collar.
+23510 - How am I supposed to stop this monstrosity?
+23511 - How am I supposed to stop this monstrosity?
+23512 - She looks awfully happy about something.
+23513 - How am I supposed to stop this monstrosity?
+23514 - Hitting this will reduce your charge for 3 laps.
+23515 - Hitting this will reduce your charge for 3 laps.
+23516 - Alas...I hardly knew him.
+23517 - Dr Fenkenbrain on a mechanical spider, because the world needed more nightmares.
+// 23518 - Dr_(House)_Spider_MD
+23519 - A somewhat eccentric Temple Knight.
+23520 - Aww, how cute.
+23521 - Aww, how cute.
+23522 - Aww, how cute.
+23523 - '''Inventory:'''&lt,br />This kitten seems to like you. (Kitten)&lt,br />This cat definitely likes you. (Cat)&lt,br />This cat is so well fed it can hardly move. (Overgrown)&lt,br />'''Follower:'''&lt,br />A friendly little pet. (Kitten)&lt,br />A fully grown feline. (Cat)&lt,br />A friendly, not-so-little pet. (Overgrown)
+23524 - '''Inventory:'''&lt,br />This kitten seems to like you. (Kitten)&lt,br />This cat definitely likes you. (Cat)&lt,br />This cat is so well fed it can hardly move. (Overgrown)&lt,br />'''Follower:'''&lt,br />A friendly little pet. (Kitten)&lt,br />A fully grown feline. (Cat)&lt,br />A friendly, not-so-little pet. (Overgrown)
+// 23525 - Zombie_Doc
+23526 - Dr Fenkenstrain I presume.
+23527 - 
+// 23528 - null
+23529 - An adventurous lady gnome glider pilot.
+23530 - He looks awfully happy about something.
+23531 - Surprisingly confident for an apprentice.
+23532 - She looks rather lost.
+23533 - A summoner of fire spirits.
+23534 - Yes I can.
+23535 - Reyna is looking for help in setting up her beach party.
+// 23536 - Blue_Fire_Spirit
+// 23537 - Green_Fire_Spirit
+// 23538 - Yellow_Fire_Spirit
+// 23539 - Red_Fire_Spirit
+23540 - It attracts mates by hopping around in circles and dancing.
+23541 - This curious bird looks for scraps of food in crop fields and berry patches.
+23542 - Its feathers are allegedly the same colour as the great spirit dragon, Seiryu. It is attracted to spiritual energy.
+23543 - This bright pink bird is often seen hitching free rides on the back of tortles.
+23544 - These birds compete for territory by seeing who can wiggle their heads the fastest and most erratically.
+23545 - This unfortunate creature is nearly extinct. It is delicious.
+23546 - This bird has a keen sense of smell and often begs for food.
+23547 - These creatures are often found circling crablets. They love to bathe in salt to keep their feathers shiny.
+23548 - These curious birds will instantly become friendly when you offer them food.  They eat practically anything, including bamboo.
+23549 - It likes to drag its massive beak through the sand in the hope of catching small creatures.
+23550 - The Waiko villagers occasionally sing a song that exactly matches the call of this bird.
+23551 - This bird is often hunted by Death Lotus assassins because its feathers are extremely soft and make lovely pillows.
+23552 - Contains 0% cocoa. Unless I feed it some cocoa, I guess.
+23553 - Found predominantly around the shorelines of Goshima, it hoovers up fish with startling efficiency.
+23554 - A familiar sight on Whale's Maw. Fishermen often throw small morsels at them to distract them from the main catch.
+23555 - This dazzling creature picks on the charred remains of ill-prepared adventurers on the island of Aminishi. Sometimes berries too.
+23556 - It attracts mates by hopping around in circles and dancing.
+23557 - This curious bird looks for scraps of food in crop fields and berry patches.
+23558 - Its feathers are allegedly the same colour as the great spirit dragon, Seiryu. It is attracted to spiritual energy.
+23559 - This bright pink bird is often seen hitching free rides on the back of tortles.
+23560 - These birds compete for territory by seeing who can wiggle their heads the fastest and most erratically.
+23561 - This unfortunate creature is nearly extinct. It is delicious.
+23562 - This bird has a keen sense of smell and often begs for food.
+23563 - These creatures are often found circling crablets. They love to bathe in salt to keep their feathers shiny.
+23564 - These curious birds will instantly become friendly when you offer them food.  They eat practically anything, including bamboo.
+23565 - It likes to drag its massive beak through the sand in the hope of catching small creatures.
+23566 - The Waiko villagers occasionally sing a song that exactly matches the call of this bird.
+23567 - This bird is often hunted by Death Lotus assassins because its feathers are extremely soft and make lovely pillows.
+23568 - Contains 0% cocoa. Unless I feed it some cocoa, I guess.
+23569 - Found predominantly around the shorelines of Goshima, it hoovers up fish with startling efficiency.
+23570 - A familiar sight on Whale's Maw. Fishermen often throw small morsels at them to distract them from the main catch.
+23571 - This dazzling creature picks on the charred remains of ill-prepared adventurers on the island of Aminishi. Sometimes berries too.
+23572 - Runner up at last year's Tri-Archaeologist tournament.
+// 23573 - Dwarven_miner
+// 23574 - Dwarven_miner
+// 23575 - Digsite_worker
+// 23576 - Digsite_worker
+// 23577 - Mine_cart
+// 23578 - Mine_cart
+23579 - One of Zaros' original experiments.
+// 23580 - Revenant
+// 23581 - Revenant
+// 23582 - Revenant_Imp
+// 23583 - Revenant_Imp
+// 23584 - Revenant_Goblin
+// 23585 - Revenant_Goblin
+// 23586 - Revenant_Icefiend
+// 23587 - Revenant_Icefiend
+// 23588 - Revenant_Pyrefiend
+// 23589 - Revenant_Pyrefiend
+// 23590 - Revenant_Hobgoblin
+// 23591 - Revenant_Hobgoblin
+// 23592 - Revenant_Vampyre
+// 23593 - Revenant_Vampyre
+// 23594 - Revenant_Werewolf
+// 23595 - Revenant_Werewolf
+// 23596 - Revenant_Cyclops
+// 23597 - Revenant_Cyclops
+// 23598 - Revenant_Hellhound
+// 23599 - Revenant_Hellhound
+// 23600 - Revenant_Lesser_Demon
+// 23601 - Revenant_Lesser_Demon
+// 23602 - Revenant_Ork
+// 23603 - Revenant_Ork
+// 23604 - Revenant_Darkbeast
+// 23605 - Revenant_Darkbeast
+// 23606 - Revenant_Knight
+// 23607 - Revenant_Knight
+// 23608 - Revenant_Dragon
+// 23609 - Revenant_Dragon
+23610 - A sea unicorn.
+23611 - A sea unicorn.
+// 23612 - Nautilus_Pack
+// 23613 - Nautilus_Pack
+23614 - Whether it be jewellery, decoupage, sewing, Krista loves her Crafting.
+23615 - While he has the name Curse, you feel that being a turkey may in fact be one.
+23616 - Baby turkey, baby turkey. Riding on a pig, baby turkey.
+23617 - Let's hope this turkey's name isn't taken literally.
+23618 - Glu Glu{{Sic}}
+// 23619 - null
+23620 - A powerful Mahjarrat.
+23621 - A powerful Mahjarrat.
+23622 - A powerful Mahjarrat.
+23623 - A powerful Mahjarrat.
+// 23624 - null
+23625 - A Zarosian Mahjarrat of the desert.
+23626 - A Zarosian Mahjarrat of the desert.
+23627 - A seemingly honourable Mahjarrat dedicated to Zaros.
+23628 - Formerly known as Ali the Wise, but really a Zarosian Mahjarrat.
+23629 - A dangerous and vindictive Mahjarrat.
+23630 - The infamous enemy of Varrock.
+23631 - A Mahjarrat recently reawakened by his cult of followers.
+23632 - He looks really nasty. Smells bad, too.
+// 23633 - null
+23634 - N/A
+23635 - N/A
+// 23636 - null
+23637 - The so-called Empty Lord.
+23638 - The so-called Empty Lord.
+// 23639 - null
+23640 - The god of chaos has returned.
+23641 - The god of chaos has returned.
+// 23642 - null
+23643 - N/A
+23644 - N/A
+23645 - A powerful Mahjarrat.
+23646 - Commander of the Sixth Legion and a duke on Infernus.
+23647 - A Tsutsaroth demon commander.
+23648 - A scholar in the service of Zaros.
+23649 - He's not what you'd call attractive.
+23650 - A mysterious and devious Mahjarrat.
+// 23651 - Warpriest
+23652 - You have penetrated the alleged warpriest's disguise!
+23653 - One of Nex's chosen.
+23654 - A Zarosian Mahjarrat of the desert.
+23655 - A seemingly honourable Mahjarrat dedicated to Zaros.
+23656 - Betrayal is common for men with no conscience.
+23657 - It is easier to forgive an enemy than forgive a friend.
+23658 - You have penetrated the alleged warpriest's disguise!
+23659 - Betrayal is common for men with no conscience.
+23660 - It is easier to forgive an enemy than forgive a friend.
+23661 - A guardian of Guthix.
+23662 - One of Zaros's pet virii.
+23663 - Khazard's mother.
+23664 - Formerly known as Ali the Wise, but really a Zarosian Mahjarrat.
+23665 - One of the Praetorians, Zaros's secret police.
+23666 - The god of chaos has returned.
+23667 - The god of chaos has returned.
+23668 - The Lord of Vampyrium.
+23669 - Seems to flitter in and out of existence...
+23670 - A demon from one of the most noble avernic houses.
+23671 - A Mahjarrat recently reawakened by his cult of followers.
+23672 - The infamous enemy of Varrock.
+23673 - Even the gods fear it.
+23674 - Her entire form burns with rage!
+23675 - A very high-ranking vampyre.
+23676 - A very high-ranking vampyre.
+23677 - Lesser, but still pretty big.
+23678 - An avernic demon famed for his loyalty to Zaros and severe lack of mercy.
+23679 - A cardinal of the Church of Zaros.
+23680 - The so-called Empty Lord.
+23681 - An even more nightmarish divine creation.
+23682 - A nightmarish divine creation that uses ranged attacks.
+23683 - A nightmarish divine creation that uses magic attacks.
+23684 - The centre of Mah's mind needs protecting at all costs.
+23685 - The centre of Mah's mind needs protecting at all costs.
+// 23686 - Shadow
+// 23687 - Shadow
+// 23688 - null
+23689 - A nightmarish divine creation that uses melee attacks.
+// 23690 - null
+23691 - The so-called Empty Lord.
+23692 - The so-called Empty Lord.
+23693 - A seemingly honourable Mahjarrat dedicated to Zaros.
+23694 - The infamous enemy of Varrock.
+23695 - The darkest vision of Mah's dreams brought to life.
+23696 - The darkest vision of Mah's dreams brought to life.
+// 23697 - null
+23698 - The darkest vision of Mah's dreams brought to life.
+23699 - This tiny Mahjarrat doesn't take sides, he just takes down everyone equally!
+23700 - This tiny Mahjarrat doesn't take sides, he just takes down everyone equally!
+23701 - The so-called Empty Lord.
+23702 - The god of chaos has returned.
+23703 - The god of chaos has returned.
+23704 - The god of chaos has returned.
+23705 - The so-called Empty Lord.
+23706 - The god of chaos has returned.
+23707 - One of Zaros's pet virii.
+23708 - One of Zaros's pet virii.
+23709 - A powerful demon from the Kal'gerion plane.
+23710 - A seemingly honourable Mahjarrat dedicated to Zaros.
+23711 - The god of chaos has returned.
+23712 - The infamous enemy of Varrock.
+// 23713 - Sucellus
+23714 - One of Zaros's pet virii.
+23715 - The so-called Empty Lord.
+23716 - One of Zaros's pet virii.
+23717 - The god of chaos has returned.
+23718 - A seemingly honourable Mahjarrat dedicated to Zaros.
+23719 - A thirsty-looking, airborne bloodsucker!
+23720 - A demon from one of the most noble avernic houses.
+23721 - A cardinal of the Church of Zaros.
+23722 - One of Zaros's pet virii.
+23723 - An avernic demon famed for his loyalty to Zaros and severe lack of mercy.
+23724 - The god of chaos has returned.
+// 23725 - "Wahisietel"
+23726 - Seems to flitter in and out of existence...
+23727 - The Lord of Vampyrium.
+23728 - The god of chaos has returned.
+23729 - One of Nex's chosen.
+23730 - A Mahjarrat recently reawakened by his cult of followers.
+23731 - A thirsty-looking, airborne bloodsucker!
+23732 - A powerful demon from the Kal'gerion plane.
+// 23733 - "Zamorak"
+23734 - A powerful demon from the Kal'gerion plane.
+23735 - A seemingly honourable Mahjarrat dedicated to Zaros.
+23736 - The so-called Empty Lord.
+// 23737 - Sucellus
+23738 - A powerful Mahjarrat.
+23739 - The infamous enemy of Varrock.
+23740 - A thirsty-looking, airborne bloodsucker!
+23741 - A dangerous and vindictive Mahjarrat.
+23742 - A Mahjarrat recently reawakened by his cult of followers.
+// 23743 - "Zamorak"
+// 23744 - "Bilrach"
+// 23745 - "Akthanakos"
+// 23746 - "Azzanadra"
+// 23747 - "Zaros"
+// 23748 - "Zamorak"
+// 23749 - "Player"
+// 23750 - "Kharshai"
+// 23751 - "Enakhra"
+// 23752 - "Zemouregal"
+// 23753 - "General_Khazard"
+// 23754 - "Hazeel"
+// 23755 - "Wahisietel"
+// 23756 - null
+// 23757 - "Zamorak"
+23758 - The god of chaos has returned.
+23759 - The god of chaos has returned.
+// 23760 - null
+23761 - That's Mr. G. Willikers to you.
+23762 - Santa's most trusted elf.
+// 23763 - Christmas_Loot_Piñata
+// 23764 - Christmas_Loot_Piñata
+23765 - A toy-seller who looks after people's toys for them.
+23766 - He knows if you've been naughty or nice.
+23767 - Ho ho ho... He's magic you know, never believe it's not so!
+23768 - * Not Santa, honest.
+23769 - A snowman in fake dragon armour.
+23770 - An effervescent elfin.
+// 23771 - null
+// 23772 - null
+// 23773 - null
+// 23774 - null
+// 23775 - null
+23776 - God of order and wisdom.
+// 23777 - null
+23778 - Saradomin's general. A powerful, winged warrior.
+// 23779 - null
+23780 - 
+23781 - A manifestation of one of Guthix's most beautiful memories...
+23782 - A manifestation of one of Guthix's most beautiful memories...
+// 23783 - null
+// 23784 - null
+// 23785 - null
+23786 - For Justice!
+// 23787 - null
+23788 - For Justice!
+// 23789 - null
+23790 - For Justice!
+// 23791 - null
+23792 - For Justice!
+// 23793 - null
+23794 - For Justice!
+// 23795 - null
+23796 - For Justice!
+// 23797 - null
+23798 - The god of chaos has returned.
+23799 - The god of chaos has returned.
+23800 - A White Knight proselyte.
+23801 - A White Knight proselyte.
+23802 - A White Knight proselyte.
+23803 - A White Knight proselyte.
+23804 - A White Knight proselyte.
+23805 - A White Knight proselyte.
+23806 - A White Knight proselyte.
+// 23807 - null
+23808 - Lost in shadow.
+23809 - God of order and wisdom.
+23810 - The god of chaos has returned.
+23811 - A seemingly honourable Mahjarrat dedicated to Zaros.
+23812 - The god of justice.
+// 23813 - null
+23814 - N/A
+23815 - N/A
+23816 - Do not fear the Reaper.
+23817 - A jackal-headed demi god.
+23818 - God of order and wisdom.
+23819 - The god of chaos has returned.
+23820 - The god of justice.
+23821 - A mysterious and devious Mahjarrat.
+23822 - A mysterious and devious Mahjarrat.
+// 23823 - null
+23824 - The so-called Empty Lord.
+23825 - The so-called Empty Lord.
+23826 - Behold, the elder god Jas, whose arms crafted the world from clay. You feel disturbingly like an ant staring at the heel of a boot.
+23827 - Behold, the elder god Jas, whose arms crafted the world from clay. You feel disturbingly like an ant staring at the heel of a boot.
+23828 - The scourge of souls.
+23829 - The scourge of souls.
+// 23830 - Wight_footsoldier
+// 23831 - Wight_footsoldier
+23832 - One of Sliske's wights.
+23833 - One of Sliske's wights.
+23834 - One of Sliske's wights.
+23835 - One of Sliske's wights.
+23836 - A vengeful spirit corrupted by dark magic.
+// 23837 - Dharok_the_Wretched
+23838 - A vengeful spirit corrupted by dark magic.
+23839 - A vengeful spirit corrupted by dark magic.
+23840 - A vengeful spirit corrupted by dark magic.
+23841 - He looks fine.
+23842 - The scourge of souls.
+23843 - The scourge of souls.
+23844 - 
+23845 - A wandering soul, lost in this world.
+// 23846 - Shadow
+23847 - She's safe from the Dragonkin now.
+23848 - She's safe from the Dragonkin now.
+23849 - A mysterious and devious Mahjarrat.
+// 23850 - Shadow_portal
+23851 - A mysterious and devious Mahjarrat.
+// 23852 - null
+// 23853 - Power_Source
+// 23854 - Power_Source
+23855 - Forgotten knowledge from the shadow realm has been condensed by your training.
+// 23856 - Light_wisp
+// 23857 - Wight_footsoldier
+23858 - A powerful - yet seemingly reasonable - dragonkin.
+23859 - You won't like them when they're angry.
+23860 - You won't like them when they're angry.
+23861 - You won't like them when they're angry.
+23862 - You won't like them when they're angry.
+23863 - You won't like them when they're angry.
+23864 - A powerful entity that is one with the earth.
+23865 - A powerful entity that is one with the earth.
+23866 - All hail Brassica Prime!
+23867 - The gorilla goddess of good times.
+23868 - Graceful servant of Armadyl.
+23869 - A graceful, bird-like creature.
+23870 - A graceful, bird-like creature.
+23871 - Mage, engineer, and siege expert.
+23872 - Her entire form burns with rage!
+23873 - A violent and powerful dragon rider.
+23874 - This time the joke is going over his head.
+23875 - This time the joke is going over his head.
+// 23876 - null
+// 23877 - "Player"
+// 23878 - "Sliske"
+23879 - An entity created to speak for the elder god Jas as her voice would obliterate us.
+23880 - An entity created to speak for the elder god Jas as her voice would obliterate us.
+23881 - An entity created to speak for the elder god Jas as her voice would obliterate us.
+23882 - God of order and wisdom.
+23883 - 
+23884 - For Justice!
+23885 - For Justice!
+23886 - Saradomin's mighty warrior.
+23887 - The god of chaos has returned.
+23888 - Lucien's daughter.
+23889 - A close-range brute.
+23890 - A close-range brute.
+23891 - Other knights merely adopted the dark. The champions were born in it.
+// 23892 - null
+23893 - An elf lord.
+23894 - 
+23895 - This ancient elf appears to be being kept alive by a metal-and-crystal exoskeleton.
+23896 - This elf has the otherworldly air of a summoned creature.
+23897 - A jackal-headed demi god.
+23898 - A powerful entity that is one with the earth.
+23899 - Keep him away from his twin!
+23900 - The god of justice.
+// 23901 - null
+// 23902 - Wight_footsoldier
+23903 - One of Sliske's wights.
+// 23904 - Wight_footsoldier
+// 23905 - Wight_footsoldier
+// 23906 - null
+// 23907 - null
+23908 - Do not fear the Reaper.
+// 23909 - null
+23910 - A jackal-headed demi god.

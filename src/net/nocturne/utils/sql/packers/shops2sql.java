@@ -1,5 +1,6 @@
 package net.nocturne.utils.sql.packers;
 
+import net.nocturne.Settings;
 import net.nocturne.game.item.Item;
 import net.nocturne.game.player.content.Shop;
 import net.nocturne.utils.Logger;
@@ -17,8 +18,8 @@ public class shops2sql {
     private static final int SHOP_QUANTITY_RATE = 10;
     public static void main(String[] args) {
         try {
-            Database db = new Database("arctik.co.uk", "ArkScape",
-                    "ArkScape", "arkscape");
+            Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+                    Settings.MYSQL_PASS, "arkscape");
 
             if (!db.init()) {
                 System.err.println("[DATABASE] No connection could be made to the database.");

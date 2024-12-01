@@ -114,7 +114,7 @@ public class RuneWikiNPCExaminesDumper {
 		String httpsURL = "https://runescape.wiki/w/"+npcname+"?action=edit";
 		URL myurl = new URL(httpsURL);
 		HttpsURLConnection con = (HttpsURLConnection) myurl.openConnection();
-		con.setRequestProperty ( "User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0" );
+		con.setRequestProperty ( "User-Agent", "Mozilla/5.0 (Windows NT 11.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0" );
 		InputStream ins = con.getInputStream();
 		InputStreamReader isr = new InputStreamReader(ins);
 		BufferedReader in = new BufferedReader(isr);

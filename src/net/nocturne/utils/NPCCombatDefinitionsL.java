@@ -9,6 +9,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.HashMap;
 
+import net.nocturne.Settings;
 import net.nocturne.cache.loaders.NPCDefinitions;
 import net.nocturne.game.npc.combat.NPCCombatDefinitions;
 import net.nocturne.utils.sql.Database;
@@ -55,8 +56,8 @@ public final class NPCCombatDefinitionsL {
 								.toLowerCase()));
 
 			Connection conn = null;
-			Database db = new Database("arctik.co.uk", "ArkScape",
-					"ArkScape", "arkscape");
+			Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+					Settings.MYSQL_PASS, "arkscape");
 
 			if (!db.init()) {
 				System.err.println("[" +
@@ -129,8 +130,8 @@ public final class NPCCombatDefinitionsL {
 		int count = 0;
 
 		try {
-			Database db = new Database("arctik.co.uk", "ArkScape",
-					"ArkScape", "arkscape");
+			Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+					Settings.MYSQL_PASS, "arkscape");
 
 			if (!db.init()) {
 				System.err.println("[" +

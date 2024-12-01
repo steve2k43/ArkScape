@@ -3,6 +3,7 @@ package net.nocturne.utils.sql;
 import java.io.IOException;
 import java.sql.PreparedStatement;
 
+import net.nocturne.Settings;
 import net.nocturne.cache.Cache;
 import net.nocturne.game.item.ItemConstants;
 import net.nocturne.game.player.content.grandExchange.GrandExchange;
@@ -20,8 +21,8 @@ public class Exchange implements Runnable {
 	@Override
 	public void run() {
 		try {
-			Database db = new Database("arctik.co.uk", "ArkScape",
-					"ArkScape", "arkscape");
+			Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+					Settings.MYSQL_PASS, "arkscape");
 
 			if (!db.initBatch()) {
 				System.err.println("[DATABASE] No connection could be made to the database.");

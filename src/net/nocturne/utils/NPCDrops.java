@@ -44,7 +44,7 @@ public class NPCDrops {
 				} catch (Exception e) {
 					System.out.println(e);
 				}
-				conn = (Connection) DriverManager.getConnection("jdbc:mysql://arctik.co.uk/npcdrops&allowPublicKeyRetrieval=true", "ArctikServer", "ArctikServer0!0");
+				conn = (Connection) DriverManager.getConnection("jdbc:mysql://mysql.arctik.co.uk/npcdrops&allowPublicKeyRetrieval=true", "ArctikServer", "ArctikServer0!0");
 				System.out.println("Connection is created succcessfully:");
 			} catch (Exception e) {
 				System.out.println(e);

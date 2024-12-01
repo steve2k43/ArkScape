@@ -8,6 +8,7 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
+import net.nocturne.Settings;
 import net.nocturne.cache.Cache;
 import net.nocturne.cache.loaders.NPCDefinitions;
 import net.nocturne.utils.Utils;
@@ -59,8 +60,8 @@ public class ItemDropsPacker {
 		for (int i = 0; i < args.length; i++) {
 			System.out.println(args[i]);
 		}
-		Database db = new Database("arctik.co.uk", "ArkScape",
-				"ArkScape", "npcdrops");
+		Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+				Settings.MYSQL_PASS, "npcdrops");
 
 		if (!db.init()) {
 			System.err.println("[DATABASE] No connection could be made to the database.");

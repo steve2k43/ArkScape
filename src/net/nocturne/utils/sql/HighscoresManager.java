@@ -1,5 +1,7 @@
 package net.nocturne.utils.sql;
 
+import net.nocturne.Settings;
+
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -31,8 +33,8 @@ public class HighscoresManager {
 
 				System.err.println("[HiScores] Beginning to process "
 						+ queue.size() + " queries.");
-				Database db = new Database("arctik.co.uk", "ArkScape",
-						"ArkScape", "arkscape");
+				Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+						Settings.MYSQL_PASS, "arkscape");
 
 				if (!db.init()) {
 					System.err

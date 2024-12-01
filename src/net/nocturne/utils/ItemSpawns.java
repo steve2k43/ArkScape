@@ -8,6 +8,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+import net.nocturne.Settings;
 import net.nocturne.game.World;
 import net.nocturne.game.WorldTile;
 import net.nocturne.game.item.Item;
@@ -20,8 +21,8 @@ public final class ItemSpawns {
 	}
 
 	private static final void loadSQLItemSpawns() {
-		Database db = new Database("arctik.co.uk", "ArkScape",
-				"ArkScape", "arkscape");
+		Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+				Settings.MYSQL_PASS, "arkscape");
 
 		if (!db.init()) {
 			System.err.println("[DATABASE] No connection could be made to the database.");
@@ -90,8 +91,8 @@ public final class ItemSpawns {
 
 	@SuppressWarnings("deprecation")
 	public static final void loadItemSpawns(int regionId) {
-		Database db = new Database("arctik.co.uk", "ArkScape",
-				"ArkScape", "arkscape");
+		Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+				Settings.MYSQL_PASS, "arkscape");
 
 		if (!db.init()) {
 			System.err.println("[DATABASE] No connection could be made to the database.");
@@ -116,8 +117,8 @@ public final class ItemSpawns {
 
 	private static final void addItemSpawn(int itemId, int regionId,
 			WorldTile tile) {
-		Database db = new Database("arctik.co.uk", "ArkScape",
-				"ArkScape", "arkscape");
+		Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+				Settings.MYSQL_PASS, "arkscape");
 
 		if (!db.init()) {
 			System.err.println("[DATABASE] No connection could be made to the database.");

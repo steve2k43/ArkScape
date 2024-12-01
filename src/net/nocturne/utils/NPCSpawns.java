@@ -7,6 +7,7 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
+import net.nocturne.Settings;
 import net.nocturne.game.World;
 import net.nocturne.game.WorldObject;
 import net.nocturne.game.WorldTile;
@@ -80,8 +81,8 @@ public final class NPCSpawns {
 		int count = 0;
 		try {
 			Connection conn = null;
-			Database db = new Database("arctik.co.uk", "ArkScape",
-					"ArkScape", "arkscape");
+			Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+					Settings.MYSQL_PASS, "arkscape");
 
 			if (!db.init()) {
 				System.err.println("[" +

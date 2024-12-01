@@ -1,5 +1,6 @@
 package net.nocturne.utils.sql.packers;
 
+import net.nocturne.Settings;
 import net.nocturne.cache.Cache;
 import net.nocturne.cache.loaders.NPCDefinitions;
 import net.nocturne.game.item.Item;
@@ -31,8 +32,8 @@ public class itemIdentifier2SQL {
 			 * BufferedWriter writer = new BufferedWriter(new FileWriter(PATH,
 			 * true));
 			 */
-			Database db = new Database("arctik.co.uk", "ArkScape",
-					"ArkScape", "arkscape");
+			Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+					Settings.MYSQL_PASS, "arkscape");
 
 			if (!db.init()) {
 				System.err.println("[DATABASE] No connection could be made to the database.");

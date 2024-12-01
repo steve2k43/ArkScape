@@ -1,5 +1,6 @@
 package net.nocturne.game.npc;
 
+import net.nocturne.Settings;
 import net.nocturne.cache.loaders.ItemDefinitions;
 import net.nocturne.game.player.Player;
 import net.nocturne.utils.Utils;
@@ -13,8 +14,8 @@ import java.util.List;
 public class DropTableNew {
 	private final static int INTERFACE = 1158;
 	public static void getDropTable(Player player, NPC npc) {
-		Database db = new Database("arctik.co.uk", "ArkScape",
-				"ArkScape", "npcdrops");
+		Database db = new Database(Settings.MYSQL_HOST, Settings.MYSQL_USER,
+				Settings.MYSQL_PASS, "npcdrops");
 
 		if (!db.init()) {
 			System.err.println("[DATABASE] No connection could be made to the database.");

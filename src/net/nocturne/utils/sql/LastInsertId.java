@@ -13,7 +13,7 @@ class LastInsertId {
         Connection con = null;
         Statement statement = null;
         ResultSet rs = null;
-        String url = "jdbc:mysql://arctik.co.uk:3306/";
+        String url = "jdbc:mysql://mysql.arctik.co.uk:3306/";
         String dbName = "bugs";
         String driverName = "com.mysql.jdbc.Driver";
         String userName = "ArkScape";
